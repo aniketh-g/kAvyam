@@ -236,7 +236,7 @@ details.mUla[open] > :not(summary) {
 ग्,अन्ते  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 गृ
 </details>
@@ -263,7 +263,7 @@ details.mUla[open] > :not(summary) {
 ध्र-आदि-परः  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 ग्
 </details>
@@ -290,7 +290,7 @@ details.mUla[open] > :not(summary) {
 हे  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 ग्
 </details>
@@ -556,7 +556,7 @@ details.mUla[open] > :not(summary) {
 साम्नाम्,द्विः  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 षट्
 </details>
@@ -588,7 +588,7 @@ details.mUla[open] > :not(summary) {
 ऋचाम्,त्रिः  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 षट्
 </details>
@@ -708,7 +708,7 @@ details.mUla[open] > :not(summary) {
 जह्यात्,आसुरी  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 एकैकम्
 </details>
@@ -794,7 +794,7 @@ details.mUla[open] > :not(summary) {
 प्राग्,यजुषाम्,आर्ष्यः,इति  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 तिस्रः-तिस्रः
 </details>
@@ -839,7 +839,7 @@ details.mUla[open] > :not(summary) {
 इयादिपूरणः  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 पादः
 </details>
@@ -866,7 +866,7 @@ details.mUla[open] > :not(summary) {
 गायत्र्या वसवः  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 पादः
 </details>
@@ -893,7 +893,7 @@ details.mUla[open] > :not(summary) {
 जगत्या आदित्याः  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 पादः
 </details>
@@ -920,7 +920,7 @@ details.mUla[open] > :not(summary) {
 विराजो दिशः  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 पादः
 </details>
@@ -947,7 +947,7 @@ details.mUla[open] > :not(summary) {
 त्रिष्टुभो रुद्राः  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 पादः
 </details>
@@ -1025,7 +1025,7 @@ details.mUla[open] > :not(summary) {
 क्वचित्त्रिपादृषिभिः  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 आद्यम्
 </details>
@@ -1053,7 +1053,7 @@ details.mUla[open] > :not(summary) {
 सा पादनिचृत्  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 आद्यम्
 </details>
@@ -1080,7 +1080,7 @@ details.mUla[open] > :not(summary) {
 षट्‌कसप्तकयोर्मध्येऽष्टावतिपाद‌निचृत्  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 आद्यम्
 </details>
@@ -1107,7 +1107,7 @@ details.mUla[open] > :not(summary) {
 द्दौ नवकौ षट्‌कश्च सा नागी  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 आद्यम्
 </details>
@@ -1134,7 +1134,7 @@ details.mUla[open] > :not(summary) {
 विपरीता वाराही  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 आद्यम्
 </details>
@@ -1161,7 +1161,7 @@ details.mUla[open] > :not(summary) {
 षट्‌कसप्तकाष्टकैर्वर्द्धमाना  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 आद्यम्
 </details>
@@ -1190,7 +1190,7 @@ details.mUla[open] > :not(summary) {
 विपरीता प्रतिष्ठा  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 आद्यम्
 </details>
@@ -1219,7 +1219,7 @@ details.mUla[open] > :not(summary) {
 तृतीयं द्विपाज्जागतगायत्राभ्याम्  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 आद्यम्
 </details>
@@ -1253,7 +1253,7 @@ details.mUla[open] > :not(summary) {
 त्रिपात्त्रै,ष्टुभैः  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 आद्यम्
 </details>
@@ -1310,7 +1310,7 @@ details.mUla[open] > :not(summary) {
 ककुम्मध्ये चेदन्त्यः  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 उष्णिक्
 </details>
@@ -1338,7 +1338,7 @@ details.mUla[open] > :not(summary) {
 पुरउष्णिक् पुरतः  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 उष्णिक्
 </details>
@@ -1367,7 +1367,7 @@ details.mUla[open] > :not(summary) {
 परोष्णिक् परः  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 उष्णिक्
 </details>
@@ -1397,7 +1397,7 @@ details.mUla[open] > :not(summary) {
 चतुष्पादृषिभिः  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 उष्णिक्
 </details>
@@ -1448,7 +1448,7 @@ details.mUla[open] > :not(summary) {
 त्रिपात् क्वचिज्जागताभ्याञ्च  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 अनुष्टुप्,गायत्रैः
 </details>
@@ -1475,7 +1475,7 @@ details.mUla[open] > :not(summary) {
 मध्येऽन्ते च  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 अनुष्टुप्
 </details>
@@ -1529,7 +1529,7 @@ details.mUla[open] > :not(summary) {
 पथ्या पूर्वश्च त्तृतीयः  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 बृहती
 </details>
@@ -1552,7 +1552,7 @@ details.mUla[open] > :not(summary) {
 न्यङ्गसारिणी द्वितीयः  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 बृहती
 </details>
@@ -1579,7 +1579,7 @@ details.mUla[open] > :not(summary) {
 स्कन्धोग्रीवी क्रौष्टुकेः  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 बृहती
 </details>
@@ -1606,7 +1606,7 @@ details.mUla[open] > :not(summary) {
 उरोवृद्धती यास्कस्य  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 बृहती
 </details>
@@ -1633,7 +1633,7 @@ details.mUla[open] > :not(summary) {
 उपरिष्टाद् वृहत्यन्ते  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 बृहती
 </details>
@@ -1662,7 +1662,7 @@ details.mUla[open] > :not(summary) {
 पुरस्ताद्वृहती पुरः  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 बृहती
 </details>
@@ -1689,7 +1689,7 @@ details.mUla[open] > :not(summary) {
 कचिन्नवकाश्चत्वारः  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 बृहती
 </details>
@@ -1717,7 +1717,7 @@ details.mUla[open] > :not(summary) {
 वैराजौ गायत्रौ च  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 बृहती
 </details>
@@ -1744,7 +1744,7 @@ details.mUla[open] > :not(summary) {
 चिभिर्जागतैर्महावृहती  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 बृहती
 </details>
@@ -1771,7 +1771,7 @@ details.mUla[open] > :not(summary) {
 सतोवृद्धती ताण्डिनः  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 बृहती
 </details>
@@ -1842,7 +1842,7 @@ details.mUla[open] > :not(summary) {
 विपरीतौ च  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 सतःपङ्क्तिः
 </details>
@@ -1956,7 +1956,7 @@ details.mUla[open] > :not(summary) {
 द्वावप्यल्पशः  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 पञ्चकाः,पङ्क्तिः
 </details>
@@ -1978,7 +1978,7 @@ details.mUla[open] > :not(summary) {
 पदपङ्क्तिः पञ्च  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 पञ्चकाः
 </details>
@@ -2000,7 +2000,7 @@ details.mUla[open] > :not(summary) {
 चतुष्कषट्‌कौ त्रयश्च  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 पञ्चकाः,पङ्क्तिः
 </details>
@@ -2022,7 +2022,7 @@ details.mUla[open] > :not(summary) {
 पथ्या पञ्चभिर्गायत्रैः  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 पङ्क्तिः
 </details>
@@ -2045,7 +2045,7 @@ details.mUla[open] > :not(summary) {
 जगती षड्भिः  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 गायत्रैः
 </details>
@@ -2067,7 +2067,7 @@ details.mUla[open] > :not(summary) {
 एकेन त्रिष्टुव् ज्योतिष्मती  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 गायत्रैः
 </details>
@@ -2106,7 +2106,7 @@ details.mUla[open] > :not(summary) {
 पुरस्ताज्ज्योतिः प्रथमेन  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 जगती,त्रिष्टुप्
 </details>
@@ -2128,7 +2128,7 @@ details.mUla[open] > :not(summary) {
 मध्येज्योतिर्मध्यमेन  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 जगती,त्रिष्टुप्
 </details>
@@ -2150,7 +2150,7 @@ details.mUla[open] > :not(summary) {
 उपरिष्टाज्ज्योतिरन्तेन  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 जगती,त्रिष्टुप्
 </details>
@@ -2629,7 +2629,7 @@ details.mUla[open] > :not(summary) {
 अत्रायुङ् न ज्  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 आर्या
 </details>
@@ -2651,7 +2651,7 @@ details.mUla[open] > :not(summary) {
 षष्ठो ज्  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 आर्या
 </details>
@@ -2677,7 +2677,7 @@ details.mUla[open] > :not(summary) {
 न्लौ वा  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 आर्या
 </details>
@@ -2701,7 +2701,7 @@ details.mUla[open] > :not(summary) {
 न्लौ चेत्पदं द्वितीयादि  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 आर्या
 </details>
@@ -2723,7 +2723,7 @@ details.mUla[open] > :not(summary) {
 सप्तमः प्रथमादि  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 आर्या
 </details>
@@ -2749,7 +2749,7 @@ details.mUla[open] > :not(summary) {
 अन्त्ये पञ्चमः  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 आर्या
 </details>
@@ -2773,7 +2773,7 @@ details.mUla[open] > :not(summary) {
 षष्ठश्च ल्  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 आर्या
 </details>
@@ -2795,7 +2795,7 @@ details.mUla[open] > :not(summary) {
 त्रिषु गणेषु पादः पथ्याद्ये च  
 </details>
 
-<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 आर्या
 </details>
