@@ -2,13 +2,23 @@
 title = "सर्व-प्रस्तुतिः"
 +++
 
+<style>
+details.mUla[open] > :not(summary) {
+  font-size: 1.5em;
+}
+
+</style>
+
 <details><summary>हलायुधवृत्तिः</summary>
 
-नमस्तुङ्गशिरश्चुम्बिचन्द्रचामरचारवे । त्रैलोक्यनगरारम्भमूलस्तम्भाय शम्भवे ॥ १ ॥  
-श्रीमत्पिङ्गलनागोक्तच्छन्दःशास्त्रमहोदधेः । वृत्तानि मौक्तिकानीव कानिचिदिचिनोम्यहम् ॥ २ ॥  
-वेदानां प्रथमाङ्गस्य कवीनां नयनस्य च । पिङ्गलाचार्यसूत्रस्य मया वृत्तिर्विधास्यते ॥ ३ ॥  
-क्षीराब्धेरमृतं यद्वदुद्धृतं देवदानवैः । छन्दोऽब्धेः पिङ्गलाचार्य्यच्छन्दोऽमृतं तथोद्धृतम् ॥ ४ ॥  
-इह हि त्रैवर्णिकानां साङ्गस्य वेदस्याध्ययनमान्नायते (२) अर्थावबोधपय्र्यन्तश्चाध्ययनविधिः । वेदाङ्गच्च छन्दः । ततस्तदद्ध्य-यनं विधिबोधितत्वादनुष्ठेयम् (२) । अथ अनुष्टुभा यजति हहत्या गायति गायत्त्रया स्तौतोत्येवमादिश्रवणादीन्वयायातमनुष्टु-बादिज्ञानम् । किञ्च, छन्दसामपरिज्ञानात् प्रत्युत (५) प्रत्यवायः श्रूयते । यथा। “यो ह वा अविदितार्षेयच्छन्दोदैवतविनियोगेन ब्राह्मणेन मन्त्रेण याजयति वाऽध्यापयति वा, स स्थाणुं वच्छति गर्त्त वा पद्यते वा प्रमीयते पापीयान् भवति यातयामान्यस्य च्छन्दांसि भवन्ति” इति च्छन्दोगब्राह्मणं (५) । तस्माच्छन्दः-परिज्ञानं कर्त्तव्यम् । तदर्थमिदं शास्त्रमारभ्यते । तत्र लघुनोपायेन शास्त्रावबोधसिद्धार्थ सञ्ज्ञाः परिभाषते सूत्रकारः (६) । 
+नमस्तुङ्गशिरश्चुम्बिचन्द्रचामरचारवे । त्रैलोक्यनगरारम्भमूलस्तम्भाय शम्भवे ॥ १ ॥ 
+श्रीमत्पिङ्गलनागोक्तच्छन्दःशास्त्रमहोदधेः । वृत्तानि मौक्तिकानीव कानिचिद्विचिनोम्यहम् ॥ २ ॥
+वेदानां प्रथमाङ्गस्य कवीनां नयनस्य च । पिङ्गलाचार्यसूत्रस्य मया वृत्तिर्विधास्यते ॥ ३ ॥
+क्षीराब्धेरमृतं यद्वद्धृतं देवैः सदानवैः । छन्दोऽब्धेः पिङ्गलाचार्यैश्छन्दोऽमृतं तथोद्धृतम् ॥ ४ ॥
+
+इह हि त्रैवर्णिकानां साङ्गवेदाध्ययनमाम्नायते। अर्थावबोधपर्यन्तश्चाध्ययनविधिः। वेदाङ्गं च छन्दः। ततस्तदध्ययनविधित्वात्तदनुष्ठेयम्‌। अथ 'त्रिष्टुभा यजति, बृहत्या गायति, गायत्र्या स्तौति' इत्येवमादिश्रवणात्‌ अर्थायातमनुष्टुभादिज्ञानम्‌। किं च छन्दसामपरिज्ञानात्प्रत्युत प्रत्यवायः श्रूयते। यथा- 'यो ह वा अविदितार्षेयच्छन्दोदैवतब्राह्मणेन मन्त्रेण याजयति वाध्यापयति वा स्थाणुं वर्च्छति गर्तं वा पद्यते वा म्रियते पापीयान्‌ भवति। यातयामान्यस्य छन्दांसि भवन्ति।' (छं०ब्रा० ३।७।५) तस्माच्छन्दोज्ञानं कर्तव्यं, तदर्थमिदं शास्त्रमारभ्यते।
+
+तथा लघुनोपायेन शास्त्रावबोधसिद्ध्यर्थं संज्ञाः परिभाषते सूत्रकारः —
 </details>
 
 ## 1
@@ -18,7 +28,7 @@ title = "सर्व-प्रस्तुतिः"
 संज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 धी श्री स्त्री म्  
 </details>
@@ -30,7 +40,7 @@ title = "सर्व-प्रस्तुतिः"
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-धी श्री स्त्रोत्यनेन गुरुत्त्रयं सञ् जित्वनोपलचयति, मकारञ्च सञ्ज्ञात्वेन । ततश्चायमर्थः, सर्व्वगुरास्त्रिकस्य मसञ्ज्ञा (१) परिभाष्यते । ध्यादीनामुपादानप्रयोजनमुपरिष्टाटु वक्ष्यामः । मप्रदेशाः “विद्युन्माला मौ गौ” इत्येवमादयः ॥  
+धीश्रीस्त्री इत्यनेन गुरुत्रयं संज्ञित्वेनोपलक्षयति, मकारश्च संज्ञात्वेन। ततश्चायमर्थः - सर्वगुरोस्त्रिकस्य (ऽऽऽ) 'म' इति संज्ञा परिभाष्यते। ध्यादीनामुपादानप्रयोजन[मुपरिष्टाद्वक्ष्यामः](#115)। मप्रदेशाः ['विद्युन्माला मौ गौ' (पि०सू० ६।६)](#66) इत्येवमादयः ॥
 </details>
 
 
@@ -40,7 +50,7 @@ title = "सर्व-प्रस्तुतिः"
 संज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 वरा सा य्  
 </details>
@@ -62,7 +72,7 @@ title = "सर्व-प्रस्तुतिः"
 संज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 का गुहा र् 
 </details>
@@ -84,7 +94,7 @@ title = "सर्व-प्रस्तुतिः"
 संज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 वसुधा स्  
 </details>
@@ -106,7 +116,7 @@ title = "सर्व-प्रस्तुतिः"
 संज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 सा ते क्व त्  
 </details>
@@ -128,7 +138,7 @@ title = "सर्व-प्रस्तुतिः"
 संज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 कदा स ज् 
 </details>
@@ -150,7 +160,7 @@ title = "सर्व-प्रस्तुतिः"
 संज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 किं वद भ्  
 </details>
@@ -172,7 +182,7 @@ title = "सर्व-प्रस्तुतिः"
 संज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 न हसन्  
 </details>
@@ -194,7 +204,7 @@ title = "सर्व-प्रस्तुतिः"
 संज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 गृल्  
 </details>
@@ -216,7 +226,7 @@ title = "सर्व-प्रस्तुतिः"
 संज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 गन्ते  
 </details>
@@ -226,7 +236,11 @@ title = "सर्व-प्रस्तुतिः"
 ग्,अन्ते  
 </details>
 
-अनुवृत्तिः = "गृ"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+गृ
+</details>
+  
 <details><summary>हलायुधवृत्तिः</summary>
 
 गृग्रहणमनुवर्त्तते । गृशब्दोपलक्षितस्य ह्रस्वाक्षरस्य पादान्ते वर्त्तमानस्य गुरुसञ्ज्ञाऽतिदिश्यते (१)। ग् इति प्रथमाचरप्रतीकेन गुरुशब्दस्य ग्रहणं (२) । ननु ग्लिति समानीत्यादीनां (४) पादान्ते वर्त्तमानस्य ह्रस्वस्य गुरुत्वं न दृश्यते । नैष दोषः । सर्वत्र पादान्ते वर्त्तमानस्य ह्रस्वस्य गुरुत्वमुत्सर्गसिद्धं । तच्च लकारश्रुत्यापवादेन बाध्यते । यथा । ग्लिति समानी, गोत्याय्या ल इत्यादौ सामान्यस्य विशेषेण बाधः कस्य न सम्मतः (*) । तस्मादचाद्यमेतत् (१)। केचिदिदं सूत्र व्यवस्थितविभाषया व्याचचते, प्रमाण्या-दौनामन्ते गुरुत्वमेव, समान्यादीनामन्त लघुत्वमेव, (१) शेषाणामिच्छ्या गुरुत्वं लघुत्वञ्चति । तदनुपपन्नं । विकल्प-स्याप्रस्तुतत्वात् कस्य व्यवस्थेति न विद्मः । ननु केनापक्तिं, "वा पादान्ते गुरु" इति (२) गुरुत्वं । सत्यमुक्तं । दुरुक्त हि तत् । वान्ते गुरु इति (२) प्रोक्त' यैस्तु खेतपदादिभिः । उत्सर्गस्यापवादेन बाधस्तैर्नावधारितः ॥ इत्युक्ते इच्छया गुरुत्वं लघुत्वञ्च नोपपद्यते । कस्येच्छया, किं शास्त्रकारस्य कवेर्वा । न तावदाद्यः पचः । सूत्रेष्वदर्शनात् । नापि द्वितीयः । कवे-रपि इच्छायां (४) व्यवस्थाभावात्, को जानाति कस्य कीदृशी-च्छेति । अन्ये त्वाहुः । ननु पादान्ते वर्त्तमानस्य ह्रस्वस्य पाणि-निना गुरुसञ्ज्ञा न कृता । तेनोक्त' "संयोगे गुरु, दीर्घच्च" (१।४।११-१२) इति । नायं संयोगादिर्न च दीर्घः । तस्मात् गन्त इति सूत्रमयुक्तः । अत्रोच्यते । पाणिनिना स्वशास्त्रप्रयो-जनार्थ गुरुसञ्ज्ञा कृता । "गुरोश्च हलः" (३।३।१०३) इत्यकारः प्रत्ययो यथा स्यात् । कुण्डा हुण्डा ईहाञ्चक्रे जहा-ञ्चक्र इत्येवमादीनां "इजादेश्च गुरुमतोनृच्छः" इति (३।१।३६ ) सूत्रेणाम्प्रत्ययश्च (५) । पादान्ते वर्त्तमानस्य लघोर्गुरुत्वाति-देशे पाणिनेः प्रयोजनमेव नास्ति । किञ्चानुस्वारादिपूर्वस्य वर्णस्य वनं घटः सम्पदित्यादौ स्थितस्य गुरुसञ्ज्ञा पाणिनिना न कृता, किमेतावता अन्यैरपि न कर्त्तव्या । तस्मात् सूत्रमिदं " गन्ते " इति । गप्रदेशाः "गावन्त आपोडः” इत्येवमादयः ॥  
@@ -239,7 +253,7 @@ title = "सर्व-प्रस्तुतिः"
 संज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 ध्रादिपरः  
 </details>
@@ -249,7 +263,11 @@ title = "सर्व-प्रस्तुतिः"
 ध्र-आदि-परः  
 </details>
 
-अनुवृत्तिः = "ग्"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+ग्
+</details>
+  
 <details><summary>हलायुधवृत्तिः</summary>
 
 ध्र इति व्यञ्जनसंयोगस्योपलचणम् । ध्र आदिर्येषां ते भ्राद्यः । 'आदि'पदेन विसर्जनीयानुस्वारजिह्वामूलीयोप-मानीयानां ग्रहणं । भ्रादयः परे यस्मात् सः घ्रादिपरः । ततश्चायं सूत्रार्थः, व्यञ्जनसंयोगात् पूर्व्वस्य इस्त्रस्य (१) अनुस्वारविसर्जनीयजिह्वामूलीयोपध्मानीयेभ्यश्च गुरुसञ् ज्ञाति-दिश्यते ॥  
@@ -262,7 +280,7 @@ title = "सर्व-प्रस्तुतिः"
 संज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 हे  
 </details>
@@ -272,7 +290,11 @@ title = "सर्व-प्रस्तुतिः"
 हे  
 </details>
 
-अनुवृत्तिः = "ग्"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+ग्
+</details>
+  
 <details><summary>हलायुधवृत्तिः</summary>
 
 ग इत्यनुवर्त्तते । हे इति द्दिमात्रोपलणार्थ ं । ततञ्चायं मूत्रा-र्थः, डिमात्रस्य (९) दीर्घस्य गकारसञ्ज्ञा क्रियते ॥  
@@ -280,7 +302,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 1.13  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 लौ सः  
 </details>
@@ -302,7 +324,7 @@ title = "सर्व-प्रस्तुतिः"
 अधिकारः  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 ग्लौ  
 </details>
@@ -314,7 +336,7 @@ title = "सर्व-प्रस्तुतिः"
 
 <details><summary>अधिकारः</summary>
 
-ग्लौ  
+[ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -324,7 +346,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 1.15  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 अष्टौ वसव इति  
 </details>
@@ -336,19 +358,12 @@ title = "सर्व-प्रस्तुतिः"
 
 <details><summary>अधिकारः</summary>
 
-ग्लौ  
+[ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-अत्र शास्त्रे वसव इत्युच्यमानेऽष्टस‌ङ्ख्योपलचिता गुरुलघु-स्वरूपा वर्णाः (१) ग्टह्यन्ते । लौकिकप्रसिडुरपलक्षणार्थमिदं सूत्रं । तेन चतुणीं समुद्राः, पञ्चानामिन्द्रियाणोत्येवमादयः सञ्ज्ञा-विशेषा लौकिकेभ्यः (२) प्रत्येतराः । 'इति'कारोऽध्यायसमाप्ति-सूचकः ॥  
-</details>
-
-## 2
-### 2.0 
-<details><summary>अधिकारः</summary>
-
-ग्लौ  
+अत्र शास्त्रे वसव इत्युच्यमानेऽष्टस‌ङ्ख्योपलचिता गुरुलघु-स्वरूपा वर्णाः (१) गृह्यन्ते । लौकिकप्रसिडुरपलक्षणार्थमिदं सूत्रं । तेन चतुणीं समुद्राः, पञ्चानामिन्द्रियाणोत्येवमादयः सञ्ज्ञा-विशेषा लौकिकेभ्यः (२) प्रत्येतराः । 'इति'कारोऽध्यायसमाप्ति-सूचकः ॥  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -361,6 +376,7 @@ title = "सर्व-प्रस्तुतिः"
 इति भट्टहलायुधक्कती छन्दोवृत्तौ (´^) प्रथमोऽध्यायः ॥ १ ॥  
 </details>
 
+## 2
 
 ### 2.1  
 <details><summary>सूत्रप्रकारः</summary>
@@ -368,7 +384,7 @@ title = "सर्व-प्रस्तुतिः"
 अधिकारः  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 छन्दः  
 </details>
@@ -380,7 +396,7 @@ title = "सर्व-प्रस्तुतिः"
 
 <details><summary>अधिकारः</summary>
 
-छन्दः, ग्लौ  
+[छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -395,7 +411,7 @@ title = "सर्व-प्रस्तुतिः"
 अधिकारः  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 गायत्री  
 </details>
@@ -407,12 +423,12 @@ title = "सर्व-प्रस्तुतिः"
 
 <details><summary>अधिकारः</summary>
 
-गायत्री, छन्दः, ग्लौ  
+[गायत्री](#22), [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-अधिकारोऽयमाद्वादशसूत्रपरिसमाप्तेः । "तान्युष्णिग्" इत्यादिसूत्रात् (१) प्राक् यदुच्यते छन्दः, तद् गायत्रीसञ्ज्ञं वेदितव्यम् ॥  
+अधिकारोऽयमाद्वादशसूत्रपरिसमाप्तेः । "तान्युष्णिग्" इत्यादिसूत्रात् (१) प्राक् यदुच्यते [छन्दः](#21), तद् गायत्रीसञ्ज्ञं वेदितव्यम् ॥  
 </details>
 
 
@@ -422,7 +438,7 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 दैव्येकम्  
 </details>
@@ -434,7 +450,7 @@ title = "सर्व-प्रस्तुतिः"
 
 <details><summary>अधिकारः</summary>
 
-गायत्री, छन्दः, ग्लौ  
+[गायत्री](#22), [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -449,7 +465,7 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 आसुरी पञ्चदश  
 </details>
@@ -461,7 +477,7 @@ title = "सर्व-प्रस्तुतिः"
 
 <details><summary>अधिकारः</summary>
 
-गायत्री, छन्दः, ग्लौ  
+[गायत्री](#22), [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -476,7 +492,7 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 प्राजापत्याऽष्टौ  
 </details>
@@ -488,7 +504,7 @@ title = "सर्व-प्रस्तुतिः"
 
 <details><summary>अधिकारः</summary>
 
-गायत्री, छन्दः, ग्लौ  
+[गायत्री](#22), [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -503,7 +519,7 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 यजुषां षट्  
 </details>
@@ -515,7 +531,7 @@ title = "सर्व-प्रस्तुतिः"
 
 <details><summary>अधिकारः</summary>
 
-गायत्री, छन्दः, ग्लौ  
+[गायत्री](#22), [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -530,7 +546,7 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 साम्नां द्विः  
 </details>
@@ -540,15 +556,19 @@ title = "सर्व-प्रस्तुतिः"
 साम्नाम्,द्विः  
 </details>
 
-अनुवृत्तिः = "षट्"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+षट्
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-गायत्री, छन्दः, ग्लौ  
+[गायत्री](#22), [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-षडित्यनुवर्त्तते । द्विरितिक्रियाभ्यावृत्तिदर्शनात् करोति-रध्याक्रियते (१) । तेन द्विःकता द्विगुणिता षट्सङ्ख्या साम्नां गायत्री भवति । यत्र कचिदु वेदे द्वादशाचरं छन्दः, तत् साम्नां गायत्रोति सञ्जायते । तत्त्र षष्ठंगा (२) पङ्‌क्तौ प्रथमे कोष्ठे सामशब्दं लिखित्वा द्वितीये द्वादशसङ्ख्याङ्क' लिखेत् ॥  
+षडित्यनुवर्त्तते । द्विरितिक्रियाभ्यावृत्तिदर्शनात् करोति-रध्याक्रियते (१) । तेन द्विःकता द्विगुणिता षट्सङ्ख्या साम्नां गायत्री भवति । यत्र कचिदु वेदे द्वादशाचरं [छन्दः](#21), तत् साम्नां गायत्रोति सञ्जायते । तत्त्र षष्ठंगा (२) पङ्‌क्तौ प्रथमे कोष्ठे सामशब्दं लिखित्वा द्वितीये द्वादशसङ्ख्याङ्क' लिखेत् ॥  
 </details>
 
 
@@ -558,7 +578,7 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 ऋचां त्रिः  
 </details>
@@ -568,10 +588,14 @@ title = "सर्व-प्रस्तुतिः"
 ऋचाम्,त्रिः  
 </details>
 
-अनुवृत्तिः = "षट्"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+षट्
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-गायत्री, छन्दः, ग्लौ  
+[गायत्री](#22), [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -581,7 +605,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 2.9  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 द्वौ द्वौ साम्नां वर्धेत  
 </details>
@@ -593,7 +617,7 @@ title = "सर्व-प्रस्तुतिः"
 
 <details><summary>अधिकारः</summary>
 
-गायत्री, छन्दः, ग्लौ  
+[गायत्री](#22), [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -603,7 +627,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 2.10  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 त्रींस्त्रीनृचाम्  
 </details>
@@ -615,7 +639,7 @@ title = "सर्व-प्रस्तुतिः"
 
 <details><summary>अधिकारः</summary>
 
-गायत्री, छन्दः, ग्लौ  
+[गायत्री](#22), [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -625,7 +649,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 2.11  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 चतुरश्चतुरः प्राजापत्यायाः  
 </details>
@@ -637,7 +661,7 @@ title = "सर्व-प्रस्तुतिः"
 
 <details><summary>अधिकारः</summary>
 
-गायत्री, छन्दः, ग्लौ  
+[गायत्री](#22), [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -647,7 +671,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 2.12  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 एकैकं शेषे  
 </details>
@@ -659,7 +683,7 @@ title = "सर्व-प्रस्तुतिः"
 
 <details><summary>अधिकारः</summary>
 
-गायत्री, छन्दः, ग्लौ  
+[गायत्री](#22), [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -674,7 +698,7 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 जह्यादासुरी  
 </details>
@@ -684,10 +708,14 @@ title = "सर्व-प्रस्तुतिः"
 जह्यात्,आसुरी  
 </details>
 
-अनुवृत्तिः = "एकैकम्"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+एकैकम्
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-गायत्री, छन्दः, ग्लौ  
+[गायत्री](#22), [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -702,7 +730,7 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 तान्युष्णिगनुष्टुब्-बृहती-पङ्क्ति-त्रिष्टुब्-जगत्यः  
 </details>
@@ -714,7 +742,7 @@ title = "सर्व-प्रस्तुतिः"
 
 <details><summary>अधिकारः</summary>
 
-छन्दः, ग्लौ  
+[छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -729,7 +757,7 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 तिस्रस्तिस्रः सनाम्नन्य एकैका ब्राह्म्यः  
 </details>
@@ -741,7 +769,7 @@ title = "सर्व-प्रस्तुतिः"
 
 <details><summary>अधिकारः</summary>
 
-छन्दः, ग्लौ  
+[छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -756,7 +784,7 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 प्राग् यजुषामार्ष्य इति  
 </details>
@@ -766,10 +794,14 @@ title = "सर्व-प्रस्तुतिः"
 प्राग्,यजुषाम्,आर्ष्यः,इति  
 </details>
 
-अनुवृत्तिः = "तिस्रः-तिस्रः"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+तिस्रः-तिस्रः
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-छन्दः, ग्लौ  
+[छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -780,7 +812,7 @@ title = "सर्व-प्रस्तुतिः"
 
 ## 3
 ### 3.1  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 पादः  
 </details>
@@ -792,7 +824,7 @@ title = "सर्व-प्रस्तुतिः"
 
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -802,15 +834,19 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 3.2  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 इयादिपूरणः  
 </details>
 
-अनुवृत्तिः = "पादः"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+पादः
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -825,15 +861,19 @@ title = "सर्व-प्रस्तुतिः"
 परिभाषा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 गायत्र्या वसवः  
 </details>
 
-अनुवृत्तिः = "पादः"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+पादः
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -848,15 +888,19 @@ title = "सर्व-प्रस्तुतिः"
 परिभाषा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 जगत्या आदित्याः  
 </details>
 
-अनुवृत्तिः = "पादः"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+पादः
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -871,15 +915,19 @@ title = "सर्व-प्रस्तुतिः"
 परिभाषा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 विराजो दिशः  
 </details>
 
-अनुवृत्तिः = "पादः"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+पादः
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -894,15 +942,19 @@ title = "सर्व-प्रस्तुतिः"
 परिभाषा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 त्रिष्टुभो रुद्राः  
 </details>
 
-अनुवृत्तिः = "पादः"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+पादः
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -917,14 +969,14 @@ title = "सर्व-प्रस्तुतिः"
 परिभाषा?  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 एकद्वित्रिचतुष्पादुक्तपादम्  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -939,7 +991,7 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 आद्यं चतुष्पादृतुभिः  
 </details>
@@ -951,7 +1003,7 @@ title = "सर्व-प्रस्तुतिः"
 
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -968,15 +1020,19 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 क्वचित्त्रिपादृषिभिः  
 </details>
 
-अनुवृत्तिः = "आद्यम्"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+आद्यम्
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -992,15 +1048,19 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 सा पादनिचृत्  
 </details>
 
-अनुवृत्तिः = "आद्यम्"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+आद्यम्
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1015,15 +1075,19 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 षट्‌कसप्तकयोर्मध्येऽष्टावतिपाद‌निचृत्  
 </details>
 
-अनुवृत्तिः = "आद्यम्"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+आद्यम्
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1038,20 +1102,24 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 द्दौ नवकौ षट्‌कश्च सा नागी  
 </details>
 
-अनुवृत्तिः = "आद्यम्"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+आद्यम्
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-आद्यौ (९) हौ नवाक्षरी पादौ, तृतीयः षड़क्षरः, एवं त्रिपात् या गायत्री, सा नागोत्युच्यते (१) ॥  
+आद्यौ (९) हौ नवाक्षरी पादौ, तृतीयः षड़क्षरः, एवं त्रिपात् या [गायत्री](#22), सा नागोत्युच्यते (१) ॥  
 </details>
 
 
@@ -1061,20 +1129,24 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 विपरीता वाराही  
 </details>
 
-अनुवृत्तिः = "आद्यम्"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+आद्यम्
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-इयमेव नागी गायत्री, विपरीता सती, वाराही नाम (४) भवति । प्रथमः षड़चरः, (५) द्वितीयटतोयौ नवाक्षरौ ॥  
+इयमेव नागी [गायत्री](#22), विपरीता सती, वाराही नाम (४) भवति । प्रथमः षड़चरः, (५) द्वितीयटतोयौ नवाक्षरौ ॥  
 </details>
 
 
@@ -1084,15 +1156,19 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 षट्‌कसप्तकाष्टकैर्वर्द्धमाना  
 </details>
 
-अनुवृत्तिः = "आद्यम्"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+आद्यम्
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1109,15 +1185,19 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 विपरीता प्रतिष्ठा  
 </details>
 
-अनुवृत्तिः = "आद्यम्"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+आद्यम्
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1134,15 +1214,19 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 तृतीयं द्विपाज्जागतगायत्राभ्याम्  
 </details>
 
-अनुवृत्तिः = "आद्यम्"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+आद्यम्
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1159,7 +1243,7 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 त्रिपात्त्रैष्टुभैः  
 </details>
@@ -1169,10 +1253,14 @@ title = "सर्व-प्रस्तुतिः"
 त्रिपात्त्रै,ष्टुभैः  
 </details>
 
-अनुवृत्तिः = "आद्यम्"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+आद्यम्
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1190,7 +1278,7 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 उष्णिग्गायत्रौ जागतश्च  
 </details>
@@ -1202,7 +1290,7 @@ title = "सर्व-प्रस्तुतिः"
 
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1217,15 +1305,19 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 ककुम्मध्ये चेदन्त्यः  
 </details>
 
-अनुवृत्तिः = "उष्णिक्"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+उष्णिक्
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1241,15 +1333,19 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 पुरउष्णिक् पुरतः  
 </details>
 
-अनुवृत्तिः = "उष्णिक्"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+उष्णिक्
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1266,20 +1362,24 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 परोष्णिक् परः  
 </details>
 
-अनुवृत्तिः = "उष्णिक्"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+उष्णिक्
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-जागतः (१) पादः परखेदु भवति, पूर्वी च गायत्री, (१) तदा परोष्णिक् नाम भवति (४)। ""उष्णिग्‌गायत्री जागतश्च” (३।१८) इत्यनेन गतार्थमेतत्, विशेषसञ्जा-विधानार्थ पुनरुच्चते ।  
+जागतः (१) पादः परखेदु भवति, पूर्वी च [गायत्री](#22), (१) तदा परोष्णिक् नाम भवति (४)। ""उष्णिग्‌गायत्री जागतश्च” (३।१८) इत्यनेन गतार्थमेतत्, विशेषसञ्जा-विधानार्थ पुनरुच्चते ।  
 प्रथमसूत्रे उष्णिग्ग्रहणमधिकारार्थम् ॥ तत्रोदाहरणम् ।  
 * अग्ने॒ वाज॑स्य॒ गोम॑त ईशानः सहसो यचो । अस्मे धेहि जातवेदो महि श्रवः ॥ चऋ०।१म०।१३०।  
   ७८सू० ॥४॥  
@@ -1292,15 +1392,19 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 चतुष्पादृषिभिः  
 </details>
 
-अनुवृत्तिः = "उष्णिक्"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+उष्णिक्
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 
@@ -1315,19 +1419,19 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 अनुष्टब् गायत्रैः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-चतुष्पादित्यनुवर्त्तते । 'गायचेः' अष्टाक्षरै पादैः, चतुष्या च्छन्दः, अनुष्टुप्सञ्ज्ञं भवति । तत्रोदाहरणम् ।  
+चतुष्पादित्यनुवर्त्तते । 'गायचेः' अष्टाक्षरै पादैः, चतुष्या च्[छन्दः](#21), अनुष्टुप्सञ्ज्ञं भवति । तत्रोदाहरणम् ।  
 * गाय॑न्ति त्वा गायत्रिणोऽर्च॑न्त्य॒र्कम॒र्किणः॑ ।  
   ब्रह्माण॑स्त्त्वा शतक्रत॒ उद्वं॒शमि॑व येमिरे ॥ ऋ०। १म०। ३०० १०सू ॥ १ ॥ (१)  
 </details>
@@ -1339,15 +1443,19 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 त्रिपात् क्वचिज्जागताभ्याञ्च  
 </details>
 
-अनुवृत्तिः = "अनुष्टुप्,गायत्रैः"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+अनुष्टुप्,गायत्रैः
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1362,15 +1470,19 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 मध्येऽन्ते च  
 </details>
 
-अनुवृत्तिः = "अनुष्टुप्"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+अनुष्टुप्
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1390,14 +1502,14 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 वृहती जागतस्त्रयश्च गायत्राः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1412,15 +1524,19 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 पथ्या पूर्वश्च त्तृतीयः  
 </details>
 
-अनुवृत्तिः = "बृहती"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+बृहती
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
  
@@ -1431,15 +1547,19 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 न्यङ्गसारिणी द्वितीयः  
 </details>
 
-अनुवृत्तिः = "बृहती"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+बृहती
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1454,15 +1574,19 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 स्कन्धोग्रीवी क्रौष्टुकेः  
 </details>
 
-अनुवृत्तिः = "बृहती"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+बृहती
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1477,15 +1601,19 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 उरोवृद्धती यास्कस्य  
 </details>
 
-अनुवृत्तिः = "बृहती"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+बृहती
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1500,15 +1628,19 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 उपरिष्टाद् वृहत्यन्ते  
 </details>
 
-अनुवृत्तिः = "बृहती"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+बृहती
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1525,15 +1657,19 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 पुरस्ताद्वृहती पुरः  
 </details>
 
-अनुवृत्तिः = "बृहती"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+बृहती
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1548,15 +1684,19 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 कचिन्नवकाश्चत्वारः  
 </details>
 
-अनुवृत्तिः = "बृहती"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+बृहती
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1572,20 +1712,24 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 वैराजौ गायत्रौ च  
 </details>
 
-अनुवृत्तिः = "बृहती"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+बृहती
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यत्र वैराजो पादौ, पूर्वी, दशाक्षरी भवतः, ततो गायत्री, च सापि (१) वृहती ॥  
+यत्र वैराजो पादौ, पूर्वी, दशाक्षरी भवतः, ततो [गायत्री](#22), च सापि (१) वृहती ॥  
 </details>
 
 
@@ -1595,15 +1739,19 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 चिभिर्जागतैर्महावृहती  
 </details>
 
-अनुवृत्तिः = "बृहती"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+बृहती
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1618,15 +1766,19 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 सतोवृद्धती ताण्डिनः  
 </details>
 
-अनुवृत्तिः = "बृहती"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+बृहती
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1641,14 +1793,14 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 प‌ङ्क्तिजीगतौ गायत्री च  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1663,14 +1815,14 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 पूर्वौ चेदयुजौ सतःपङ्क्तिः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1685,15 +1837,19 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 विपरीतौ च  
 </details>
 
-अनुवृत्तिः = "सतःपङ्क्तिः"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+सतःपङ्क्तिः
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1712,7 +1868,7 @@ title = "सर्व-प्रस्तुतिः"
 "  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1727,14 +1883,14 @@ title = "सर्व-प्रस्तुतिः"
 सञ्ज्ञा  
 </details>
 
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 प्रस्तारपङक्तिः पुरतः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1744,14 +1900,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 3.42  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 विष्टारपङ क्तिरन्तः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1761,14 +1917,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 3.43  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 संस्तारप‌ङ्क्तिर्वहिः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1778,32 +1934,36 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 3.44  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 अक्षरपङ्क्तिः पञ्चकाश्चत्वारः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-पञ्चाचरैचतुर्भिः पादैरतरप‌ङ्क्तिर्नाम च्छन्दः । ननु चत्वा-रिंशदक्षरा प‌ङ्क्तिच्छन्दः, तत् कथं पञ्चकाश्चत्वार इत्युच्यते । तत्वोत्तरम् । "हावप्यल्पशः" (३।४५) इत्यस्मात् सिंहावलोकित न्यायेनाल्यग्रहणमनुवर्त्तते, तेन पङ्क्तेरल्पत्वं विशेषात् प्रतिपादितं भवति ॥  
+पञ्चाचरैचतुर्भिः पादैरतरप‌ङ्क्तिर्नाम च्छन्दः । ननु चत्वा-रिंशदक्षरा प‌ङ्क्तिच्[छन्दः](#21), तत् कथं पञ्चकाश्चत्वार इत्युच्यते । तत्वोत्तरम् । "हावप्यल्पशः" (३।४५) इत्यस्मात् सिंहावलोकित न्यायेनाल्यग्रहणमनुवर्त्तते, तेन पङ्क्तेरल्पत्वं विशेषात् प्रतिपादितं भवति ॥  
 </details>
 
 
 ### 3.45  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 द्वावप्यल्पशः  
 </details>
 
-अनुवृत्तिः = "पञ्चकाः,पङ्क्तिः"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+पञ्चकाः,पङ्क्तिः
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1813,15 +1973,19 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 3.46  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 पदपङ्क्तिः पञ्च  
 </details>
 
-अनुवृत्तिः = "पञ्चकाः"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+पञ्चकाः
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1831,15 +1995,19 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 3.47  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 चतुष्कषट्‌कौ त्रयश्च  
 </details>
 
-अनुवृत्तिः = "पञ्चकाः,पङ्क्तिः"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+पञ्चकाः,पङ्क्तिः
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1849,15 +2017,19 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 3.48  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 पथ्या पञ्चभिर्गायत्रैः  
 </details>
 
-अनुवृत्तिः = "पङ्क्तिः"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+पङ्क्तिः
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1868,15 +2040,19 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 3.49  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 जगती षड्भिः  
 </details>
 
-अनुवृत्तिः = "गायत्रैः"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+गायत्रैः
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1886,15 +2062,19 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 3.50  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 एकेन त्रिष्टुव् ज्योतिष्मती  
 </details>
 
-अनुवृत्तिः = "गायत्रैः"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+गायत्रैः
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1904,14 +2084,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 3.51  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 तथा जगती  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1921,15 +2101,19 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 3.52  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 पुरस्ताज्ज्योतिः प्रथमेन  
 </details>
 
-अनुवृत्तिः = "जगती,त्रिष्टुप्"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+जगती,त्रिष्टुप्
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1939,33 +2123,41 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 3.53  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 मध्येज्योतिर्मध्यमेन  
 </details>
 
-अनुवृत्तिः = "जगती,त्रिष्टुप्"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+जगती,त्रिष्टुप्
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यदा मध्यमस्वैष्टुभः पादो भवति, उभयतश्च हौ हौ गायत्री, तदा मध्येज्योतिर्नाम त्रिष्टुव् भवति । मध्येज्योतिरित्यलुक्-समासः । तथा जगतीत्यनुवर्त्तनीयं । तेन मध्यमेन जागतेन उभयतच हौ हो गायत्रो (२) तदा मध्येज्योतिर्नाम जगती भवति (९) ॥  
+यदा मध्यमस्वैष्टुभः पादो भवति, उभयतश्च हौ हौ [गायत्री](#22), तदा मध्येज्योतिर्नाम त्रिष्टुव् भवति । मध्येज्योतिरित्यलुक्-समासः । तथा जगतीत्यनुवर्त्तनीयं । तेन मध्यमेन जागतेन उभयतच हौ हो गायत्रो (२) तदा मध्येज्योतिर्नाम जगती भवति (९) ॥  
 </details>
 
 
 ### 3.54  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 उपरिष्टाज्ज्योतिरन्तेन  
 </details>
 
-अनुवृत्तिः = "जगती,त्रिष्टुप्"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+जगती,त्रिष्टुप्
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1975,14 +2167,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 3.55  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 एकस्मिन् पञ्चके छन्दः शङ्कुमती  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -1992,14 +2184,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 3.56  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 षट्‌के ककुम्मती  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2009,14 +2201,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 3.57  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 त्रिपा‌दणिष्ठमध्या पिपीलिकमध्या  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2026,14 +2218,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 3.58  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 विपरीता यवमध्या  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2043,31 +2235,31 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 3.59  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 ऊनाधिकेनैकेन (*) निवृड्ङ्गुरिजौ  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-चतुर्विंशत्यक्षरा गायत्री, एकेनाचरेण न्यूनेन, सा निव-दिति विशेषसञ्ज्ञां लभते । एकेनाधिकेन भुरिगिति । एव-मुष्णिगादिष्वपि द्रष्टव्यम् ॥  
+चतुर्विंशत्यक्षरा [गायत्री](#22), एकेनाचरेण न्यूनेन, सा निव-दिति विशेषसञ्ज्ञां लभते । एकेनाधिकेन भुरिगिति । एव-मुष्णिगादिष्वपि द्रष्टव्यम् ॥  
 </details>
 
 
 ### 3.60  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 द्वाभ्यां विराट्‌स्वराजौ  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2077,14 +2269,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 3.61  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 आदितः सन्दिग्धे  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2094,14 +2286,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 3.62  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 देवतादितश्च  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2111,31 +2303,31 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 3.63  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 अग्निः सविता सोमो वृहस्पतिर्वरुण इन्द्रो विश्वेदेवाः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-गायचादीनां जगतीपर्यन्तानां यथाक्रममग्न्याट्यो देवता वेदितव्याः । तत्र सन्दिग्धे छन्दसि, यदाऽऽग्नेयं तदा गायत्री, यदि सावित्रं तदोष्णिक् । एवं सर्व्वत्र । वैदिकेष्वेव छन्दःसु निष्ट-इरिजौ, तथा विराट्स्वराजौ दृश्येते, न लौकिकेषु । अतो लौकि केषु (१) सन्देहाभावानिर्णयनिमित्तभूता देवतादयो नेष्यन्ते ।  
+गायचादीनां जगतीपर्यन्तानां यथाक्रममग्न्याट्यो देवता वेदितव्याः । तत्र सन्दिग्धे छन्दसि, यदाऽऽग्नेयं तदा [गायत्री](#22), यदि सावित्रं तदोष्णिक् । एवं सर्व्वत्र । वैदिकेष्वेव छन्दःसु निष्ट-इरिजौ, तथा विराट्स्वराजौ दृश्येते, न लौकिकेषु । अतो लौकि केषु (१) सन्देहाभावानिर्णयनिमित्तभूता देवतादयो नेष्यन्ते ।  
 </details>
 
 
 ### 3.64  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 स्वराः षड्जादयः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2145,14 +2337,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 3.65  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 सित-सारङ्ग-पिसङ्ग-कृष्ण-नील लोहित-गौरा वर्णाः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2162,14 +2354,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 3.66  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 आग्निवेश्य-काश्यप-गौतमाङ्गिरस-भार्गव कौशिक-वाशिष्ठानि गोत्राणि इति  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-पादः, छन्दः, ग्लौ  
+पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2181,14 +2373,14 @@ title = "सर्व-प्रस्तुतिः"
 
 ## 4
 ### 4.1  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 चतुःशतमुत्कृतिः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-छन्दः, ग्लौ  
+[छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2198,14 +2390,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.2  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 चतुरश्चतुरस्त्यजेदुत्कृतेः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-छन्दः, ग्लौ  
+[छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2215,14 +2407,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.3  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 तान्यभिसंव्याप्रेभ्यः कृतिः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-छन्दः, ग्लौ  
+[छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2232,14 +2424,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.4  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 प्रकृत्या च  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-छन्दः, ग्लौ  
+[छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2249,14 +2441,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.5  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 धुत्यष्टि-शर्करी जगत्यः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-छन्दः, ग्लौ  
+[छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2266,14 +2458,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.6  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 पृथक् पृथक् पूर्वत एतान्येवैषाम्  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-छन्दः, ग्लौ  
+[छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2283,14 +2475,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.7  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 द्वितीयं द्वितीयमतितः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-छन्दः, ग्लौ  
+[छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2300,14 +2492,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.8  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 अत्र लौकिकम्  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-लौकिकम्, छन्दः, ग्लौ  
+लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2317,14 +2509,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.9  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 आत्रैष्टुभाच्च यदार्षम्  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-लौकिकम्, छन्दः, ग्लौ  
+लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2334,14 +2526,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.10  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 पादश्चतुर्भागः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-लौकिकम्, छन्दः, ग्लौ  
+लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2351,14 +2543,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.11  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 यथावृत्तसमाप्तिवी  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-लौकिकम्, छन्दः, ग्लौ  
+लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2370,14 +2562,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.12  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 लः समुद्रा गणः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-लौकिकम्, छन्दः, ग्लौ  
+लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2387,14 +2579,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.13  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 गौ गन्तमध्यादिर्लश्च  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-लौकिकम्, छन्दः, ग्लौ  
+लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2404,14 +2596,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.14  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 स्वरा अर्धञ्चार्य्यार्द्धम्  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-लौकिकम्, छन्दः, ग्लौ  
+लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2432,15 +2624,19 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.15  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 अत्रायुङ् न ज्  
 </details>
 
-अनुवृत्तिः = "आर्या"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+आर्या
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-लौकिकम्, छन्दः, ग्लौ  
+लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2450,15 +2646,19 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.16  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 षष्ठो ज्  
 </details>
 
-अनुवृत्तिः = "आर्या"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+आर्या
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-लौकिकम्, छन्दः, ग्लौ  
+लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2472,15 +2672,19 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.17  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 न्लौ वा  
 </details>
 
-अनुवृत्तिः = "आर्या"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+आर्या
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-लौकिकम्, छन्दः, ग्लौ  
+लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2492,15 +2696,19 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.18  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 न्लौ चेत्पदं द्वितीयादि  
 </details>
 
-अनुवृत्तिः = "आर्या"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+आर्या
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-लौकिकम्, छन्दः, ग्लौ  
+लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2510,15 +2718,19 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.19  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 सप्तमः प्रथमादि  
 </details>
 
-अनुवृत्तिः = "आर्या"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+आर्या
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-लौकिकम्, छन्दः, ग्लौ  
+लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2532,15 +2744,19 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.20  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 अन्त्ये पञ्चमः  
 </details>
 
-अनुवृत्तिः = "आर्या"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+आर्या
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-लौकिकम्, छन्दः, ग्लौ  
+लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2552,15 +2768,19 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.21  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 षष्ठश्च ल्  
 </details>
 
-अनुवृत्तिः = "आर्या"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+आर्या
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-लौकिकम्, छन्दः, ग्लौ  
+लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2570,15 +2790,19 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.22  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 त्रिषु गणेषु पादः पथ्याद्ये च  
 </details>
 
-अनुवृत्तिः = "आर्या"  
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
+
+आर्या
+</details>
+  
 <details><summary>अधिकारः</summary>
 
-लौकिकम्, छन्दः, ग्लौ  
+लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2591,14 +2815,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.23  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 विपुलान्या  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-लौकिकम्, छन्दः, ग्लौ  
+लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2622,14 +2846,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.24  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 चपला द्वितीयचतुर्थों ग्मध्ये जौ  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-लौकिकम्, छन्दः, ग्लौ  
+लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2639,14 +2863,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.25  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 पूर्वे मुखपूर्वा  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-लौकिकम्, छन्दः, ग्लौ  
+लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2664,14 +2888,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.26  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 जघनपूर्वेतरत्र  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-लौकिकम्, छन्दः, ग्लौ  
+लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2689,14 +2913,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.27  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 उभयोर्महाचपला  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-लौकिकम्, छन्दः, ग्लौ  
+लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2711,14 +2935,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.28  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 आद्यर्धसमा गीतिः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-लौकिकम्, छन्दः, ग्लौ  
+लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2739,14 +2963,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.29  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 अन्त्येनोपगीतिः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-लौकिकम्, छन्दः, ग्लौ  
+लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2767,14 +2991,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.30  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 उत्क्रमेणोद्‌गीतिः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-लौकिकम्, छन्दः, ग्लौ  
+लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2795,14 +3019,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.31  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 अर्धे वसुगण' आर्यागीतिः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-लौकिकम्, छन्दः, ग्लौ  
+लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2824,14 +3048,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.32  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 वतालीयं द्विः स्वरा अयुक्पादे युग्वसवोऽन्ते र्ल्गः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-लौकिकम्, छन्दः, ग्लौ  
+लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2849,14 +3073,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.33  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 गौपच्छन्दसकम्  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-लौकिकम्, छन्दः, ग्लौ  
+लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2871,33 +3095,33 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.34  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 आपतालिका भ्गौ ग् 
 </details>
 
 <details><summary>अधिकारः</summary>
 
-लौकिकम्, छन्दः, ग्लौ  
+लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-रेफलकारगकाराणामपवादः । 'द्विस्वरा अयुक्पादे युग्वसवोऽन्ते' (पि०सू० ४।३२) इत्यनुवर्तते । पूर्वलक्षणयोरन्ते भकारो गकारी - च भवतः, तद्वैतालीयम् 'आपातलिका' नाम लभते । तत्रोदाहरणम्-  
+रेफलकारगकाराणामपवादः । ['द्विस्वरा अयुक्पादे युग्वसवोऽन्ते' (पि०सू० ४।३२)](#432) इत्यनुवर्तते । पूर्वलक्षणयोरन्ते भकारो गकारी - च भवतः, तद्वैतालीयम् 'आपातलिका' नाम लभते । तत्रोदाहरणम्-  
 पि-ङ्ग-ल-के-शी क-पि-ला-क्षी वा-चा-टा वि-क-टो-न-त-द-न्ती ।  
 आ-पा-त-लि-का पु-न-रे-षा नृ-प-ति-कु-ले-ऽपि न भा-ग्य-मु-पै-ति ।। आपातलिका अस्थिरेत्यर्थः ।।  
 </details>
 
 
 ### 4.35  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 शेषे परेण युङ् न साकम्  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-लौकिकम्, छन्दः, ग्लौ  
+लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2907,14 +3131,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.36  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 षट् चामिश्रा युजि  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-लौकिकम्, छन्दः, ग्लौ  
+लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2932,19 +3156,19 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.37  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 पञ्चमेन पूर्वः साकं प्राच्यवृत्तिः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-लौकिकम्, छन्दः, ग्लौ  
+लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-इदानीं विशेषलक्षणमाह- 'शेषे परेण युङ् न साकम्' (पि०सू० ४।३५) इत्यत्र पञ्चमचतुर्थयोरेकीभावो निषिद्धः सोऽनेन विधीयते। 'युजि' इत्यनुवर्तते । यदा युक्पादे पञ्चमेन लकारेण पूर्वः संगच्छते तदा 'प्राच्यवृत्तिः' नाम वैतालीयं भवति ।  
+इदानीं विशेषलक्षणमाह- ['शेषे परेण युङ् न साकम्' (पि०सू० ४।३५)](#435) इत्यत्र पञ्चमचतुर्थयोरेकीभावो निषिद्धः सोऽनेन विधीयते। 'युजि' इत्यनुवर्तते । यदा युक्पादे पञ्चमेन लकारेण पूर्वः संगच्छते तदा 'प्राच्यवृत्तिः' नाम वैतालीयं भवति ।  
 शेषं यथा प्राप्तम् । तत्रोदाहरणम्-  
 वि-पु-ला-र्थ-सु-वा-च-का-क्ष-राः क-स्य ना-मन ह-र-न्ति मा-न-सम्?।  
 र-स-भा-व-वि-शे-ष-पे-श-लाः प्रा-च्य-वृ-त्ति-क-वि-का-व्य-सं-प-दः ।।  
@@ -2952,14 +3176,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.38  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 अयुक्तृतीयेनोदीच्यवृत्तिः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-लौकिकम्, छन्दः, ग्लौ  
+लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2971,14 +3195,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.39  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 आभ्यां युगपत्प्रवृत्तकम्  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-लौकिकम्, छन्दः, ग्लौ  
+लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -2990,14 +3214,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.40  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 अयुक्चारुहासिनी  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-लौकिकम्, छन्दः, ग्लौ  
+लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3009,19 +3233,19 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.41  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 युगपरान्तिका  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-लौकिकम्, छन्दः, ग्लौ  
+लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-युग्लक्षणयुक्तैश्चतुर्भिः पादैः 'अपरान्तिका' नाम वैतालीयम् । किं तल्लक्षणम् ? षोडशमात्रत्वम्, पञ्चमेन पूर्वस्य योगः, षण्णां मिश्राणां प्रयोगश्च । तत्रो-दाहरणम्-  
+युग्लक्षणयुक्तैश्चतुर्भिः पादैः 'अपरान्तिका[' नाम वैतालीयम् । किं तल्लक्षणम् ? षोडशमात्रत्वम्, पञ्चमेन पूर्वस्य योगः, षण्णां मिश्राणां प्रयोगश्च । तत्रो-दाहरणम्-  
 स्थि-र-वि-ला-स-न-त-मौ-क्ति-का-व-ली क-म-ल-को-म-ला-ङ्गी मृ-गे-क्ष-णा ।  
 ह-र-ति क-स्य ह-द-यं न का-मि-नः सु-र-त-के-लि-कु-श-ला-प-रा-न्ति-का ॥  
 अपरस्यान्तिके समीपे स्थिता, परकीयेत्यर्थः ।।  
@@ -3031,34 +3255,34 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.42  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 गन्ता द्विर्वसवो मात्रासमकं ल् नवमः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-लौकिकम्, छन्दः, ग्लौ  
+लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-वैतालीयम्-'(पि०सू० ४।३२) इत्यादिसूत्रात्सप्तम्यन्तं 'पाद' ग्रहणमनुवर्तते । 'ल्' इति च महानधिकारः। तेनायमर्थः- यत्र पादे गन्ताः सन्तः, षोडश लकारा भवन्ति, तत् 'मात्रासमकं' नाम छन्दः। अन्ते द्वाभ्यामेको गुरुः (5) कर्तव्यः । नवमश्च लकार (1) एव । 'द्विर्वसवः' इति द्विगुणिता वसवः, लकाराः षोडशेत्यर्थः । 'शेषे परेण युङ् न साकम्' (पि०सू० ४।३५) इत्यनुवर्तनीयम् । तत्रोदाहरणम् -  
+['वैतालीयम्-'(पि०सू० ४।३२)](#432) इत्यादिसूत्रात्सप्तम्यन्तं 'पाद' ग्रहणमनुवर्तते । 'ल्' इति च महानधिकारः। तेनायमर्थः- यत्र पादे गन्ताः सन्तः, षोडश लकारा भवन्ति, तत् 'मात्रासमकं' नाम छन्दः। अन्ते द्वाभ्यामेको गुरुः (5) कर्तव्यः । नवमश्च लकार (1) एव । 'द्विर्वसवः' इति द्विगुणिता वसवः, लकाराः षोडशेत्यर्थः । ['शेषे परेण युङ् न साकम्' (पि०सू० ४।३५)](#435) इत्यनुवर्तनीयम् । तत्रोदाहरणम् -  
 अश्मश्रु-मु-खो वि-र-लै-र्द-न्तै र्ग-म्भी-रा-क्षोन-त-ना-सा-ग्रः ।  
 नि-र्मा-स-ह-नुः स्फु-टि-तैः के-शै र्मा-त्रा-स-म-कं ल-भ-ते दुःखम् ॥  
-'गन्त-' (पि०सू० ४।३२) इत्यनेनैवान्तस्य गुरुत्वे सिद्धे पुनर्गन्तग्रहणमातिदेशिक-गुरुत्वनिवृत्त्यर्थम् । तेनात्र द्वौ लकारौ (।।) भङ्क्त्वा द्विमात्रिको गुरुः (ऽ) क्रियत इति वाक्यशेषः ।।  
+['गन्त-' (पि०सू० ४।३२)](#432) इत्यनेनैवान्तस्य गुरुत्वे सिद्धे पुनर्गन्तग्रहणमातिदेशिक-गुरुत्वनिवृत्त्यर्थम् । तेनात्र द्वौ लकारौ (।।) भङ्क्त्वा द्विमात्रिको गुरुः (ऽ) क्रियत इति वाक्यशेषः ।।  
 </details>
 
 
 ### 4.43  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 द्वादशश्च वानवासिका  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-लौकिकम्, छन्दः, ग्लौ  
+लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3070,7 +3294,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.44  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 विश्लोकः पञ्चमाष्टमौ  
 </details>
@@ -3084,7 +3308,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.45  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 चिंत्रा नवमश्च  
 </details>
@@ -3094,12 +3318,12 @@ title = "सर्व-प्रस्तुतिः"
 यस्य नवमो लकार (।) एवावशिष्यते चकारात्पञ्चमाष्टमौ च, तन्मात्रासमकं 'चित्रा' नाम । तत्रोदाहरणम् -  
 य-दि वा-ञ्छ-सि प-र-प-द-मा-रो-ढुं मै-त्री प-रि-ह-र स-ह व-नि-ता-भिः ।  
 मु-ह्य-ति मु-नि-र-पि वि-ष-या-स-ङ्गा- च्चि-त्रा भ-व-ति हि म-न-सो वृ-त्तिः ॥  
-'नवमः' (पि०सू० ४।४२) इत्यनुवर्तमानेऽपि पुनर्नवमग्रहणमुपचित्राप्रतिप्रसवार्थम् ।  
+['नवमः' (पि०सू० ४।४२)](#442) इत्यनुवर्तमानेऽपि पुनर्नवमग्रहणमुपचित्राप्रतिप्रसवार्थम् ।  
 </details>
 
 
 ### 4.46  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 परयुक्तेनोपचित्रा  
 </details>
@@ -3113,7 +3337,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.47  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 एभिः पादाकुलकम्  
 </details>
@@ -3137,7 +3361,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.48  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 गीत्यार्या लः  
 </details>
@@ -3154,7 +3378,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.49  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 शिखा विपर्यस्तार्धा  
 </details>
@@ -3167,7 +3391,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.50  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 लः पूर्वश्चेज्ज्योतिः  
 </details>
@@ -3183,7 +3407,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.51  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 गश्चेत्सौम्या  
 </details>
@@ -3199,14 +3423,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.52  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 चूलिकैकोनत्रिंशदेकत्रिंशदन्ते ग्  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-अर्ध ग्रहणम् (पि०सू० ४।४९) अनुवर्तते । यत्र प्रथमेऽर्थे एकोनत्रिंश (२९) ल्लकारा भवन्ति, द्वितीये चार्ध एकत्रिंशत् (३१), तयोश्चान्ते द्वौ (।।) लकारावुन्मूल्य प्रत्येकमेको गुरुः (5) क्रियते, तत् 'चूलिका' नाम छन्दः । 'अन्ते ग्' इति विशेषो-पादानसामर्थ्यादन्येषां लघुत्वमुक्तं भवति । तेनाद्ये सप्तविंशति (२७) र्लघवः, अन्ते गुरुरेको भवति । द्वितीयेऽप्येकोनत्रिंश (२९) ल्लघवः, अन्ते गुरुश्चैकः । तत्रोदाहरणम्-  
+[अर्ध ग्रहणम् (पि०सू० ४।४९)](#449) अनुवर्तते । यत्र प्रथमेऽर्थे एकोनत्रिंश (२९) ल्लकारा भवन्ति, द्वितीये चार्ध एकत्रिंशत् (३१), तयोश्चान्ते द्वौ (।।) लकारावुन्मूल्य प्रत्येकमेको गुरुः (5) क्रियते, तत् 'चूलिका' नाम छन्दः । 'अन्ते ग्' इति विशेषो-पादानसामर्थ्यादन्येषां लघुत्वमुक्तं भवति । तेनाद्ये सप्तविंशति (२७) र्लघवः, अन्ते गुरुरेको भवति । द्वितीयेऽप्येकोनत्रिंश (२९) ल्लघवः, अन्ते गुरुश्चैकः । तत्रोदाहरणम्-  
 र-ति-क-र-म-ल-य-म-रु-ति शु-भ-श-श-  
 म-भि-ह-त-हि-म-म-ह-सि म-धु-स-म-ये।  
 प्र-व-स-सि प-थि-क! वि-र-हि-त! क-थ-मि-ह तु  
@@ -3222,7 +3446,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 4.53  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 साग् येन न समा लां ग्ल इति  
 </details>
@@ -3240,14 +3464,14 @@ title = "सर्व-प्रस्तुतिः"
 
 ## 5
 ### 5.1  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 वृत्तम्  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3260,14 +3484,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.2  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 सममर्धसमं विषमं च  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3277,14 +3501,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.3  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 समं तावत्कृत्वः कृतमर्धसमम्  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3294,14 +3518,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.4  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 विषमं च  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3312,14 +3536,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.5  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 राश्यूनम्  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3329,19 +3553,19 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.6  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 ग्लिति समानी  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-गकार (ऽ) लकारा (।) भ्यां यहृतं समाप्यते, तत् 'समानी' नाम । 'पादस्यानुष्टुब्बकम्' (पि०सू० ५।९) इत्यतः सूत्रात् सिंहावलोकितन्यायेनानुष्टुब्ग्रहणमनुवर्तते । तेनाष्टाक्षरः पादो यावद्भिर्गकारलकारैः पूर्यते, तावतामेव ग्रहणम् । तत्रोदाहरणम्-  
+गकार (ऽ) लकारा (।) भ्यां यहृतं समाप्यते, तत् 'समानी' नाम । ['पादस्यानुष्टुब्बकम्' (पि०सू० ५।९)](#59) इत्यतः सूत्रात् सिंहावलोकितन्यायेनानुष्टुब्ग्रहणमनुवर्तते । तेनाष्टाक्षरः पादो यावद्भिर्गकारलकारैः पूर्यते, तावतामेव ग्रहणम् । तत्रोदाहरणम्-  
 वा-स-वो-ऽपि वि-क्र-मे-ण य-त्स-मा-न-तां न या-ति ।  
 त-स्य व-ल्ल-भे-श्व-र-स्य के-न तुल्य-ता क्रि-ये-त? ॥  
 अपि च ।  
@@ -3351,14 +3575,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.7  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 ल्गिति प्रमाणी  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3370,14 +3594,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.8  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 वितानमन्यत्  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3402,14 +3626,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.9  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 पादस्यानुष्टुब्वक्रम्  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3419,14 +3643,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.10  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 न प्रथमात्स्नौ  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3436,14 +3660,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.11  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 द्वितीयचतुर्थयो रश्च  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3453,14 +3677,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.12  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 वान्यत्  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3470,19 +3694,19 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.13  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 य चतुर्थात्  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-य' इति लुप्तविभक्तिको निर्देशः । पादस्य चतुर्थादक्षरादूर्ध्वं यगणः (।ऽऽ) प्रयोक्तव्यः । सर्वेषामुदाहरणानि -  
+य[' इति लुप्तविभक्तिको निर्देशः । पादस्य चतुर्थादक्षरादूर्ध्वं यगणः (।ऽऽ) प्रयोक्तव्यः । सर्वेषामुदाहरणानि -  
 न वधारा म्बुसंसि-क्त व सुधागन्धिनिःश्वा-सम् ।  
 किं चिदुन्न तघोणा-ग्रं म ही काम यते व-कम् ।।  
 अन्यैरप्युक्तम्-  
@@ -3496,33 +3720,33 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.14  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 पथ्या युजो ज्  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-चतुर्थात्' (पि०सू० ५।१३) इति वर्तते । अत्र वक्रे युजः (२,४) पादस्य चतुर्था दक्षरादूर्ध्व जगणः (।ऽ।) प्रयुज्यते, तद्वक्रं 'पथ्या' नाम । 'य' (।ऽऽ) स्यापवादः । अत्रोदाहरणम् -  
+['चतुर्थात्' (पि०सू० ५।१३)](#513) इति वर्तते । अत्र वक्रे युजः (२,४) पादस्य चतुर्था दक्षरादूर्ध्व जगणः (।ऽ।) प्रयुज्यते, तद्वक्रं 'पथ्या' नाम । 'य' (।ऽऽ) स्यापवादः । अत्रोदाहरणम् -  
 नित्यं नीति निषण्ण-स्य राज्ञो राष्ट्र न सीद-ति ।  
 न हि पथ्याशिनः का-ये जायन्ते व्या धिवेद नाः ।।  
 </details>
 
 
 ### 5.15  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 विपरीतैकीयम्  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3534,14 +3758,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.16  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 चपलायुजो न्  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3553,32 +3777,32 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.17  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 विपुला युग्लः सप्तमः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-अधिकारोऽयम्। 'य चतुर्थात्' (पि०सू० ५।१३) इत्यनेन सर्वत्र यकारे (।ऽऽ) कृते यदा युक् (२,४) पादे सप्तमो वर्णों लघुर्भवति, तदा 'विपुला' नाम सानुष्टुव् ।।  
-ननु पथ्यालक्षणेऽन्तर्भूतत्वात् पुनरुक्तमेतत् । नैवम्, विपुलावर्गस्येदानीमारभ्यमाण-त्वात्तद्विनानुपपत्तेः । युक् (२,४) पादे सप्तमेन लघुनावश्यमेव भवितव्यम् । प्रथमतृतीययोश्चैतावता यकारस्यापवादः । तथा च वक्ष्यति - 'सर्वतः सैतवस्य' (पि०सू० ५।१८) इत्यादिना । पथ्यायां तु यकार (।ऽऽ) एवावतिष्ठते ।।  
+अधिकारोऽयम्। ['य चतुर्थात्' (पि०सू० ५।१३)](#513) इत्यनेन सर्वत्र यकारे (।ऽऽ) कृते यदा युक् (२,४) पादे सप्तमो वर्णों लघुर्भवति, तदा 'विपुला' नाम सानुष्टुव् ।।  
+ननु पथ्यालक्षणेऽन्तर्भूतत्वात् पुनरुक्तमेतत् । नैवम्, विपुलावर्गस्येदानीमारभ्यमाण-त्वात्तद्विनानुपपत्तेः । युक् (२,४) पादे सप्तमेन लघुनावश्यमेव भवितव्यम् । प्रथमतृतीययोश्चैतावता यकारस्यापवादः । तथा च वक्ष्यति - ['सर्वतः सैतवस्य' (पि०सू० ५।१८)](#518) इत्यादिना । पथ्यायां तु यकार (।ऽऽ) एवावतिष्ठते ।।  
 </details>
 
 
 ### 5.18  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 सर्वतः सैतवस्य  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3591,22 +3815,22 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.19  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 भ्रौ न्तौ च  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-सर्वतः सैतवस्य' (पि०सू० ५।१८) इति निवृत्तम् । 'चपलायुजो न्' (पि०सू० ५।१६) इत्येतस्मादयुग्ग्रहणमनुवर्तते । 'विपुला युग्लः सप्तमः' (पि०सू० ५।१७) इति सर्वमनुवर्तनीयम्। अयुक् (१,३) पादे यदा चतुर्थादक्षरात्परतो यकारं (।ऽऽ) बाधित्वा भकार (ऽ।।) रेफ (ऽ।ऽ) नकार (।।।) तकारा (ऽऽ।) विकल्पेन भवन्ति, तदासौ 'विपुला' नाम । तत्र भकारेण विपुलोदाहरणम् -  
+['सर्वतः सैतवस्य' (पि०सू० ५।१८)](#518) इति निवृत्तम् । ['चपलायुजो न्' (पि०सू० ५।१६)](#516) इत्येतस्मादयुग्ग्रहणमनुवर्तते । ['विपुला युग्लः सप्तमः' (पि०सू० ५।१७)](#517) इति सर्वमनुवर्तनीयम्। अयुक् (१,३) पादे यदा चतुर्थादक्षरात्परतो यकारं (।ऽऽ) बाधित्वा भकार (ऽ।।) रेफ (ऽ।ऽ) नकार (।।।) तकारा (ऽऽ।) विकल्पेन भवन्ति, तदासौ 'विपुला' नाम । तत्र भकारेण विपुलोदाहरणम् -  
 इ यं सखे चन्द्रमुखीस्मि तज्योत्स्ना च मानिनी ।  
 इन्दीवराक्षी हृदयं दन्दहीति तथापि मे ।।  
-'अयुजः' (पि०सू० ५।१६) इति जातिपक्षे द्वयोरपि पादयोर्ग्रहणम् । व्यक्तिपक्षे पुनरेकस्य । एकपक्षे पुनः प्रथमस्य तृतीयस्य वा। तथा च महाकवीनां प्रयोगाः -  
+['अयुजः' (पि०सू० ५।१६)](#516) इति जातिपक्षे द्वयोरपि पादयोर्ग्रहणम् । व्यक्तिपक्षे पुनरेकस्य । एकपक्षे पुनः प्रथमस्य तृतीयस्य वा। तथा च महाकवीनां प्रयोगाः -  
 वटे वटे वैश्रव णः चत्वरे चत्वरे शिवः ।  
 पर्वते पर्वते रामः सर्वत्र मधुसूदनः ।। (अग्निपु० ३०५/१४)  
 देवः सजयति श्रीमान् दण्डधारो महामतिः ।  
@@ -3681,14 +3905,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.20  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 प्रतिपादं चतुर्वृद्ध्या पदचतुरूर्ध्वम् 
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3703,14 +3927,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.21  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 गावन्त आपीडः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3724,14 +3948,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.22  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 गावादौ चेत्प्रत्यापीडः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3745,14 +3969,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.23  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 प्रत्यापीडो गावादौ च  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3767,19 +3991,19 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.24  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 प्रथमस्य विपर्यासे मञ्जरीलवल्यमृतधाराः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-आपीडग्रहणं निवृत्तम् । तेनैव समं लघ्वक्षराभ्यनुज्ञानं च । तदेव पदचतुरूर्ध्व प्रथमस्य विपर्यासे मञ्जरी-लवली-अमृतधाराभिधानं भवति । प्रथमस्य पादस्य द्वितीयेन विपर्यासे 'मञ्जरी' । प्रथमस्य तृतीयेन विपर्यासे 'लवली' । प्रथमस्य चतुर्थेन विपर्यासे 'अमृतधारा' ।।  
+आपीडग्रहणं निवृत्तम् । तेनैव समं लघ्वक्षराभ्यनुज्ञानं च । तदेव पदचतुरूर्ध्व प्रथमस्य विपर्यासे मञ्जरी-लवली-अमृतधाराभिधानं भवति । प्रथमस्य पादस्य द्वितीयेन विपर्यासे 'मञ्जरी' । प्रथमस्य तृतीयेन विपर्यासे 'लवली' । प्रथमस्य चतुर्थेन विपर्यासे 'अमृतधारा[' ।।  
 तत्र मञ्जर्युदाहरणम् -  
 ज-न-य-ति म-ह-तीं प्री-तिं हृ-द-ये  
 का-मि-नां चू-त-म-ञ्ज-री।  
@@ -3801,37 +4025,37 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.25  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 उद्गतामेकतः सूजौ स्लौ, न्सौ ज्गौ, भ्नौ जूलौ ग्, स्जौ सूजौ ग् ।  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-पाद-' (पि०सू० ५।९) इति प्रकृतमनुवर्तते । यत्र प्रथमे पादे सकार (।।ऽ) जकार (।ऽ।) सकार (।।ऽ) ल (।) कारैर्दशाक्षराणि भवन्ति, द्वितीये पादे नकार-(III) सकार (।।ऽ) जकार (।ऽ।) ग (ऽ) कारैर्दशैव, तृतीये पादे भकार (ऽ।।) नकार (III)-जकार (।ऽ।) लकार (।) ग (ऽ) कारैरेकादशैव, चतुर्थे पादे सकार (।।ऽ) जकार (।ऽ।) सकार-(।।ऽ) जकार (।ऽ।) ग (ऽ) कारैस्त्रयोदश तद्वृत्तम् 'उद्गता' नाम । तत्रोदाहरणम् -  
+['पाद-' (पि०सू० ५।९)](#59) इति प्रकृतमनुवर्तते । यत्र प्रथमे पादे सकार (।।ऽ) जकार (।ऽ।) सकार (।।ऽ) ल (।) कारैर्दशाक्षराणि भवन्ति, द्वितीये पादे नकार-(III) सकार (।।ऽ) जकार (।ऽ।) ग (ऽ) कारैर्दशैव, तृतीये पादे भकार (ऽ।।) नकार (III)-जकार (।ऽ।) लकार (।) ग (ऽ) कारैरेकादशैव, चतुर्थे पादे सकार (।।ऽ) जकार (।ऽ।) सकार-(।।ऽ) जकार (।ऽ।) ग (ऽ) कारैस्त्रयोदश तद्वृत्तम् 'उद्गता' नाम । तत्रोदाहरणम् -  
 मृ-ग-लो-च-ना श-शि-मु-खी च  
 रु-चि-र-द-श-ना नि-त-म्बिनी।  
 हं-स-ल-लि-त-ग-म-ना ल-ल- ना  
 प-रि-णी-य-ते यदि भवेत्कु लो-द्ग-ता ।।  
 यत्र सूत्रे गकारो (ऽ) लकारो (।) वा श्रूयते, तत्र तेनैव वृत्तस्य पादः परिसमाप्यते ।  
-'उद्गताम्' इति कर्मविभक्तिश्रवणात् पठेदित्यध्याहार्यम्। 'एकतः' इति प्रथमं पादं द्वितीयेन सहाविलम्बेन पठेदित्यर्थः । 'उपस्थितप्रचुपितं पृथगाद्यम्' (पि०सू० ५।२८) इत्यतः सिंहावलोकितन्यायेन 'आद्य' ग्रहणमनुवर्तनीयम् । तेनाद्यमेव पादमेकतः पठेत् । 'एकतः' इति ल्यब्लोपे पञ्चमी ।।  
+'उद्गताम्' इति कर्मविभक्तिश्रवणात् पठेदित्यध्याहार्यम्। 'एकतः' इति प्रथमं पादं द्वितीयेन सहाविलम्बेन पठेदित्यर्थः । ['उपस्थितप्रचुपितं पृथगाद्यम्' (पि०सू० ५।२८)](#528) इत्यतः सिंहावलोकितन्यायेन 'आद्य' ग्रहणमनुवर्तनीयम् । तेनाद्यमेव पादमेकतः पठेत् । 'एकतः' इति ल्यब्लोपे पञ्चमी ।।  
 </details>
 
 
 ### 5.26  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 तृतीयस्य सौरभकं नै भ्गौ  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3843,14 +4067,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.27  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 ललितं नौ सौ  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3865,14 +4089,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.28  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 उपस्थितप्रचुपितं पृथगाद्यं म्सौ ज्भौ गौ, स्नौ जौ ग्, नौ स्, नौ न् ज्यौ  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3882,24 +4106,24 @@ title = "सर्व-प्रस्तुतिः"
 हृ-द- यं ह-र-ति प-यो-ध-रा- वन- म्रा ।  
 इ-य-म-ति-श-य-सु-भ-गा  
 ब-हु-वि-ध-नि-धु व-न-कु-श-ला ल-लि-ता-ङ्गी ।।  
-'पृथगाद्यम्' इति उद्गतामेकतः पठेत्' (पि०सू० ५।२५) इत्यनुवृत्तिनिरासार्थम् । अत्र तृतीयपादव्यवस्था सकारस्य विभज्य पाठलिङ्गात् ।।  
+'पृथगाद्यम्' इति ['उद्गतामेकतः पठेत्' (पि०सू० ५।२५)](#525) इत्यनुवृत्तिनिरासार्थम् । अत्र तृतीयपादव्यवस्था सकारस्य विभज्य पाठलिङ्गात् ।।  
 </details>
 
 
 ### 5.29  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 वर्द्धमानं नौ स्नौ न्सौ  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-तृतीयस्य' (पि०सू० ५।२६) इत्यनुवर्तते । तस्मिन्नपस्थितप्रचुपिते तृतीयस्य पादस्य स्थाने यदा 'नकारौ (।।।.।।।) सकार (।।ऽ) नकारौ (।।।) पुनर्नकार (।।।) सकारौ (ऽ।।) च भवतस्तदा 'वर्द्धमानं' नाम वृत्तं भवति । तत्रोदाहरणम् -  
+['तृतीयस्य' (पि०सू० ५।२६)](#526) इत्यनुवर्तते । तस्मिन्नपस्थितप्रचुपिते तृतीयस्य पादस्य स्थाने यदा 'नकारौ (।।।.।।।) सकार (।।ऽ) नकारौ (।।।) पुनर्नकार (।।।) सकारौ (ऽ।।) च भवतस्तदा 'वर्द्धमानं' नाम वृत्तं भवति । तत्रोदाहरणम् -  
 बि-म्बो-ष्ठी क-ठि-नोन्न-त-स्तना वन-ता ङ्गी  
 ह-रि-णी-शि-शु- नयना नितम्ब गुर्वी ।  
 म-द-क-ल-क-रि-ग-म-ना प-रि-ण-त-श-शि-व द-ना  
@@ -3908,14 +4132,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.30  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 शुद्धविराडृषभं तज्‌राः 
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3930,14 +4154,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.31  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 अर्द्धे  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3947,14 +4171,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.32  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 उपचित्रकं सौ स्लौ ग्, भौ भ्गौ ग्  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3968,14 +4192,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.33  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 द्रुतमध्या भौ भूगौ ग्, न्जौ ज्यौ  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3989,14 +4213,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.34  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 वेगवती सौ स्गौ, भौ भ्गौ ग्  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -4010,14 +4234,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.35  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 भद्रविराट् त्जौ र्गौ, म्सौ जगौ ग्  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -4032,14 +4256,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.36  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 केतुमती स्जौ स्गौ, भरौ न्गौ ग्  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -4053,14 +4277,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.37  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 आख्यानकी तौ ज्गौ ग्, ज्तौ ज्गौ ग्  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -4075,14 +4299,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.38  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 विपरीताख्यानकी ज्तौ ज्गौ ग्, तौ ज्गौ ग्  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -4097,14 +4321,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.39  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 हरिणप्लुता सौ स्लौ ग्, न्भौ भ्‌रौ  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -4118,14 +4342,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.40  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 अपरव्रकं नौ र्‌लौ ग्, न्जौ ज्‌रौ  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -4140,14 +4364,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.41  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 पुष्पिताग्रा नौ र्‌यौ, न्जौ ज्‌रौ ग्  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -4161,14 +4385,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.42  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 यवमती र्जौ र्जौ, ज्रौ ज्रौ ग्  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -4183,14 +4407,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.43  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 शिखैकोनत्रिंदशदेकत्रिंदशदन्ते ग्  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य प्रथमे पादे एकोनत्रिंशद् (२९) अक्षराणि, द्वितीये च एकत्रिंशत् (३१), द्वयोरपि (१.२) पादयोरन्ते च प्रत्येकं गुरुः (ऽ), तद्वृत्तं 'शिखा' नाम। 'अर्धे' (पि०सू० ५।३१) इत्यधिकाराद्वितीयमप्यर्धं तादृशमेव । 'अन्ते ग्' इति नियमार्थमेतत् । अन्ते एव गुरुर्नान्यत्र । तेन अयुक् (१,३) पादे अष्टाविंशति (२८) रक्षराणि लघूनि, अन्ते गुरु (१)-रेकः । युक् (२,४) पादे त्रिंश (३०) ल्लघवः, अन्ते गुरु (१) श्च। तत्रोदाहरणम् -  
+यस्य प्रथमे पादे एकोनत्रिंशद् (२९) अक्षराणि, द्वितीये च एकत्रिंशत् (३१), द्वयोरपि (१.२) पादयोरन्ते च प्रत्येकं गुरुः (ऽ), तद्वृत्तं 'शिखा' नाम। ['अर्धे' (पि०सू० ५।३१)](#531) इत्यधिकाराद्वितीयमप्यर्धं तादृशमेव । 'अन्ते ग्' इति नियमार्थमेतत् । अन्ते एव गुरुर्नान्यत्र । तेन अयुक् (१,३) पादे अष्टाविंशति (२८) रक्षराणि लघूनि, अन्ते गुरु (१)-रेकः । युक् (२,४) पादे त्रिंश (३०) ल्लघवः, अन्ते गुरु (१) श्च। तत्रोदाहरणम् -  
 अभिमतबकुलकुसुमघनपरिमलमिलदलिमुखरितहरिति मधौ  
 सहचरमलयपवनरयतरलितसरसिजरजसि‌ शयतरणिवितते ।  
 विकसितविविधकुसुमसुलभसुरभिशरमदननिहतसकलजने  
@@ -4199,7 +4423,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 5.44  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 खञ्जा महत्ययुजीति  
 </details>
@@ -4217,14 +4441,14 @@ title = "सर्व-प्रस्तुतिः"
 
 ## 6
 ### 6.1  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 यतिर्विच्छेदः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -4348,14 +4572,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.2  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 तनुमध्या त्यौ  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -4369,14 +4593,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.3  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 कुमारललिता ज्सौ ग्  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -4391,14 +4615,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.4  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 माणवकाक्रीडितकं भ्तौ ल्गौ  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -4410,14 +4634,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.5  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 चित्रपदा भौ गौ  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -4430,14 +4654,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.6  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 विद्युन्माला मौ गौ  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -4453,14 +4677,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.7  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 हंसरुतं म्नौ गौ  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -4472,14 +4696,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.8  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 भुजगशिशुसृता नौ म्‌  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -4494,14 +4718,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.9  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 हलमुखीर्नौ स्‌  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -4514,14 +4738,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.10  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 शुद्धविराट् म्सौ ज्गौ  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -4534,14 +4758,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.11  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 पणवो म्नौ य्गौ  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -4554,14 +4778,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.12  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 रुक्मवती भ्मौ स्गौ  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -4573,14 +4797,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.13  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 मयूरसारिणी र्जौ र्गौ  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -4593,14 +4817,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.14  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 मत्ता म्भौ स्गौ  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -4613,14 +4837,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.15  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 उपस्थिता त्जौ ज्गौ  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -4633,14 +4857,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.16  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 इन्द्रवज्रा तौ ज्गौ ग्‌  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -4659,14 +4883,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.17  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 उपेन्द्रवज्रा ज्तौ ज्गौ ग्  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -4679,26 +4903,26 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.18  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 आद्यन्तावुपजातयः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 
 ### 6.19  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 दोधकं भौ भ्गौ ग्‌  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -4711,7 +4935,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.20  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 शालिनी म्तौ त्गौ ग्‌ समुद्रऋषयः  
 </details>
@@ -4727,7 +4951,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.21  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 वातोर्मी म्भौ त्गौ ग्‌ च  
 </details>
@@ -4745,7 +4969,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.22  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 भ्रमरविलसितं म्भौ न्लौ ग्‌  
 </details>
@@ -4762,7 +4986,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.23  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 रथोद्धता र्नौ र्लौ ग्‌  
 </details>
@@ -4777,7 +5001,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.24  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 स्वागता र्‌नौ भ्गौ ग्  
 </details>
@@ -4792,7 +5016,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.25  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 वृन्ता नौ स्गौ ग्‌  
 </details>
@@ -4808,7 +5032,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.26  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 श्येनी र्जौ र्लौ ग्‌  
 </details>
@@ -4823,7 +5047,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.27  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 विलासिनी ज्रौ ज्गौ ग्‌  
 </details>
@@ -4837,7 +5061,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.28  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 जगती  
 </details>
@@ -4849,7 +5073,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.29  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 वंशस्था ज्तौ ज्रौ  
 </details>
@@ -4863,7 +5087,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.30  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 इन्द्रवंशा तौ ज्रौ  
 </details>
@@ -4878,7 +5102,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.31  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 द्रुतविलम्बितं न्‌भौ भ्रौ  
 </details>
@@ -4892,7 +5116,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.32  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 तोटकं सः  
 </details>
@@ -4907,7 +5131,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.33  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 पुटो नौ म्यौ वसुसमुद्राः  
 </details>
@@ -4923,7 +5147,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.34  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 जलोद्धतगतिर्ज्सौ ज्सौ रसर्तवः  
 </details>
@@ -4937,7 +5161,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.35  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 ततं नौ म्रौ  
 </details>
@@ -4951,7 +5175,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.36  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 कुसुमविचित्रा न्यौ न्यौ  
 </details>
@@ -4965,7 +5189,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.37  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 चञ्चलाक्षिका नौ रौ  
 </details>
@@ -4979,7 +5203,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.38  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 भुजङ्गप्रयातं यः  
 </details>
@@ -4994,7 +5218,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.39  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 स्रग्विणी रः 
 </details>
@@ -5008,7 +5232,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.40  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 प्रमिताक्षरा स्जौ सौ  
 </details>
@@ -5023,7 +5247,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.41  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 कान्तोत्पीडा भ्मौ स्मौ  
 </details>
@@ -5038,7 +5262,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.42  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 वैश्वदेवी मौ याविन्द्रियऋषयः  
 </details>
@@ -5054,7 +5278,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.43  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 वाहिनी त्यौ म्यावृषिकामशराः  
 </details>
@@ -5070,7 +5294,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 6.44  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 नवमालिनी न्जौ भ्याविति  
 </details>
@@ -5088,14 +5312,14 @@ title = "सर्व-प्रस्तुतिः"
 
 ## 7
 ### 7.1  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 प्रहर्षिणी म्नौ जरौ ग् त्रिकदशकौ  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5110,14 +5334,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 7.2  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 रुचिरा ज्भौ स्जौ ग्‌ चतुर्नवकौ  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5131,14 +5355,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 7.3  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 मत्तमयूरं म्तौ य्सौ ग्‌ समुद्रनवकौ  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5152,14 +5376,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 7.4  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 गौरी नौ न्सौ ग्‌ 
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5172,14 +5396,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 7.5  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 असंबाधा म्तौ न्‌सौ गाविन्द्रियनवकौ  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5193,14 +5417,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 7.6  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 अपराजिता नौ र्सौ ल्गौ स्वरऋषयः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5214,14 +5438,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 7.7  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 प्रहरणकलिता नौ भ्नौ ल्गौ च  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5235,14 +5459,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 7.8  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 वसन्ततिलका त्भौ जौ गौ  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5257,14 +5481,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 7.9  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 सिंहोन्नता काश्यपस्य  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5274,14 +5498,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 7.10  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 उद्धर्षिणी सैतवस्य  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5291,14 +5515,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 7.11  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 चन्द्रावर्ता नौ नौ स्  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5312,14 +5536,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 7.12  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 मालर्तुनवकौ चेत्‌  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5333,14 +5557,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 7.13  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 मणिगुणनिकरो वस्वृषयः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5354,14 +5578,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 7.14  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 मालिनी नौ म्यौ य्  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5376,14 +5600,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 7.15  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 ऋषभगजविलसितं भ्रौ नौ न्गौ स्वरनवकौ  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5397,14 +5621,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 7.16  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 हरिणी न्सौ म्रौ स्‌लौ गृतुसमुद्रऋषयः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5418,14 +5642,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 7.17  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 पृथ्वी ज्सौ ज्सौ यलौ ग्‌ वसुनवकौ  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5440,14 +5664,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 7.18  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 वंशपत्रपतितं भ्रौ न्‌भौ न्लौ ग्‌ दिगृषयः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5461,14 +5685,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 7.19  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 मन्दाक्रान्ता म्भौ न्तौ त्‌गौ ग्‌ समुद्रर्तुस्वराः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5482,14 +5706,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 7.20  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 शिखरिणी यमौ न्‌सौ भ्लौ गृतुरुद्राः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5503,14 +5727,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 7.21  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 कुसुमितलतावेल्लिता म्तौ न्यौ याविन्द्रियर्तुस्वराः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5524,14 +5748,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 7.22  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 शार्दूलविक्रीडितं म्सौ ज्सौ तौ गादित्यऋषयः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5546,14 +5770,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 7.23  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 सुवदना म्रौ भ्नौ य्भौ ल्गावृषिस्वरर्तवः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5567,14 +5791,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 7.24  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 ग्लिति वृत्तम्  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5589,14 +5813,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 7.25  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 मद्रकं भ्रौ न्रौ न्रौ न्‌गौ दिगादित्याः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5610,14 +5834,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 7.26  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 मत्ताक्रीडा मौ त्नौ नौ न्लौ ग्‌ वसुपञ्जचदशकौ  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5631,14 +5855,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 7.27  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 अश्वललितं न्‌जौ भ्जौ भ्जौ भ्लौ ग्रुद्राऽऽदित्याः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5652,14 +5876,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 7.28  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 मत्ताक्रीडा मौ त्नौ नौ न्लौ ग्‌ वसुपञ्जचदशकौ  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5674,14 +5898,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 7.29  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 तन्वी भ्तौ न्सौ भौ न्याविन्द्रियस्वरमासाः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5695,14 +5919,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 7.30  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 क्रौञ्चपदा भ्मौ स्‌भौ नौ नौ ग्‌ भूतेन्द्रियवस्वृषयः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5721,14 +5945,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 7.31  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 भुजङगविजृम्भितं मौ त्नौ नौ र्सौ ल्गौ वसुरुद्रऋषयः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5755,14 +5979,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 7.32  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 अपवाहको म्नौ नौ नौ न्‌सौ गौ नवर्तुरसेन्द्रियाणि  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5781,14 +6005,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 7.33  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 दण्डको नौ रः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5806,14 +6030,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 7.34  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 प्रथमश्चण्डवृष्टिप्रयातः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5823,14 +6047,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 7.35  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 अन्यत्र रातमाण्डव्याभ्याम्  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5840,7 +6064,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 7.36  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 शेषः प्रचित इति 
 </details>
@@ -5862,31 +6086,31 @@ title = "सर्व-प्रस्तुतिः"
 
 ## 8
 ### 8.1  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 अत्रानुक्तं गाथा  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-अत्र शास्रे नामोद्देशेन यन्नोक्तं छन्दः, प्रयोगे च दृश्यते तद्गाथेति मन्तव्यम्‌ ।  
+अत्र शास्रे नामोद्देशेन यन्नोक्तं [छन्दः](#21), प्रयोगे च दृश्यते तद्गाथेति मन्तव्यम्‌ ।  
 </details>
 
 
 ### 8.2  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 कुड्मलदन्ती भ्तौ न्‌गौ गिन्द्रियरसाः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5900,14 +6124,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 8.3  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 वरतनुर्न्जौ ज्रौ षड्रसाः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5921,14 +6145,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 8.4  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 जलधरमाला म्भौ स्मौ समुद्रवसवः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5942,14 +6166,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 8.5  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 गौरी नौ रौ  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5962,14 +6186,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 8.6  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 ललना भ्तौ न्‌साविन्द्रियर्षयः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5983,14 +6207,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 8.7  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 कनकप्रभा स्जौ स्जौ ग्‌  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -6004,14 +6228,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 8.8  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 कुटिलगतिर्नौ तौ ग्‌ स्वरर्तवः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -6025,14 +6249,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 8.9  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 वरसुन्दरी भ्जौ स्नौ गौ 
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -6046,14 +6270,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 8.10  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 कुटिला म्भौ न्यौ गौ वेदरससमुद्राः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -6066,14 +6290,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 8.11  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 शैलशिखा भ्रौ न्नौ भ्गौ भूतरसेन्द्रियाणि  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -6087,14 +6311,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 8.12  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 वरयुवती भ्रौ य्नौ न्‌गौ  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -6108,14 +6332,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 8.13  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 अतिशायिनी सौ ज्भौ ज्गौ ग्‌ दिक्स्वराः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -6128,14 +6352,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 8.14  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 अवितथं न्जौ भ्जौ ज्लौ ग्‌  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -6149,14 +6373,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 8.15  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 वस्विन्द्रियसमुद्राश्चेतकोकिलकम्  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -6170,14 +6394,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 8.16  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 विबुधप्रिया र्सौ जौ भ्रौ वसुदिशः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -6190,14 +6414,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 8.17  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 नाराचकं नौ रौ रौ  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -6211,14 +6435,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 8.18  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 विस्मिता य्मौ न्सौ रौ ग्‌ रसर्तुस्वराः 
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -6231,14 +6455,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 8.19  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 शशिवदना न्जौ भ्जौ ज्‌ ज्रौ रुद्रदिशः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -6253,14 +6477,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 8.20  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
-द्विकौ ग्लौ  
+द्विकौ [ग्लौ](#114)  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -6270,14 +6494,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 8.21  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 मिश्रौ च  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -6287,14 +6511,14 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 8.22  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 पृथग्ला मिश्राः  
 </details>
 
 <details><summary>अधिकारः</summary>
 
-वृत्तम्, लौकिकम्, छन्दः, ग्लौ  
+वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -6304,7 +6528,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 8.23  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 वसवस्त्रिकाः  
 </details>
@@ -6316,7 +6540,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 8.24  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 लर्द्धे  
 </details>
@@ -6328,7 +6552,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 8.25  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 सैके ग्‌ 
 </details>
@@ -6340,7 +6564,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 8.26  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 प्रतिलोमगणं द्विर्लाद्यम्  
 </details>
@@ -6352,7 +6576,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 8.27  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 ततोग्यंकं जह्यात्  
 </details>
@@ -6364,7 +6588,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 8.28  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 द्विरर्द्धे  
 </details>
@@ -6376,7 +6600,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 8.29  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 रूपे शून्यम्‌  
 </details>
@@ -6388,7 +6612,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 8.30  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 द्विः शून्ये  
 </details>
@@ -6400,7 +6624,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 8.31  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 तावदर्धे तद्गुणितम्‌ 
 </details>
@@ -6412,7 +6636,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 8.32  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 द्विर्द्यूनं तदन्तानाम्‌  
 </details>
@@ -6425,7 +6649,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 8.33  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 एकोनेऽध्वा  
 </details>
@@ -6437,7 +6661,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 8.34  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 परे पूर्णम्‌  
 </details>
@@ -6449,7 +6673,7 @@ title = "सर्व-प्रस्तुतिः"
 
 
 ### 8.35  
-<details open><summary>मूलम्</summary>
+<details class="mUla" open><summary>मूलम्</summary>
 
 परे पूर्णमिति  
 </details>
