@@ -38,11 +38,18 @@ details.mUla[open] > :not(summary) {
 धी,श्री,स्त्री,म्  
 </details>
 
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
+</details>
+
 <details><summary>हलायुधवृत्तिः</summary>
 
 धीश्रीस्त्री इत्यनेन गुरुत्रयं संज्ञित्वेनोपलक्षयति, मकारश्च संज्ञात्वेन। ततश्चायमर्थः - सर्वगुरोस्त्रिकस्य (ऽऽऽ) 'म' इति संज्ञा परिभाष्यते। ध्यादीनामुपादानप्रयोजन[मुपरिष्टाद्वक्ष्यामः](#115)। मप्रदेशाः ['विद्युन्माला मौ गौ' (पि०सू० ६।६)](#66) इत्येवमादयः ॥
 </details>
-
 
 ### 1.2  
 <details><summary>सूत्रप्रकारः</summary>
@@ -60,11 +67,18 @@ details.mUla[open] > :not(summary) {
 वरा,सा,य्  
 </details>
 
-<details><summary>हलायुधवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
-वरा सा इत्यनेनादिलघोस्त्रिकस्य यसञ्ज्ञा (२) परिभाव्यते । यप्रदेशाः " भुजङ्गप्रयातं यः" इत्येवमादयः ॥  
 </details>
 
+<details><summary>अधिकारः</summary>
+
+</details>
+
+<details><summary>हलायुधवृत्तिः</summary>
+
+वरासा इत्यनेनादिलघोस्त्रिकस्य (।ऽऽ) 'य' इति संज्ञा परिभाष्यते। यप्रदेशाः ['भुजङ्गप्रयातं यः' (पि०सू० ६।३६)](#636) इत्येवमादयः॥
+</details>
 
 ### 1.3  
 <details><summary>सूत्रप्रकारः</summary>
@@ -82,11 +96,18 @@ details.mUla[open] > :not(summary) {
 का,गुहा,र् 
 </details>
 
-<details><summary>हलायुधवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
-का गुहा इत्यनेन मध्यलघोस्त्रिकस्य रसञ्ज्ञा (२) परिभाष्यते । रप्रदेशाः “स्रग्विणी रः” इत्येवमादयः ॥  
 </details>
 
+<details><summary>अधिकारः</summary>
+
+</details>
+
+<details><summary>हलायुधवृत्तिः</summary>
+
+कागुहा इत्यनेन मध्यलघोस्त्रिकस्य (ऽ।ऽ) 'र' इति संज्ञा परिभाष्यते। रप्रदेशाः ‘स्रग्विणी र:’ (पि०सू० ६।३७) इत्येवमादयः ॥
+</details>
 
 ### 1.4  
 <details><summary>सूत्रप्रकारः</summary>
@@ -104,11 +125,18 @@ details.mUla[open] > :not(summary) {
 वसुधा,स्  
 </details>
 
-<details><summary>हलायुधवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
-वसुधा इत्यनेनान्तगुरोस्तिकस्य ससञज्ञा (४) परिभाष्यते । सप्रदेशाः “ तोटकं सः” इत्येवमादयः ॥  
 </details>
 
+<details><summary>अधिकारः</summary>
+
+</details>
+
+<details><summary>हलायुधवृत्तिः</summary>
+
+वसुधा इत्यनेनान्त्यगुरोस्त्रिकस्य (।।ऽ) ‘स’ इति संज्ञा परिभाष्यते । सप्रदेशा: 'तोटकं सः' (पि०सू० ६।३१) इत्येवमादयः॥
+</details>
 
 ### 1.5  
 <details><summary>सूत्रप्रकारः</summary>
@@ -126,11 +154,18 @@ details.mUla[open] > :not(summary) {
 सा,ते,क्व,त्  
 </details>
 
-<details><summary>हलायुधवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
-सा ते क इत्यनेनान्तलघोस्त्रिकस्य तकारः सञ ज्ञात्वेनोपादी-यते (१) । तप्रदेशाः " तनुमध्या त्यौ” इत्येवमादयः ॥  
 </details>
 
+<details><summary>अधिकारः</summary>
+
+</details>
+
+<details><summary>हलायुधवृत्तिः</summary>
+
+सातेक्व इत्यनेनान्त्यलघोस्त्रिकस्य (ऽऽ।) ‘त’ इति संज्ञात्वेनोपादीयते । तप्रदेशाः 'तनुमध्या त्यौ' (पि०सू० ६।२) इत्येवमादयः ॥
+</details>
 
 ### 1.6  
 <details><summary>सूत्रप्रकारः</summary>
@@ -148,11 +183,18 @@ details.mUla[open] > :not(summary) {
 कदा,सः,ज् 
 </details>
 
-<details><summary>हलायुधवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
-कदा स इत्यनेन मध्यगुरोस्त्रिकस्य जसञ ज्ञा (२) परिभाष्यते । जप्रदेशाः "कुमारललिता ज्सौ ग्" इत्येवमाद्यः ॥  
 </details>
 
+<details><summary>अधिकारः</summary>
+
+</details>
+
+<details><summary>हलायुधवृत्तिः</summary>
+
+कदा स इत्यनेन मध्यगुरोस्त्रिकस्य (।ऽ।) ‘ज’ इति संज्ञा परिभाष्यते । जप्रदेशाः 'कुमारललिता ज्सौ ग्‌' (पि०सू० ६।२) इत्येवमादयः ॥
+</details>
 
 ### 1.7  
 <details><summary>सूत्रप्रकारः</summary>
@@ -170,11 +212,18 @@ details.mUla[open] > :not(summary) {
 किम्,वद,भ्  
 </details>
 
-<details><summary>हलायुधवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
-किं वद इत्यनेनादिगुरोस्त्रिकस्य भसञ्ज्ञा ज्ञाप्यते (२) । भप्रदेशाः “चित्रपदा भौ गौ" इत्येवमादयः ॥  
 </details>
 
+<details><summary>अधिकारः</summary>
+
+</details>
+
+<details><summary>हलायुधवृत्तिः</summary>
+
+किं वद इत्यनेनादिगुरोस्त्रिकस्य (ऽ।।) ‘भ’ इति संज्ञा ज्ञाप्यते । भप्रदेशाः 'चित्रपदा भौ गौ' (पि०सू० ६।५) इत्येवमादयः ॥ 
+</details>
 
 ### 1.8  
 <details><summary>सूत्रप्रकारः</summary>
@@ -189,14 +238,21 @@ details.mUla[open] > :not(summary) {
 
 <details><summary>पदच्छेदः</summary>
 
-न,हसन्  
+न,हस,न्  
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-न हस इत्यनेन सर्व्वलघोस्तिकस्य नसञ नोपदिश्यते (४) । न-प्रदेशाः "दण्डको नौ रः” इत्येवमादयः ॥  
+न हस इत्यनेन सर्वलघोस्त्रिकस्य (।।।) ‘न’ इति संज्ञोपदिश्यते । नप्रदेशः 'दण्डको नौ र:' (पि०सू० ७।३१) इत्येवमादयः ॥
 </details>
-
 
 ### 1.9  
 <details><summary>सूत्रप्रकारः</summary>
@@ -214,11 +270,22 @@ details.mUla[open] > :not(summary) {
 गृ,ल्  
 </details>
 
-<details><summary>हलायुधवृत्तिः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
-गृग्रहणं ह्रस्वैकाक्षरोपलक्षणार्थम् । तस्य लकारसञ् ज्ञा भवति (१)। लशब्दच लघुवाचकः । तेन क्रस्वमक्षरं लघु-66 सञ्ज्ञं भवतीत्यर्थः सम्पद्यते । लप्रदेशाः "लः समुद्रा गणः” इत्येवमादयः ॥  
+
 </details>
 
+<details><summary>अधिकारः</summary>
+
+</details>
+
+<details><summary>हलायुधवृत्तिः</summary>
+गृ इत्यनेनोपलक्षितस्य ह्रस्वस्य (।) ‘ल’ इति संज्ञा परिभाष्यते । लशब्दश्च लघुवाचकः । तेन ह्रस्वमक्षरं लघुसंज्ञं भवतीत्येवमर्थः प्रपद्यते । लप्रदेशाः ['लः समुद्रागणः' (पि०सू० ४।१२)](#412) इत्येवमादयः ॥
+
+[पाठभेदः-
+
+गृग्रहणं ह्रस्वैकाक्षरोपलक्षणार्थम् । तस्य लकारसञ् ज्ञा भवति (१)। लशब्दच लघुवाचकः । तेन क्रस्वमक्षरं लघु-66 सञ्ज्ञं भवतीत्यर्थः सम्पद्यते । लप्रदेशाः "लः समुद्रा गणः” इत्येवमादयः ॥]
+</details>
 
 ### 1.10  
 <details><summary>सूत्रप्रकारः</summary>
@@ -240,7 +307,11 @@ details.mUla[open] > :not(summary) {
 
 गृ
 </details>
-  
+
+<details><summary>अधिकारः</summary>
+
+</details>
+
 <details><summary>हलायुधवृत्तिः</summary>
 
 गृग्रहणमनुवर्त्तते । गृशब्दोपलक्षितस्य ह्रस्वाक्षरस्य पादान्ते वर्त्तमानस्य गुरुसञ्ज्ञाऽतिदिश्यते (१)। ग् इति प्रथमाचरप्रतीकेन गुरुशब्दस्य ग्रहणं (२) । ननु ग्लिति समानीत्यादीनां (४) पादान्ते वर्त्तमानस्य ह्रस्वस्य गुरुत्वं न दृश्यते । नैष दोषः । सर्वत्र पादान्ते वर्त्तमानस्य ह्रस्वस्य गुरुत्वमुत्सर्गसिद्धं । तच्च लकारश्रुत्यापवादेन बाध्यते । यथा । ग्लिति समानी, गोत्याय्या ल इत्यादौ सामान्यस्य विशेषेण बाधः कस्य न सम्मतः (*) । तस्मादचाद्यमेतत् (१)। केचिदिदं सूत्र व्यवस्थितविभाषया व्याचचते, प्रमाण्या-दौनामन्ते गुरुत्वमेव, समान्यादीनामन्त लघुत्वमेव, (१) शेषाणामिच्छ्या गुरुत्वं लघुत्वञ्चति । तदनुपपन्नं । विकल्प-स्याप्रस्तुतत्वात् कस्य व्यवस्थेति न विद्मः । ननु केनापक्तिं, "वा पादान्ते गुरु" इति (२) गुरुत्वं । सत्यमुक्तं । दुरुक्त हि तत् । वान्ते गुरु इति (२) प्रोक्त' यैस्तु खेतपदादिभिः । उत्सर्गस्यापवादेन बाधस्तैर्नावधारितः ॥ इत्युक्ते इच्छया गुरुत्वं लघुत्वञ्च नोपपद्यते । कस्येच्छया, किं शास्त्रकारस्य कवेर्वा । न तावदाद्यः पचः । सूत्रेष्वदर्शनात् । नापि द्वितीयः । कवे-रपि इच्छायां (४) व्यवस्थाभावात्, को जानाति कस्य कीदृशी-च्छेति । अन्ये त्वाहुः । ननु पादान्ते वर्त्तमानस्य ह्रस्वस्य पाणि-निना गुरुसञ्ज्ञा न कृता । तेनोक्त' "संयोगे गुरु, दीर्घच्च" (१।४।११-१२) इति । नायं संयोगादिर्न च दीर्घः । तस्मात् गन्त इति सूत्रमयुक्तः । अत्रोच्यते । पाणिनिना स्वशास्त्रप्रयो-जनार्थ गुरुसञ्ज्ञा कृता । "गुरोश्च हलः" (३।३।१०३) इत्यकारः प्रत्ययो यथा स्यात् । कुण्डा हुण्डा ईहाञ्चक्रे जहा-ञ्चक्र इत्येवमादीनां "इजादेश्च गुरुमतोनृच्छः" इति (३।१।३६ ) सूत्रेणाम्प्रत्ययश्च (५) । पादान्ते वर्त्तमानस्य लघोर्गुरुत्वाति-देशे पाणिनेः प्रयोजनमेव नास्ति । किञ्चानुस्वारादिपूर्वस्य वर्णस्य वनं घटः सम्पदित्यादौ स्थितस्य गुरुसञ्ज्ञा पाणिनिना न कृता, किमेतावता अन्यैरपि न कर्त्तव्या । तस्मात् सूत्रमिदं " गन्ते " इति । गप्रदेशाः "गावन्त आपोडः” इत्येवमादयः ॥  
@@ -267,7 +338,11 @@ details.mUla[open] > :not(summary) {
 
 ग्
 </details>
-  
+
+<details><summary>अधिकारः</summary>
+
+</details>
+
 <details><summary>हलायुधवृत्तिः</summary>
 
 ध्र इति व्यञ्जनसंयोगस्योपलचणम् । ध्र आदिर्येषां ते भ्राद्यः । 'आदि'पदेन विसर्जनीयानुस्वारजिह्वामूलीयोप-मानीयानां ग्रहणं । भ्रादयः परे यस्मात् सः घ्रादिपरः । ततश्चायं सूत्रार्थः, व्यञ्जनसंयोगात् पूर्व्वस्य इस्त्रस्य (१) अनुस्वारविसर्जनीयजिह्वामूलीयोपध्मानीयेभ्यश्च गुरुसञ् ज्ञाति-दिश्यते ॥  
@@ -294,7 +369,11 @@ details.mUla[open] > :not(summary) {
 
 ग्
 </details>
-  
+
+<details><summary>अधिकारः</summary>
+
+</details>
+
 <details><summary>हलायुधवृत्तिः</summary>
 
 ग इत्यनुवर्त्तते । हे इति द्दिमात्रोपलणार्थ ं । ततञ्चायं मूत्रा-र्थः, डिमात्रस्य (९) दीर्घस्य गकारसञ्ज्ञा क्रियते ॥  
@@ -302,6 +381,10 @@ details.mUla[open] > :not(summary) {
 
 
 ### 1.13  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 लौ सः  
@@ -310,6 +393,14 @@ details.mUla[open] > :not(summary) {
 <details><summary>पदच्छेदः</summary>
 
 लौ,सः  
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -334,6 +425,10 @@ details.mUla[open] > :not(summary) {
 ग्-लौ  
 </details>
 
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
 <details><summary>अधिकारः</summary>
 
 [ग्लौ](#114)  
@@ -346,6 +441,10 @@ details.mUla[open] > :not(summary) {
 
 
 ### 1.15  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 अष्टौ वसव इति  
@@ -356,14 +455,14 @@ details.mUla[open] > :not(summary) {
 अष्टौ,वसवः,इति  
 </details>
 
-<details><summary>अधिकारः</summary>
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 [ग्लौ](#114)  
 </details>
 
-<details><summary>हलायुधवृत्तिः</summary>
+<details><summary>अधिकारः</summary>
 
-अत्र शास्त्रे वसव इत्युच्यमानेऽष्टस‌ङ्ख्योपलचिता गुरुलघु-स्वरूपा वर्णाः (१) गृह्यन्ते । लौकिकप्रसिडुरपलक्षणार्थमिदं सूत्रं । तेन चतुणीं समुद्राः, पञ्चानामिन्द्रियाणोत्येवमादयः सञ्ज्ञा-विशेषा लौकिकेभ्यः (२) प्रत्येतराः । 'इति'कारोऽध्यायसमाप्ति-सूचकः ॥  
+[ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -394,6 +493,10 @@ details.mUla[open] > :not(summary) {
 छन्दः  
 </details>
 
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
 <details><summary>अधिकारः</summary>
 
 [छन्दः](#21), [ग्लौ](#114)  
@@ -419,6 +522,10 @@ details.mUla[open] > :not(summary) {
 <details><summary>पदच्छेदः</summary>
 
 गायत्री  
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -448,6 +555,10 @@ details.mUla[open] > :not(summary) {
 दैवी,एकम्  
 </details>
 
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
 <details><summary>अधिकारः</summary>
 
 [गायत्री](#22), [छन्दः](#21), [ग्लौ](#114)  
@@ -473,6 +584,10 @@ details.mUla[open] > :not(summary) {
 <details><summary>पदच्छेदः</summary>
 
 आसुरी,पञ्चदश  
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -502,6 +617,10 @@ details.mUla[open] > :not(summary) {
 प्राजापत्या,अष्टौ  
 </details>
 
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
 <details><summary>अधिकारः</summary>
 
 [गायत्री](#22), [छन्दः](#21), [ग्लौ](#114)  
@@ -527,6 +646,10 @@ details.mUla[open] > :not(summary) {
 <details><summary>पदच्छेदः</summary>
 
 यजुषाम्,षट्  
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -560,7 +683,7 @@ details.mUla[open] > :not(summary) {
 
 षट्
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 [गायत्री](#22), [छन्दः](#21), [ग्लौ](#114)  
@@ -592,7 +715,7 @@ details.mUla[open] > :not(summary) {
 
 षट्
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 [गायत्री](#22), [छन्दः](#21), [ग्लौ](#114)  
@@ -605,6 +728,10 @@ details.mUla[open] > :not(summary) {
 
 
 ### 2.9  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 द्वौ द्वौ साम्नां वर्धेत  
@@ -613,6 +740,10 @@ details.mUla[open] > :not(summary) {
 <details><summary>पदच्छेदः</summary>
 
 द्वौ,द्वौ,साम्नाम्,वर्धेत  
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -627,6 +758,10 @@ details.mUla[open] > :not(summary) {
 
 
 ### 2.10  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 त्रींस्त्रीनृचाम्  
@@ -635,6 +770,10 @@ details.mUla[open] > :not(summary) {
 <details><summary>पदच्छेदः</summary>
 
 त्रीन्,त्रीन्,ऋचाम्  
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -649,6 +788,10 @@ details.mUla[open] > :not(summary) {
 
 
 ### 2.11  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 चतुरश्चतुरः प्राजापत्यायाः  
@@ -657,6 +800,10 @@ details.mUla[open] > :not(summary) {
 <details><summary>पदच्छेदः</summary>
 
 चतुरः,चतुरः,प्राजापत्यायाः  
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -671,6 +818,10 @@ details.mUla[open] > :not(summary) {
 
 
 ### 2.12  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 एकैकं शेषे  
@@ -679,6 +830,10 @@ details.mUla[open] > :not(summary) {
 <details><summary>पदच्छेदः</summary>
 
 एकैकम्,शेषे  
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -712,7 +867,7 @@ details.mUla[open] > :not(summary) {
 
 एकैकम्
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 [गायत्री](#22), [छन्दः](#21), [ग्लौ](#114)  
@@ -740,6 +895,10 @@ details.mUla[open] > :not(summary) {
 तानि,उष्णिक्-अनुष्टुप्-बृहती-पङ्क्ति-त्रिष्टुब्-जगत्यः  
 </details>
 
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
 <details><summary>अधिकारः</summary>
 
 [छन्दः](#21), [ग्लौ](#114)  
@@ -765,6 +924,10 @@ details.mUla[open] > :not(summary) {
 <details><summary>पदच्छेदः</summary>
 
 तिस्रः-तिस्रः,सनाम्नन्यः,एका-एकाः,ब्राह्म्यः  
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -798,7 +961,7 @@ details.mUla[open] > :not(summary) {
 
 तिस्रः-तिस्रः
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 [छन्दः](#21), [ग्लौ](#114)  
@@ -812,6 +975,10 @@ details.mUla[open] > :not(summary) {
 
 ## 3
 ### 3.1  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 पादः  
@@ -820,6 +987,10 @@ details.mUla[open] > :not(summary) {
 <details><summary>पदच्छेदः</summary>
 
 पादः  
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -834,16 +1005,24 @@ details.mUla[open] > :not(summary) {
 
 
 ### 3.2  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 इयादिपूरणः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
 </details>
 
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 पादः
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -866,11 +1045,15 @@ details.mUla[open] > :not(summary) {
 गायत्र्या वसवः  
 </details>
 
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 पादः
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -893,11 +1076,15 @@ details.mUla[open] > :not(summary) {
 जगत्या आदित्याः  
 </details>
 
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 पादः
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -920,11 +1107,15 @@ details.mUla[open] > :not(summary) {
 विराजो दिशः  
 </details>
 
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 पादः
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -947,11 +1138,15 @@ details.mUla[open] > :not(summary) {
 त्रिष्टुभो रुद्राः  
 </details>
 
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 पादः
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -972,6 +1167,14 @@ details.mUla[open] > :not(summary) {
 <details class="mUla" open><summary>मूलम्</summary>
 
 एकद्वित्रिचतुष्पादुक्तपादम्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -1001,6 +1204,10 @@ details.mUla[open] > :not(summary) {
 आद्यम्,चतुष्पात्,ऋतुभिः  
 </details>
 
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -1025,11 +1232,15 @@ details.mUla[open] > :not(summary) {
 क्वचित्त्रिपादृषिभिः  
 </details>
 
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 आद्यम्
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -1053,11 +1264,15 @@ details.mUla[open] > :not(summary) {
 सा पादनिचृत्  
 </details>
 
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 आद्यम्
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -1080,11 +1295,15 @@ details.mUla[open] > :not(summary) {
 षट्‌कसप्तकयोर्मध्येऽष्टावतिपाद‌निचृत्  
 </details>
 
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 आद्यम्
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -1107,11 +1326,15 @@ details.mUla[open] > :not(summary) {
 द्दौ नवकौ षट्‌कश्च सा नागी  
 </details>
 
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 आद्यम्
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -1134,11 +1357,15 @@ details.mUla[open] > :not(summary) {
 विपरीता वाराही  
 </details>
 
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 आद्यम्
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -1161,11 +1388,15 @@ details.mUla[open] > :not(summary) {
 षट्‌कसप्तकाष्टकैर्वर्द्धमाना  
 </details>
 
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 आद्यम्
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -1190,11 +1421,15 @@ details.mUla[open] > :not(summary) {
 विपरीता प्रतिष्ठा  
 </details>
 
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 आद्यम्
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -1219,11 +1454,15 @@ details.mUla[open] > :not(summary) {
 तृतीयं द्विपाज्जागतगायत्राभ्याम्  
 </details>
 
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 आद्यम्
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -1257,7 +1496,7 @@ details.mUla[open] > :not(summary) {
 
 आद्यम्
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -1288,6 +1527,10 @@ details.mUla[open] > :not(summary) {
 उष्णिक्,गायत्रौ,जागतः,च  
 </details>
 
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -1310,11 +1553,15 @@ details.mUla[open] > :not(summary) {
 ककुम्मध्ये चेदन्त्यः  
 </details>
 
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 उष्णिक्
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -1338,11 +1585,15 @@ details.mUla[open] > :not(summary) {
 पुरउष्णिक् पुरतः  
 </details>
 
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 उष्णिक्
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -1367,11 +1618,15 @@ details.mUla[open] > :not(summary) {
 परोष्णिक् परः  
 </details>
 
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 उष्णिक्
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -1397,21 +1652,27 @@ details.mUla[open] > :not(summary) {
 चतुष्पादृषिभिः  
 </details>
 
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 उष्णिक्
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
+<details><summary>हलायुधवृत्तिः</summary>
+सप्ताक्षरैश्चतुर्भिः पादैरुष्णिमेव भवति ॥ तत्रोदाहरणम्।
 
-अध्यायः = "सप्ताक्षरैश्चतुर्भिः पादैरुष्णिमेव भवति ॥ तत्रोदाहरणम्।" 
+* नदं चतुर्दन्तीनां नदं यी युवतीनाम् । पतिं वो अघ्नानां धेनूनामिषुधासि ॥ (ऋ० ८।५८/२)
 
-अध्यायः = "* नदं चतुर्दन्तीनां नदं यी युवतीनाम् । पतिं वो अघ्नानां धेनूनामिषुधासि ॥ (ऋ० ८।५८/२)" 
- 
+इत्युष्णिगधिकारः ॥
+</details>
 
 ### 3.23  
 <details><summary>सूत्रप्रकारः</summary>
@@ -1422,6 +1683,14 @@ details.mUla[open] > :not(summary) {
 <details class="mUla" open><summary>मूलम्</summary>
 
 अनुष्टब् गायत्रैः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -1448,11 +1717,15 @@ details.mUla[open] > :not(summary) {
 त्रिपात् क्वचिज्जागताभ्याञ्च  
 </details>
 
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 अनुष्टुप्,गायत्रैः
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -1473,6 +1746,10 @@ details.mUla[open] > :not(summary) {
 <details class="mUla" open><summary>मूलम्</summary>
 
 मध्येऽन्ते च  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
 </details>
 
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
@@ -1507,6 +1784,14 @@ details.mUla[open] > :not(summary) {
 वृहती जागतस्त्रयश्च गायत्राः  
 </details>
 
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -1529,17 +1814,24 @@ details.mUla[open] > :not(summary) {
 पथ्या पूर्वश्च त्तृतीयः  
 </details>
 
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 बृहती
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
- 
+<details><summary>हलायुधवृत्तिः</summary>
+
+बृहतीत्यनुवर्त्तते । पूर्वः पादो जागतो यदि तृतीयो भवति, अन्धे गायत्राः, तदा असौ वृहती तथ्या नाम छन्दो भवति ॥
+</details>
 
 ### 3.28  
 <details><summary>सूत्रप्रकारः</summary>
@@ -1552,11 +1844,15 @@ details.mUla[open] > :not(summary) {
 न्यङ्गसारिणी द्वितीयः  
 </details>
 
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 बृहती
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -1579,11 +1875,15 @@ details.mUla[open] > :not(summary) {
 स्कन्धोग्रीवी क्रौष्टुकेः  
 </details>
 
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 बृहती
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -1606,11 +1906,15 @@ details.mUla[open] > :not(summary) {
 उरोवृद्धती यास्कस्य  
 </details>
 
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 बृहती
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -1633,11 +1937,15 @@ details.mUla[open] > :not(summary) {
 उपरिष्टाद् वृहत्यन्ते  
 </details>
 
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 बृहती
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -1662,11 +1970,15 @@ details.mUla[open] > :not(summary) {
 पुरस्ताद्वृहती पुरः  
 </details>
 
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 बृहती
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -1689,11 +2001,15 @@ details.mUla[open] > :not(summary) {
 कचिन्नवकाश्चत्वारः  
 </details>
 
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 बृहती
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -1717,11 +2033,15 @@ details.mUla[open] > :not(summary) {
 वैराजौ गायत्रौ च  
 </details>
 
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 बृहती
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -1744,11 +2064,15 @@ details.mUla[open] > :not(summary) {
 चिभिर्जागतैर्महावृहती  
 </details>
 
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 बृहती
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -1771,11 +2095,15 @@ details.mUla[open] > :not(summary) {
 सतोवृद्धती ताण्डिनः  
 </details>
 
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 बृहती
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -1796,6 +2124,14 @@ details.mUla[open] > :not(summary) {
 <details class="mUla" open><summary>मूलम्</summary>
 
 प‌ङ्क्तिजीगतौ गायत्री च  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -1820,6 +2156,14 @@ details.mUla[open] > :not(summary) {
 पूर्वौ चेदयुजौ सतःपङ्क्तिः  
 </details>
 
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -1842,11 +2186,15 @@ details.mUla[open] > :not(summary) {
 विपरीतौ च  
 </details>
 
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 सतःपङ्क्तिः
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -1864,8 +2212,19 @@ details.mUla[open] > :not(summary) {
 सञ्ज्ञा  
 </details>
 
-सूत्रम् = "आस्तारप‌ङ्क्तिः परतः  
-"  
+<details class="mUla" open><summary>मूलम्</summary>
+
+आस्तारप‌ङ्क्तिः परतः 
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -1888,6 +2247,14 @@ details.mUla[open] > :not(summary) {
 प्रस्तारपङक्तिः पुरतः  
 </details>
 
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -1900,9 +2267,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 3.42  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 विष्टारपङ क्तिरन्तः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -1917,9 +2296,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 3.43  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 संस्तारप‌ङ्क्तिर्वहिः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -1934,9 +2325,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 3.44  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 अक्षरपङ्क्तिः पञ्चकाश्चत्वारः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -1951,16 +2354,24 @@ details.mUla[open] > :not(summary) {
 
 
 ### 3.45  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 द्वावप्यल्पशः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
 </details>
 
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 पञ्चकाः,पङ्क्तिः
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -1973,16 +2384,24 @@ details.mUla[open] > :not(summary) {
 
 
 ### 3.46  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 पदपङ्क्तिः पञ्च  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
 </details>
 
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 पञ्चकाः
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -1995,16 +2414,24 @@ details.mUla[open] > :not(summary) {
 
 
 ### 3.47  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 चतुष्कषट्‌कौ त्रयश्च  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
 </details>
 
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 पञ्चकाः,पङ्क्तिः
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -2017,16 +2444,24 @@ details.mUla[open] > :not(summary) {
 
 
 ### 3.48  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 पथ्या पञ्चभिर्गायत्रैः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
 </details>
 
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 पङ्क्तिः
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -2040,16 +2475,24 @@ details.mUla[open] > :not(summary) {
 
 
 ### 3.49  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 जगती षड्भिः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
 </details>
 
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 गायत्रैः
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -2062,16 +2505,24 @@ details.mUla[open] > :not(summary) {
 
 
 ### 3.50  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 एकेन त्रिष्टुव् ज्योतिष्मती  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
 </details>
 
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 गायत्रैः
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -2084,9 +2535,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 3.51  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 तथा जगती  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -2101,16 +2564,24 @@ details.mUla[open] > :not(summary) {
 
 
 ### 3.52  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 पुरस्ताज्ज्योतिः प्रथमेन  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
 </details>
 
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 जगती,त्रिष्टुप्
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -2123,16 +2594,24 @@ details.mUla[open] > :not(summary) {
 
 
 ### 3.53  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 मध्येज्योतिर्मध्यमेन  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
 </details>
 
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 जगती,त्रिष्टुप्
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -2145,16 +2624,24 @@ details.mUla[open] > :not(summary) {
 
 
 ### 3.54  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 उपरिष्टाज्ज्योतिरन्तेन  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
 </details>
 
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 जगती,त्रिष्टुप्
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
@@ -2167,9 +2654,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 3.55  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 एकस्मिन् पञ्चके छन्दः शङ्कुमती  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -2184,9 +2683,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 3.56  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 षट्‌के ककुम्मती  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -2201,9 +2712,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 3.57  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 त्रिपा‌दणिष्ठमध्या पिपीलिकमध्या  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -2218,9 +2741,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 3.58  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 विपरीता यवमध्या  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -2235,9 +2770,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 3.59  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 ऊनाधिकेनैकेन (*) निवृड्ङ्गुरिजौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -2252,9 +2799,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 3.60  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 द्वाभ्यां विराट्‌स्वराजौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -2269,9 +2828,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 3.61  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 आदितः सन्दिग्धे  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -2286,9 +2857,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 3.62  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 देवतादितश्च  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -2303,9 +2886,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 3.63  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 अग्निः सविता सोमो वृहस्पतिर्वरुण इन्द्रो विश्वेदेवाः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -2320,9 +2915,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 3.64  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 स्वराः षड्जादयः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -2337,9 +2944,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 3.65  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 सित-सारङ्ग-पिसङ्ग-कृष्ण-नील लोहित-गौरा वर्णाः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -2354,9 +2973,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 3.66  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 आग्निवेश्य-काश्यप-गौतमाङ्गिरस-भार्गव कौशिक-वाशिष्ठानि गोत्राणि इति  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -2373,9 +3004,21 @@ details.mUla[open] > :not(summary) {
 
 ## 4
 ### 4.1  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 चतुःशतमुत्कृतिः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -2390,9 +3033,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.2  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 चतुरश्चतुरस्त्यजेदुत्कृतेः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -2407,9 +3062,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.3  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 तान्यभिसंव्याप्रेभ्यः कृतिः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -2424,9 +3091,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.4  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 प्रकृत्या च  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -2441,9 +3120,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.5  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 धुत्यष्टि-शर्करी जगत्यः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -2458,9 +3149,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.6  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 पृथक् पृथक् पूर्वत एतान्येवैषाम्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -2475,9 +3178,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.7  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 द्वितीयं द्वितीयमतितः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -2492,9 +3207,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.8  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 अत्र लौकिकम्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -2509,9 +3236,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.9  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 आत्रैष्टुभाच्च यदार्षम्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -2526,9 +3265,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.10  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 पादश्चतुर्भागः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -2543,9 +3294,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.11  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 यथावृत्तसमाप्तिवी  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -2562,9 +3325,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.12  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 लः समुद्रा गणः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -2579,9 +3354,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.13  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 गौ गन्तमध्यादिर्लश्च  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -2596,9 +3383,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.14  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 स्वरा अर्धञ्चार्य्यार्द्धम्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -2624,16 +3423,24 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.15  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 अत्रायुङ् न ज्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
 </details>
 
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 आर्या
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
@@ -2646,16 +3453,24 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.16  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 षष्ठो ज्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
 </details>
 
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 आर्या
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
@@ -2672,16 +3487,24 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.17  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 न्लौ वा  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
 </details>
 
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 आर्या
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
@@ -2696,16 +3519,24 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.18  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 न्लौ चेत्पदं द्वितीयादि  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
 </details>
 
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 आर्या
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
@@ -2718,16 +3549,24 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.19  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 सप्तमः प्रथमादि  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
 </details>
 
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 आर्या
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
@@ -2744,16 +3583,24 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.20  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 अन्त्ये पञ्चमः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
 </details>
 
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
 
 आर्या
 </details>
-  
+
 <details><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
@@ -2768,9 +3615,17 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.21  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 षष्ठश्च ल्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
 </details>
 
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
@@ -2790,9 +3645,17 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.22  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 त्रिषु गणेषु पादः पथ्याद्ये च  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
 </details>
 
 <details class="anuvRtti"><summary>अनुवृत्तिः</summary>
@@ -2815,9 +3678,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.23  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 विपुलान्या  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -2846,9 +3721,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.24  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 चपला द्वितीयचतुर्थों ग्मध्ये जौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -2863,9 +3750,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.25  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 पूर्वे मुखपूर्वा  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -2888,9 +3787,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.26  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 जघनपूर्वेतरत्र  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -2913,9 +3824,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.27  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 उभयोर्महाचपला  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -2935,9 +3858,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.28  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 आद्यर्धसमा गीतिः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -2963,9 +3898,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.29  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 अन्त्येनोपगीतिः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -2991,9 +3938,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.30  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 उत्क्रमेणोद्‌गीतिः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3019,9 +3978,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.31  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 अर्धे वसुगण' आर्यागीतिः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3048,9 +4019,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.32  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 वतालीयं द्विः स्वरा अयुक्पादे युग्वसवोऽन्ते र्ल्गः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3073,9 +4056,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.33  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 गौपच्छन्दसकम्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3095,9 +4090,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.34  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 आपतालिका भ्गौ ग् 
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3114,9 +4121,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.35  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 शेषे परेण युङ् न साकम्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3131,9 +4150,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.36  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 षट् चामिश्रा युजि  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3156,9 +4187,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.37  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 पञ्चमेन पूर्वः साकं प्राच्यवृत्तिः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3176,9 +4219,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.38  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 अयुक्तृतीयेनोदीच्यवृत्तिः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3195,9 +4250,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.39  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 आभ्यां युगपत्प्रवृत्तकम्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3214,9 +4281,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.40  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 अयुक्चारुहासिनी  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3233,9 +4312,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.41  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 युगपरान्तिका  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3255,9 +4346,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.42  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 गन्ता द्विर्वसवो मात्रासमकं ल् नवमः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3275,9 +4378,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.43  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 द्वादशश्च वानवासिका  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3294,9 +4409,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.44  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 विश्लोकः पञ्चमाष्टमौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3308,9 +4439,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.45  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 चिंत्रा नवमश्च  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3323,9 +4470,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.46  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 परयुक्तेनोपचित्रा  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3337,9 +4500,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.47  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 एभिः पादाकुलकम्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3361,9 +4540,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.48  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 गीत्यार्या लः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3378,9 +4573,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.49  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 शिखा विपर्यस्तार्धा  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3391,9 +4602,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.50  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 लः पूर्वश्चेज्ज्योतिः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3407,9 +4634,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.51  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 गश्चेत्सौम्या  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3423,9 +4666,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.52  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 चूलिकैकोनत्रिंशदेकत्रिंशदन्ते ग्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3446,9 +4705,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 4.53  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 साग् येन न समा लां ग्ल इति  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -3464,9 +4739,21 @@ details.mUla[open] > :not(summary) {
 
 ## 5
 ### 5.1  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 वृत्तम्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3484,9 +4771,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.2  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 सममर्धसमं विषमं च  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3501,9 +4800,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.3  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 समं तावत्कृत्वः कृतमर्धसमम्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3518,9 +4829,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.4  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 विषमं च  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3536,9 +4859,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.5  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 राश्यूनम्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3553,9 +4888,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.6  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 ग्लिति समानी  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3575,9 +4922,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.7  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 ल्गिति प्रमाणी  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3594,9 +4953,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.8  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 वितानमन्यत्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3626,9 +4997,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.9  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 पादस्यानुष्टुब्वक्रम्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3643,9 +5026,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.10  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 न प्रथमात्स्नौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3660,9 +5055,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.11  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 द्वितीयचतुर्थयो रश्च  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3677,9 +5084,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.12  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 वान्यत्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3694,9 +5113,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.13  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 य चतुर्थात्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3720,9 +5151,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.14  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 पथ्या युजो ज्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3739,9 +5182,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.15  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 विपरीतैकीयम्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3758,9 +5213,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.16  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 चपलायुजो न्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3777,9 +5244,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.17  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 विपुला युग्लः सप्तमः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3795,9 +5274,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.18  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 सर्वतः सैतवस्य  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3815,9 +5306,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.19  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 भ्रौ न्तौ च  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3905,9 +5408,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.20  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 प्रतिपादं चतुर्वृद्ध्या पदचतुरूर्ध्वम् 
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3927,9 +5442,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.21  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 गावन्त आपीडः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3948,9 +5475,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.22  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 गावादौ चेत्प्रत्यापीडः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3969,9 +5508,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.23  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 प्रत्यापीडो गावादौ च  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -3991,9 +5542,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.24  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 प्रथमस्य विपर्यासे मञ्जरीलवल्यमृतधाराः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4025,9 +5588,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.25  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 उद्गतामेकतः सूजौ स्लौ, न्सौ ज्गौ, भ्नौ जूलौ ग्, स्जौ सूजौ ग् ।  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4048,9 +5623,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.26  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 तृतीयस्य सौरभकं नै भ्गौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4067,9 +5654,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.27  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 ललितं नौ सौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4089,9 +5688,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.28  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 उपस्थितप्रचुपितं पृथगाद्यं म्सौ ज्भौ गौ, स्नौ जौ ग्, नौ स्, नौ न् ज्यौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4111,9 +5722,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.29  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 वर्द्धमानं नौ स्नौ न्सौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4132,9 +5755,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.30  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 शुद्धविराडृषभं तज्‌राः 
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4154,9 +5789,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.31  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 अर्द्धे  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4171,9 +5818,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.32  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 उपचित्रकं सौ स्लौ ग्, भौ भ्गौ ग्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4192,9 +5851,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.33  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 द्रुतमध्या भौ भूगौ ग्, न्जौ ज्यौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4213,9 +5884,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.34  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 वेगवती सौ स्गौ, भौ भ्गौ ग्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4234,9 +5917,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.35  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 भद्रविराट् त्जौ र्गौ, म्सौ जगौ ग्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4256,9 +5951,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.36  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 केतुमती स्जौ स्गौ, भरौ न्गौ ग्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4277,9 +5984,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.37  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 आख्यानकी तौ ज्गौ ग्, ज्तौ ज्गौ ग्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4299,9 +6018,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.38  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 विपरीताख्यानकी ज्तौ ज्गौ ग्, तौ ज्गौ ग्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4321,9 +6052,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.39  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 हरिणप्लुता सौ स्लौ ग्, न्भौ भ्‌रौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4342,9 +6085,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.40  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 अपरव्रकं नौ र्‌लौ ग्, न्जौ ज्‌रौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4364,9 +6119,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.41  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 पुष्पिताग्रा नौ र्‌यौ, न्जौ ज्‌रौ ग्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4385,9 +6152,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.42  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 यवमती र्जौ र्जौ, ज्रौ ज्रौ ग्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4407,9 +6186,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.43  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 शिखैकोनत्रिंदशदेकत्रिंदशदन्ते ग्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -4423,9 +6218,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 5.44  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 खञ्जा महत्ययुजीति  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -4441,9 +6252,21 @@ details.mUla[open] > :not(summary) {
 
 ## 6
 ### 6.1  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 यतिर्विच्छेदः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4572,9 +6395,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.2  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 तनुमध्या त्यौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4593,9 +6428,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.3  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 कुमारललिता ज्सौ ग्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4615,9 +6462,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.4  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 माणवकाक्रीडितकं भ्तौ ल्गौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4634,9 +6493,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.5  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 चित्रपदा भौ गौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4654,9 +6525,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.6  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 विद्युन्माला मौ गौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4677,9 +6560,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.7  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 हंसरुतं म्नौ गौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4696,9 +6591,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.8  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 भुजगशिशुसृता नौ म्‌  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4718,9 +6625,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.9  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 हलमुखीर्नौ स्‌  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4738,9 +6657,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.10  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 शुद्धविराट् म्सौ ज्गौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4758,9 +6689,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.11  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 पणवो म्नौ य्गौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4778,9 +6721,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.12  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 रुक्मवती भ्मौ स्गौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4797,9 +6752,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.13  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 मयूरसारिणी र्जौ र्गौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4817,9 +6784,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.14  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 मत्ता म्भौ स्गौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4837,9 +6816,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.15  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 उपस्थिता त्जौ ज्गौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4857,9 +6848,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.16  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 इन्द्रवज्रा तौ ज्गौ ग्‌  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4883,9 +6886,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.17  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 उपेन्द्रवज्रा ज्तौ ज्गौ ग्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4903,9 +6918,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.18  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 आद्यन्तावुपजातयः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4913,11 +6940,26 @@ details.mUla[open] > :not(summary) {
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
+<details><summary>हलायुधवृत्तिः</summary>
+
+</details>
 
 ### 6.19  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 दोधकं भौ भ्गौ ग्‌  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -4935,9 +6977,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.20  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 शालिनी म्तौ त्गौ ग्‌ समुद्रऋषयः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -4951,9 +7009,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.21  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 वातोर्मी म्भौ त्गौ ग्‌ च  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -4969,9 +7043,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.22  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 भ्रमरविलसितं म्भौ न्लौ ग्‌  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -4986,9 +7076,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.23  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 रथोद्धता र्नौ र्लौ ग्‌  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5001,9 +7107,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.24  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 स्वागता र्‌नौ भ्गौ ग्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5016,9 +7138,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.25  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 वृन्ता नौ स्गौ ग्‌  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5032,9 +7170,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.26  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 श्येनी र्जौ र्लौ ग्‌  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5047,9 +7201,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.27  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 विलासिनी ज्रौ ज्गौ ग्‌  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5061,9 +7231,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.28  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 जगती  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5073,9 +7259,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.29  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 वंशस्था ज्तौ ज्रौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5087,9 +7289,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.30  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 इन्द्रवंशा तौ ज्रौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5102,9 +7320,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.31  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 द्रुतविलम्बितं न्‌भौ भ्रौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5116,9 +7350,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.32  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 तोटकं सः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5131,9 +7381,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.33  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 पुटो नौ म्यौ वसुसमुद्राः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5147,9 +7413,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.34  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 जलोद्धतगतिर्ज्सौ ज्सौ रसर्तवः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5161,9 +7443,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.35  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 ततं नौ म्रौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5175,9 +7473,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.36  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 कुसुमविचित्रा न्यौ न्यौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5189,9 +7503,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.37  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 चञ्चलाक्षिका नौ रौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5203,9 +7533,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.38  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 भुजङ्गप्रयातं यः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5218,9 +7564,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.39  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 स्रग्विणी रः 
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5232,9 +7594,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.40  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 प्रमिताक्षरा स्जौ सौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5247,9 +7625,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.41  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 कान्तोत्पीडा भ्मौ स्मौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5262,9 +7656,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.42  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 वैश्वदेवी मौ याविन्द्रियऋषयः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5278,9 +7688,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.43  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 वाहिनी त्यौ म्यावृषिकामशराः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5294,9 +7720,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 6.44  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 नवमालिनी न्जौ भ्याविति  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -5312,9 +7754,21 @@ details.mUla[open] > :not(summary) {
 
 ## 7
 ### 7.1  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 प्रहर्षिणी म्नौ जरौ ग् त्रिकदशकौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -5334,9 +7788,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 7.2  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 रुचिरा ज्भौ स्जौ ग्‌ चतुर्नवकौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -5355,9 +7821,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 7.3  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 मत्तमयूरं म्तौ य्सौ ग्‌ समुद्रनवकौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -5376,9 +7854,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 7.4  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 गौरी नौ न्सौ ग्‌ 
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -5396,9 +7886,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 7.5  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 असंबाधा म्तौ न्‌सौ गाविन्द्रियनवकौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -5412,14 +7914,26 @@ details.mUla[open] > :not(summary) {
 भङ्क्त्वा दु-र्गाणि(५)द्रु-भवन-मखिलं छि-त्त्वा (९)  
 हत्वा त-त्सैन्यं(५)क-रितुर-गबलं हृ-त्वा(९)  
 येनासं-बाधा(५)स्थि-तिरज-नि विप-क्षा-णां(९)  
-सेर्वीवी-नाथः(५)स जयति नृपति-र्मु-ञ्जः(९) ||  
+सेर्वीवी-नाथः(५)स जयति नृपति-र्मु-ञ्जः(९) ॥  
 </details>
 
 
 ### 7.6  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 अपराजिता नौ र्सौ ल्गौ स्वरऋषयः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -5438,9 +7952,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 7.7  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 प्रहरणकलिता नौ भ्नौ ल्गौ च  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -5459,9 +7985,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 7.8  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 वसन्ततिलका त्भौ जौ गौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -5481,9 +8019,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 7.9  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 सिंहोन्नता काश्यपस्य  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -5498,9 +8048,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 7.10  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 उद्धर्षिणी सैतवस्य  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -5515,9 +8077,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 7.11  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 चन्द्रावर्ता नौ नौ स्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -5536,9 +8110,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 7.12  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 मालर्तुनवकौ चेत्‌  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -5557,9 +8143,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 7.13  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 मणिगुणनिकरो वस्वृषयः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -5578,9 +8176,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 7.14  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 मालिनी नौ म्यौ य्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -5600,9 +8210,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 7.15  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 ऋषभगजविलसितं भ्रौ नौ न्गौ स्वरनवकौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -5621,9 +8243,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 7.16  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 हरिणी न्सौ म्रौ स्‌लौ गृतुसमुद्रऋषयः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -5642,9 +8276,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 7.17  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 पृथ्वी ज्सौ ज्सौ यलौ ग्‌ वसुनवकौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -5664,9 +8310,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 7.18  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 वंशपत्रपतितं भ्रौ न्‌भौ न्लौ ग्‌ दिगृषयः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -5685,9 +8343,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 7.19  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 मन्दाक्रान्ता म्भौ न्तौ त्‌गौ ग्‌ समुद्रर्तुस्वराः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -5706,9 +8376,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 7.20  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 शिखरिणी यमौ न्‌सौ भ्लौ गृतुरुद्राः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -5727,9 +8409,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 7.21  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 कुसुमितलतावेल्लिता म्तौ न्यौ याविन्द्रियर्तुस्वराः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -5748,9 +8442,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 7.22  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 शार्दूलविक्रीडितं म्सौ ज्सौ तौ गादित्यऋषयः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -5770,9 +8476,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 7.23  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 सुवदना म्रौ भ्नौ य्भौ ल्गावृषिस्वरर्तवः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -5791,9 +8509,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 7.24  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 ग्लिति वृत्तम्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -5813,9 +8543,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 7.25  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 मद्रकं भ्रौ न्रौ न्रौ न्‌गौ दिगादित्याः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -5834,9 +8576,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 7.26  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 मत्ताक्रीडा मौ त्नौ नौ न्लौ ग्‌ वसुपञ्जचदशकौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -5855,9 +8609,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 7.27  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 अश्वललितं न्‌जौ भ्जौ भ्जौ भ्लौ ग्रुद्राऽऽदित्याः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -5876,9 +8642,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 7.28  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 मत्ताक्रीडा मौ त्नौ नौ न्लौ ग्‌ वसुपञ्जचदशकौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -5898,9 +8676,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 7.29  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 तन्वी भ्तौ न्सौ भौ न्याविन्द्रियस्वरमासाः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -5919,9 +8709,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 7.30  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 क्रौञ्चपदा भ्मौ स्‌भौ नौ नौ ग्‌ भूतेन्द्रियवस्वृषयः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -5945,9 +8747,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 7.31  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 भुजङगविजृम्भितं मौ त्नौ नौ र्सौ ल्गौ वसुरुद्रऋषयः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -5979,9 +8793,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 7.32  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 अपवाहको म्नौ नौ नौ न्‌सौ गौ नवर्तुरसेन्द्रियाणि  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -6005,9 +8831,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 7.33  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 दण्डको नौ रः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -6030,9 +8868,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 7.34  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 प्रथमश्चण्डवृष्टिप्रयातः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -6047,9 +8897,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 7.35  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 अन्यत्र रातमाण्डव्याभ्याम्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -6064,9 +8926,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 7.36  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 शेषः प्रचित इति 
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -6086,9 +8964,21 @@ details.mUla[open] > :not(summary) {
 
 ## 8
 ### 8.1  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 अत्रानुक्तं गाथा  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -6103,9 +8993,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 8.2  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 कुड्मलदन्ती भ्तौ न्‌गौ गिन्द्रियरसाः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -6124,9 +9026,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 8.3  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 वरतनुर्न्जौ ज्रौ षड्रसाः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -6145,9 +9059,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 8.4  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 जलधरमाला म्भौ स्मौ समुद्रवसवः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -6166,9 +9092,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 8.5  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 गौरी नौ रौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -6186,9 +9124,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 8.6  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 ललना भ्तौ न्‌साविन्द्रियर्षयः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -6207,9 +9157,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 8.7  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 कनकप्रभा स्जौ स्जौ ग्‌  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -6228,9 +9190,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 8.8  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 कुटिलगतिर्नौ तौ ग्‌ स्वरर्तवः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -6249,9 +9223,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 8.9  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 वरसुन्दरी भ्जौ स्नौ गौ 
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -6270,9 +9256,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 8.10  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 कुटिला म्भौ न्यौ गौ वेदरससमुद्राः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -6290,9 +9288,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 8.11  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 शैलशिखा भ्रौ न्नौ भ्गौ भूतरसेन्द्रियाणि  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -6311,9 +9321,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 8.12  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 वरयुवती भ्रौ य्नौ न्‌गौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -6332,9 +9354,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 8.13  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 अतिशायिनी सौ ज्भौ ज्गौ ग्‌ दिक्स्वराः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -6352,9 +9386,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 8.14  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 अवितथं न्जौ भ्जौ ज्लौ ग्‌  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -6373,9 +9419,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 8.15  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 वस्विन्द्रियसमुद्राश्चेतकोकिलकम्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -6394,9 +9452,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 8.16  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 विबुधप्रिया र्सौ जौ भ्रौ वसुदिशः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -6414,9 +9484,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 8.17  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 नाराचकं नौ रौ रौ  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -6435,9 +9517,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 8.18  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 विस्मिता य्मौ न्सौ रौ ग्‌ रसर्तुस्वराः 
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -6455,9 +9549,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 8.19  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 शशिवदना न्जौ भ्जौ ज्‌ ज्रौ रुद्रदिशः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -6477,9 +9583,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 8.20  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 द्विकौ [ग्लौ](#114)  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -6494,9 +9612,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 8.21  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 मिश्रौ च  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -6511,9 +9641,21 @@ details.mUla[open] > :not(summary) {
 
 
 ### 8.22  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 पृथग्ला मिश्राः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
 </details>
 
 <details><summary>अधिकारः</summary>
@@ -6528,9 +9670,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 8.23  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 वसवस्त्रिकाः  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -6540,9 +9698,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 8.24  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 लर्द्धे  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -6552,9 +9726,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 8.25  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 सैके ग्‌ 
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -6564,9 +9754,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 8.26  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 प्रतिलोमगणं द्विर्लाद्यम्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -6576,9 +9782,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 8.27  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 ततोग्यंकं जह्यात्  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -6586,11 +9808,26 @@ details.mUla[open] > :not(summary) {
 पूर्वोक्ते कर्मणि क्रियमाणे यदि सा सङ्ख्या गकारस्थानमापद्यते, तदा तां द्विगुणयित्वा ततः सङ्ख्यासमुदायादेकं त्यजेत्‌ । ततः पूर्वोक्तं कर्म कुर्यात्‌ । ततः परिपूर्णत्वात्तद्वृत्तसङ्ख्या सिद्ध्यति॥ 
 </details>
 
-
 ### 8.28  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 द्विरर्द्धे  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -6600,9 +9837,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 8.29  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 रूपे शून्यम्‌  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -6612,9 +9865,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 8.30  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 द्विः शून्ये  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -6624,9 +9893,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 8.31  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 तावदर्धे तद्गुणितम्‌ 
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -6636,9 +9921,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 8.32  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 द्विर्द्यूनं तदन्तानाम्‌  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -6649,9 +9950,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 8.33  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 एकोनेऽध्वा  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -6661,9 +9978,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 8.34  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 परे पूर्णम्‌  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
@@ -6673,9 +10006,25 @@ details.mUla[open] > :not(summary) {
 
 
 ### 8.35  
+<details><summary>सूत्रप्रकारः</summary>
+
+</details>
+
 <details class="mUla" open><summary>मूलम्</summary>
 
 परे पूर्णमिति  
+</details>
+
+<details><summary>पदच्छेदः</summary>
+
+</details>
+
+<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+
+</details>
+
+<details><summary>अधिकारः</summary>
+
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
