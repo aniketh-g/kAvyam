@@ -25,7 +25,7 @@ details.mUla[open] > :not(summary) {
 ### 1.1  
 <details><summary>सूत्रप्रकारः</summary>
 
-संज्ञा  
+संज्ञा (म-संज्ञा)
 </details>
 
 <details class="mUla" open><summary>मूलम्</summary>
@@ -38,23 +38,23 @@ details.mUla[open] > :not(summary) {
 धी,श्री,स्त्री,म्  
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-धीश्रीस्त्री इत्यनेन गुरुत्रयं संज्ञित्वेनोपलक्षयति, मकारश्च संज्ञात्वेन। ततश्चायमर्थः - सर्वगुरोस्त्रिकस्य (ऽऽऽ) 'म' इति संज्ञा परिभाष्यते। ध्यादीनामुपादानप्रयोजन[मुपरिष्टाद्वक्ष्यामः](#115)। मप्रदेशाः ['विद्युन्माला मौ गौ' (पि०सू० ६।६)](#66) इत्येवमादयः ॥
+धीश्रीस्त्री इत्यनेन गुरुत्रयं संज्ञित्वेनोपलक्षयति, मकारश्च संज्ञात्वेन। ततश्चायमर्थः - सर्वगुरोस्त्रिकस्य (ऽऽऽ) 'म' इति संज्ञा परिभाष्यते। ध्यादीनामुपादानप्रयोजन[मुपरिष्टाद्वक्ष्यामः](#115)। मप्रदेशाः [विद्युन्माला मौ गौ ६।६](#66) इत्येवमादयः ॥
 </details>
 
 ### 1.2  
 <details><summary>सूत्रप्रकारः</summary>
 
-संज्ञा  
+संज्ञा (य-संज्ञा)
 </details>
 
 <details class="mUla" open><summary>मूलम्</summary>
@@ -67,23 +67,23 @@ details.mUla[open] > :not(summary) {
 वरा,सा,य्  
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-वरासा इत्यनेनादिलघोस्त्रिकस्य (।ऽऽ) 'य' इति संज्ञा परिभाष्यते। यप्रदेशाः ['भुजङ्गप्रयातं यः' (पि०सू० ६।३६)](#636) इत्येवमादयः॥
+वरासा इत्यनेनादिलघोस्त्रिकस्य (।ऽऽ) 'य' इति संज्ञा परिभाष्यते। यप्रदेशाः [भुजङ्गप्रयातं यः ६।३८](#638) इत्येवमादयः॥
 </details>
 
 ### 1.3  
 <details><summary>सूत्रप्रकारः</summary>
 
-संज्ञा  
+संज्ञा (र-संज्ञा)
 </details>
 
 <details class="mUla" open><summary>मूलम्</summary>
@@ -96,23 +96,23 @@ details.mUla[open] > :not(summary) {
 का,गुहा,र् 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-कागुहा इत्यनेन मध्यलघोस्त्रिकस्य (ऽ।ऽ) 'र' इति संज्ञा परिभाष्यते। रप्रदेशाः ‘स्रग्विणी र:’ (पि०सू० ६।३७) इत्येवमादयः ॥
+कागुहा इत्यनेन मध्यलघोस्त्रिकस्य (ऽ।ऽ) 'र' इति संज्ञा परिभाष्यते। रप्रदेशाः [स्रग्विणी रः ६।३९](#639) इत्येवमादयः ॥
 </details>
 
 ### 1.4  
 <details><summary>सूत्रप्रकारः</summary>
 
-संज्ञा  
+संज्ञा (स-संज्ञा)
 </details>
 
 <details class="mUla" open><summary>मूलम्</summary>
@@ -125,23 +125,23 @@ details.mUla[open] > :not(summary) {
 वसुधा,स्  
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-वसुधा इत्यनेनान्त्यगुरोस्त्रिकस्य (।।ऽ) ‘स’ इति संज्ञा परिभाष्यते । सप्रदेशा: 'तोटकं सः' (पि०सू० ६।३१) इत्येवमादयः॥
+वसुधा इत्यनेनान्त्यगुरोस्त्रिकस्य (।।ऽ) 'स' इति संज्ञा परिभाष्यते । सप्रदेशाः [तोटकं सः ६।३२](#632) इत्येवमादयः॥
 </details>
 
 ### 1.5  
 <details><summary>सूत्रप्रकारः</summary>
 
-संज्ञा  
+संज्ञा (त-संज्ञा)
 </details>
 
 <details class="mUla" open><summary>मूलम्</summary>
@@ -154,23 +154,23 @@ details.mUla[open] > :not(summary) {
 सा,ते,क्व,त्  
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-सातेक्व इत्यनेनान्त्यलघोस्त्रिकस्य (ऽऽ।) ‘त’ इति संज्ञात्वेनोपादीयते । तप्रदेशाः 'तनुमध्या त्यौ' (पि०सू० ६।२) इत्येवमादयः ॥
+सातेक्व इत्यनेनान्त्यलघोस्त्रिकस्य (ऽऽ।) 'त' इति संज्ञात्वेनोपादीयते । तप्रदेशाः [तनुमध्या त्यौ ६।२](#62) इत्येवमादयः ॥
 </details>
 
 ### 1.6  
 <details><summary>सूत्रप्रकारः</summary>
 
-संज्ञा  
+संज्ञा (ज-संज्ञा)
 </details>
 
 <details class="mUla" open><summary>मूलम्</summary>
@@ -183,23 +183,23 @@ details.mUla[open] > :not(summary) {
 कदा,सः,ज् 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-कदा स इत्यनेन मध्यगुरोस्त्रिकस्य (।ऽ।) ‘ज’ इति संज्ञा परिभाष्यते । जप्रदेशाः 'कुमारललिता ज्सौ ग्‌' (पि०सू० ६।२) इत्येवमादयः ॥
+कदा स इत्यनेन मध्यगुरोस्त्रिकस्य (।ऽ।) 'ज' इति संज्ञा परिभाष्यते । जप्रदेशाः [कुमारललिता ज्सौ ग्‌ ६।३](#63) इत्येवमादयः ॥
 </details>
 
 ### 1.7  
 <details><summary>सूत्रप्रकारः</summary>
 
-संज्ञा  
+संज्ञा (भ-संज्ञा)
 </details>
 
 <details class="mUla" open><summary>मूलम्</summary>
@@ -212,23 +212,23 @@ details.mUla[open] > :not(summary) {
 किम्,वद,भ्  
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-किं वद इत्यनेनादिगुरोस्त्रिकस्य (ऽ।।) ‘भ’ इति संज्ञा ज्ञाप्यते । भप्रदेशाः 'चित्रपदा भौ गौ' (पि०सू० ६।५) इत्येवमादयः ॥ 
+किं वद इत्यनेनादिगुरोस्त्रिकस्य (ऽ।।) 'भ' इति संज्ञा ज्ञाप्यते । भप्रदेशाः [चित्रपदा भौ गौ ६।५](#65) इत्येवमादयः ॥ 
 </details>
 
 ### 1.8  
 <details><summary>सूत्रप्रकारः</summary>
 
-संज्ञा  
+संज्ञा (न-संज्ञा)
 </details>
 
 <details class="mUla" open><summary>मूलम्</summary>
@@ -241,23 +241,23 @@ details.mUla[open] > :not(summary) {
 न,हस,न्  
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-न हस इत्यनेन सर्वलघोस्त्रिकस्य (।।।) ‘न’ इति संज्ञोपदिश्यते । नप्रदेशः 'दण्डको नौ र:' (पि०सू० ७।३१) इत्येवमादयः ॥
+न हस इत्यनेन सर्वलघोस्त्रिकस्य (।।।) 'न' इति संज्ञोपदिश्यते । नप्रदेशः [दण्डको नौ रः ७।३३](#733) इत्येवमादयः ॥
 </details>
 
 ### 1.9  
 <details><summary>सूत्रप्रकारः</summary>
 
-संज्ञा  
+संज्ञा (ल-संज्ञा)
 </details>
 
 <details class="mUla" open><summary>मूलम्</summary>
@@ -270,27 +270,28 @@ details.mUla[open] > :not(summary) {
 गृ,ल्  
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
-गृ इत्यनेनोपलक्षितस्य ह्रस्वस्य (।) ‘ल’ इति संज्ञा परिभाष्यते । लशब्दश्च लघुवाचकः । तेन ह्रस्वमक्षरं लघुसंज्ञं भवतीत्येवमर्थः प्रपद्यते । लप्रदेशाः ['लः समुद्रागणः' (पि०सू० ४।१२)](#412) इत्येवमादयः ॥
+
+गृ इत्यनेनोपलक्षितस्य ह्रस्वस्य (।) 'ल' इति संज्ञा परिभाष्यते । लशब्दश्च लघुवाचकः । तेन ह्रस्वमक्षरं लघुसंज्ञं भवतीत्येवमर्थः प्रपद्यते । लप्रदेशाः [लः समुद्रा गणः ४।१२](#412) इत्येवमादयः ॥
 
 [पाठभेदः-
 
-गृग्रहणं ह्रस्वैकाक्षरोपलक्षणार्थम् । तस्य लकारसञ् ज्ञा भवति (१)। लशब्दच लघुवाचकः । तेन क्रस्वमक्षरं लघु-66 सञ्ज्ञं भवतीत्यर्थः सम्पद्यते । लप्रदेशाः "लः समुद्रा गणः” इत्येवमादयः ॥]
+गृ-ग्रहणं ह्रस्वैकाक्षरोपलक्षणार्थम् । तस्य लकारसञ्ज्ञा भवति । लशब्दच लघुवाचकः । तेन ह्रस्वमक्षरं लघुसञ्ज्ञं भवतीत्यर्थः सम्पद्यते । लप्रदेशाः 'लः समुद्रा गणः' इत्येवमादयः ॥]
 </details>
 
 ### 1.10  
 <details><summary>सूत्रप्रकारः</summary>
 
-संज्ञा  
+संज्ञा (ग-संज्ञा)
 </details>
 
 <details class="mUla" open><summary>मूलम्</summary>
@@ -303,25 +304,34 @@ details.mUla[open] > :not(summary) {
 ग्,अन्ते  
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
-गृ
+[गृ १।९](#19)
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-गृग्रहणमनुवर्त्तते । गृशब्दोपलक्षितस्य ह्रस्वाक्षरस्य पादान्ते वर्त्तमानस्य गुरुसञ्ज्ञाऽतिदिश्यते (१)। ग् इति प्रथमाचरप्रतीकेन गुरुशब्दस्य ग्रहणं (२) । ननु ग्लिति समानीत्यादीनां (४) पादान्ते वर्त्तमानस्य ह्रस्वस्य गुरुत्वं न दृश्यते । नैष दोषः । सर्वत्र पादान्ते वर्त्तमानस्य ह्रस्वस्य गुरुत्वमुत्सर्गसिद्धं । तच्च लकारश्रुत्यापवादेन बाध्यते । यथा । ग्लिति समानी, गोत्याय्या ल इत्यादौ सामान्यस्य विशेषेण बाधः कस्य न सम्मतः (*) । तस्मादचाद्यमेतत् (१)। केचिदिदं सूत्र व्यवस्थितविभाषया व्याचचते, प्रमाण्या-दौनामन्ते गुरुत्वमेव, समान्यादीनामन्त लघुत्वमेव, (१) शेषाणामिच्छ्या गुरुत्वं लघुत्वञ्चति । तदनुपपन्नं । विकल्प-स्याप्रस्तुतत्वात् कस्य व्यवस्थेति न विद्मः । ननु केनापक्तिं, "वा पादान्ते गुरु" इति (२) गुरुत्वं । सत्यमुक्तं । दुरुक्त हि तत् । वान्ते गुरु इति (२) प्रोक्त' यैस्तु खेतपदादिभिः । उत्सर्गस्यापवादेन बाधस्तैर्नावधारितः ॥ इत्युक्ते इच्छया गुरुत्वं लघुत्वञ्च नोपपद्यते । कस्येच्छया, किं शास्त्रकारस्य कवेर्वा । न तावदाद्यः पचः । सूत्रेष्वदर्शनात् । नापि द्वितीयः । कवे-रपि इच्छायां (४) व्यवस्थाभावात्, को जानाति कस्य कीदृशी-च्छेति । अन्ये त्वाहुः । ननु पादान्ते वर्त्तमानस्य ह्रस्वस्य पाणि-निना गुरुसञ्ज्ञा न कृता । तेनोक्त' "संयोगे गुरु, दीर्घच्च" (१।४।११-१२) इति । नायं संयोगादिर्न च दीर्घः । तस्मात् गन्त इति सूत्रमयुक्तः । अत्रोच्यते । पाणिनिना स्वशास्त्रप्रयो-जनार्थ गुरुसञ्ज्ञा कृता । "गुरोश्च हलः" (३।३।१०३) इत्यकारः प्रत्ययो यथा स्यात् । कुण्डा हुण्डा ईहाञ्चक्रे जहा-ञ्चक्र इत्येवमादीनां "इजादेश्च गुरुमतोनृच्छः" इति (३।१।३६ ) सूत्रेणाम्प्रत्ययश्च (५) । पादान्ते वर्त्तमानस्य लघोर्गुरुत्वाति-देशे पाणिनेः प्रयोजनमेव नास्ति । किञ्चानुस्वारादिपूर्वस्य वर्णस्य वनं घटः सम्पदित्यादौ स्थितस्य गुरुसञ्ज्ञा पाणिनिना न कृता, किमेतावता अन्यैरपि न कर्त्तव्या । तस्मात् सूत्रमिदं " गन्ते " इति । गप्रदेशाः "गावन्त आपोडः” इत्येवमादयः ॥  
+[गृ](#19)-ग्रहणमनुवर्तते । गृ-शब्दोपलक्षितस्य ह्रस्वाक्षरस्य पदान्ते वर्तमानस्य गुरुसंज्ञातिदिश्यते । 'ग' इति प्रथमाक्षरप्रतीकेन गुरुशब्दस्य ग्रहणम् ॥
+
+ननु [ग्लिति समानी ५।६](#56) इत्यादीनां पादान्ते वर्तमानस्य ह्रस्वस्य गुरुत्वं न दृश्यते । नैष दोषः । सर्वत्र पादान्ते वर्तमानस्य ह्रस्वस्य गुरुत्वमुत्सर्गसिद्धम्‌ । तच्च लकारश्रुत्यापवादेन बाध्यते । यथा—[ग्लिति समानी ५।६](#56), [गीत्यार्या लः ४।४७](#447), इत्यादौ । सामान्येन विशेषस्य बाधः कस्य न संमतः? तस्मात्कुचोद्यमेतत्‌ ॥
+
+केचिदिदं सूत्रं व्यवस्थितविभाषया व्याचक्षते । [ल्गिति प्रमाणी ५।८](#58) इत्यादीनामन्ते गुरुत्वमेव, [समानी ५।७](#57) इत्यादीनामन्ते लघुत्वमेव । तस्मादियं व्यवस्था प्रमाणम्‌ । शेषाणामिच्छया गुरुत्वं लघुत्वं चेत्यनुपपन्नम्‌, विकल्पस्याप्रस्तुतत्वात्कस्य व्यवस्थेति न विद्मः ॥
+
+ननु केनाप्युक्तम्‌ 'वा पदान्ते ग्वक्रः' (वृ.र. १।९) इति गुरुत्वम्‌ । सत्यमुक्तम्‌, दुरुक्तं हि तत्‌ । 'वान्ते ग्वक्र इति प्रोक्तं यैश्च श्वेतपटादिभिः । तदुत्सर्गापवादेन बाधस्तैर्नावधारितः ॥' इच्छया गुरुत्वं लघुत्वं नोपपद्यते | कस्येच्छया? किं शास्त्रकारस्य? कवेर्वा? न तावदाद्यः पक्षः, सूत्रेष्वदर्शनात्‌ । नापि द्वितीयः, कवेरपीच्छायां व्यवस्थाभावात्‌ । को जानाति कस्य कीदृशीच्छेति ॥
+
+अन्ये त्वाहुः—ननु पदान्ते वर्तमानस्य ह्रस्व पाणिनिना गुरुसंज्ञा न कृता । तेनोक्तम्‌ [संयोगे गुरु (पा०सू० १।४।११)](https://ashtadhyayi.com/sutraani/1/4/11), [दीर्घं च (पा०सू० १।४।१२)](https://ashtadhyayi.com/sutraani/1/4/12) इति । नायं संयोगादिर्न च दीर्घः । तस्मात्‌ [गन्ते १।१०](#110) सूत्रमयुक्तम्‌ ॥
+अत्रोच्यते—पाणिनिना स्वशास्त्रप्रयोजनार्थं गुरुसंज्ञा कृता । [गुरोश्च हलः (पा०सू० ३।३।१०३)](https://ashtadhyayi.com/sutraani/3/3/103) इत्यकारप्रत्ययो यथा स्यात्‌—कुण्डा, हुण्डा [इत्यादीनाम्‌ । तथा-] ईहाञ्चक्रे, ऊहाञ्चक्रे, इत्येवमादीनाम्‌ ['इजादेश्च गुरुमतोऽनृच्छः' (पा०सू० ३।१।३६)](https://ashtadhyayi.com/sutraani/3/1/36) इत्य्'आम्'प्रत्ययश्च । पदान्ते वर्तमानस्य लघोर्गुरुत्वातिदेशे पाणिनेः प्रयोजनमेव नास्ति । किं चानुस्वारादिपूर्वस्य वर्णस्य 'बलं', 'संपद्'इत्यादौ स्थितस्य गुरुसंज्ञा पाणिनिना न कृता, किमेतावतान्यैरपि न कर्तव्या? । तस्मात्सूक्तमिदम्‌ [गन्ते १।१०](#110) इति । गप्रदेशाः [गावन्त आपीडः ५।२१](#521) इत्येवमादयः ॥
 </details>
 
 
 ### 1.11  
 <details><summary>सूत्रप्रकारः</summary>
 
-संज्ञा  
+संज्ञा (ग-संज्ञा)
 </details>
 
 <details class="mUla" open><summary>मूलम्</summary>
@@ -334,25 +344,25 @@ details.mUla[open] > :not(summary) {
 ध्र-आदि-परः  
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
-ग्
+[ग् १।१०](#110)
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-ध्र इति व्यञ्जनसंयोगस्योपलचणम् । ध्र आदिर्येषां ते भ्राद्यः । 'आदि'पदेन विसर्जनीयानुस्वारजिह्वामूलीयोप-मानीयानां ग्रहणं । भ्रादयः परे यस्मात् सः घ्रादिपरः । ततश्चायं सूत्रार्थः, व्यञ्जनसंयोगात् पूर्व्वस्य इस्त्रस्य (१) अनुस्वारविसर्जनीयजिह्वामूलीयोपध्मानीयेभ्यश्च गुरुसञ् ज्ञाति-दिश्यते ॥  
+'ध्र' इति व्यञ्जनसंयोगस्योपलचणम् । ध्र-आदिर्येषां ते ध्रादयः । 'आदि'शब्देन विसर्जनीयानुस्वारजिह्वामूलीयोपध्मानीयानां ग्रहणं । ध्रादयः परे यस्मात्स ध्रादिपरः । ततश्चायं सूत्रार्थः—व्यञ्जनसंयोगात् पूर्वस्य ह्रस्वस्यानुस्वारविसर्जनीयजिह्वामूलीयोपध्मानीयेभ्यश्च गुरुसञ्ज्ञातिदिश्यते ॥  
 </details>
 
 
 ### 1.12  
 <details><summary>सूत्रप्रकारः</summary>
 
-संज्ञा  
+संज्ञा (ग-संज्ञा)
 </details>
 
 <details class="mUla" open><summary>मूलम्</summary>
@@ -365,24 +375,24 @@ details.mUla[open] > :not(summary) {
 हे  
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
-ग्
+[ग् १।१०](#110)
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-ग इत्यनुवर्त्तते । हे इति द्दिमात्रोपलणार्थ ं । ततञ्चायं मूत्रा-र्थः, डिमात्रस्य (९) दीर्घस्य गकारसञ्ज्ञा क्रियते ॥  
+[ग](#110) इत्यनुवर्त्तते । हे इति द्विमात्रोपलक्षणार्थम्‌ । ततश्चायं सूत्रार्थ:—द्विमात्रिकस्य दीर्घस्य 'ग' इति संज्ञा क्रियते ॥
 </details>
 
 
 ### 1.13  
 <details><summary>सूत्रप्रकारः</summary>
-
+ परिभाषा (गुर्वक्षरकालनिर्देशपरिभाषा)
 </details>
 
 <details class="mUla" open><summary>मूलम्</summary>
@@ -395,17 +405,18 @@ details.mUla[open] > :not(summary) {
 लौ,सः  
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
+[ग् १।१०](#110)
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-स इति गकारस्य परामर्शः । स गकारी डिमात्रो हौ लघू कृत्वा गणनीयः (१) ॥  
+स इति [गकारस्य](#110) परामर्शः । स गकारो द्विमात्राः—गणनायां द्वौ लकारौ कृत्वा गणयितव्यः ॥
 </details>
 
 
@@ -425,18 +436,18 @@ details.mUla[open] > :not(summary) {
 ग्-लौ  
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-अधिकारोऽयमाशास्त्रपरिसमाप्तेः । यत्र विशेषान्तरं न श्रूयते तत्र ग्लावित्युपतिष्ठते । गायत्र्या वसवः (३।३) इत्येव मादिषुवत् प्लुतेनेह व्यवहारो नास्ति ॥  
+अधिकारोऽयमाशास्त्रपरिसमाप्तेः । यत्र विशेषान्तरं न श्रूयते तत्र ग्लावित्युपतिष्ठते । [गायत्र्या वसवः ३।३](#33) इत्येवमादिवत् । प्लुतेनेह व्यवहारो नास्ति ॥  
 </details>
 
 
@@ -455,24 +466,20 @@ details.mUla[open] > :not(summary) {
 अष्टौ,वसवः,इति  
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
-[ग्लौ](#114)  
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-इह ध्यादीनामुपादान्प्रयोजनं वर्ण्यते । अध्ययनात् धोर्भवति । य। धोस्तस्य श्रोः, बुद्धिपूर्वकत्वात् विभूतेः । यस्य श्रोस्तस्य स्त्री, अर्थमूलकत्वात् गार्हस्थास्य । वरा सा इत्यनेन सर्वेषां स्त्रीसाधनोपायानां बुडेरुपायस्य माहाक्य' दर्शयति,  
-तथाचोक्तम्,  
-""अडाङ्गलपरीणाहजिह्वाग्रायासभौरवः ।  
-सर्वाङ्गीण (१) परिक्त यमबुधाः कर्म कुर्व्वते” ॥  
-तत्राह शिष्यः, का गुहा । 'गुहा'शब्दः स्थानपर्य्यीयः । 'का गुहा,' यत्रासौ तिष्ठति । उपाध्यायो ब्रूते । 'वसुधा' पृथिव्यां (९), लभ्यते धोर्नात्रातिविषादः कर्त्तव्यः । पुनरप्राह शिष्यः, सा ते क । 'सा' धीः, त्वयोपदिष्टा, पृथिवां 'क', स्वितेन, (१) लभ्यते । गुरुराह, (४) गृहे । पुनरप्याह शिष्यः, कदा सः । 'सः' गृहस्थः पुरुषः, 'कदा' कस्मिन् काले, तां धियं प्राप्नोति ॥ अत्त्रोत्तरम्, (५) घ्रादिपरः । धारणार्थाव-बोधपरोऽसौ यदा स्यात् तदा धियं लभते । भूयोऽपि प्रश्नः, किं वद । 'किं,' कुर्वन् असौ तां धियं लभते तत् 'वद' (१) । तत्रोत्तरम्, न हसन् । हासादि-चापल्य' (०) अकुर्वाणस्तः धियं लभते इत्यर्थः ॥  
-इति भट्टहलायुधक्कती छन्दोवृत्तौ (´^) प्रथमोऽध्यायः ॥ १ ॥  
+अत्र शास्त्रे वसव इत्युच्यमानेऽष्टसंख्योपलक्षिता गुरुलघुस्वरूपा वर्णा गृह्यन्ते । लौकिकप्रसिद्ध्युपलक्षणार्थमिदं सूत्रम्‌ । ते चतुर्णां समुद्राः, पञ्चानामिन्द्रियाणि, इत्येवमादयः संज्ञाविशेषा लौकिकेभ्यः प्रत्येतव्याः । इतिकारोऽध्यायसमाप्तिसूचकः ॥ 
+
+इह [ध्यादी](#11)नामुपादानप्रयोजनं वर्ण्यते—अध्ययनाद्धीर्भवति । यस्य धीस्तस्य श्रीः, बुद्धिपूर्वकत्वाद्विभूतेः । यस्य श्रीस्तस्य स्त्री, अर्थमूलकत्वाद्गार्हस्थ्यस्य । ['वरा सा'](#12) इत्यनेन सर्वेषां स्त्रीसाधनोपायानां बुद्धेरुपायस्य माहात्म्यं दर्शयति । तथा चोक्तम्‌ —'अर्धाङ्गुलपरीणाहजिह्वाग्रायासभीरवः । सर्वाङ्गीणपरिक्लेशमबुधाः कर्म कुर्वते ॥' तत्राह शिष्यः-['का गुहा'](#13)? गुहाशब्दः स्थानवाचकः । का गुहा यत्रासौ तिष्ठति? । उपाध्यायो ब्रूते—['वसुधा'](#14) । पृथिव्यां लभ्यते धीर्नात्र विषादः कर्तव्यः । पुनरप्याह शिष्यः—['सा ते कव'](#15)? सा धीस्त्वयोपदिष्टा पृथिव्यां क्वाश्रयस्थितेन लभ्यते? । तत्र पुनराचार्य आह-'[गृ](#19)[हे](#112)' । पुनरप्याह शिष्यः—['कदा सः'](#16) स गृहस्थः पुरुषः कदा कस्मिन्काले तां धियं प्राप्नोति? । ततोऽनन्तरं गुरुराह— ['ध्रादिपरः'](#111) धारणार्थावबोधपरोऽसौ यदा स्यात्तदा धियं लभते । भूयोऽपि शिष्यः पृच्छति—['किं वद'](#17) किं कुर्वन्नसौ तां धियं लभते? तद्वद । तत्राह गुरुः— ['न हसन्‌'](#18) हासादिचापल्यमकुर्वाणस्तां धियं लभत इति ॥ 
 </details>
 
 ## 2
@@ -493,11 +500,11 @@ details.mUla[open] > :not(summary) {
 छन्दः  
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -524,11 +531,11 @@ details.mUla[open] > :not(summary) {
 गायत्री  
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 [गायत्री](#22), [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -555,11 +562,11 @@ details.mUla[open] > :not(summary) {
 दैवी,एकम्  
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 [गायत्री](#22), [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -586,11 +593,11 @@ details.mUla[open] > :not(summary) {
 आसुरी,पञ्चदश  
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 [गायत्री](#22), [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -617,11 +624,11 @@ details.mUla[open] > :not(summary) {
 प्राजापत्या,अष्टौ  
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 [गायत्री](#22), [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -648,11 +655,11 @@ details.mUla[open] > :not(summary) {
 यजुषाम्,षट्  
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 [गायत्री](#22), [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -679,12 +686,12 @@ details.mUla[open] > :not(summary) {
 साम्नाम्,द्विः  
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 षट्
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 [गायत्री](#22), [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -711,12 +718,12 @@ details.mUla[open] > :not(summary) {
 ऋचाम्,त्रिः  
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 षट्
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 [गायत्री](#22), [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -742,11 +749,11 @@ details.mUla[open] > :not(summary) {
 द्वौ,द्वौ,साम्नाम्,वर्धेत  
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 [गायत्री](#22), [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -772,11 +779,11 @@ details.mUla[open] > :not(summary) {
 त्रीन्,त्रीन्,ऋचाम्  
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 [गायत्री](#22), [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -802,11 +809,11 @@ details.mUla[open] > :not(summary) {
 चतुरः,चतुरः,प्राजापत्यायाः  
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 [गायत्री](#22), [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -832,11 +839,11 @@ details.mUla[open] > :not(summary) {
 एकैकम्,शेषे  
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 [गायत्री](#22), [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -863,12 +870,12 @@ details.mUla[open] > :not(summary) {
 जह्यात्,आसुरी  
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 एकैकम्
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 [गायत्री](#22), [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -895,11 +902,11 @@ details.mUla[open] > :not(summary) {
 तानि,उष्णिक्-अनुष्टुप्-बृहती-पङ्क्ति-त्रिष्टुब्-जगत्यः  
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -926,11 +933,11 @@ details.mUla[open] > :not(summary) {
 तिस्रः-तिस्रः,सनाम्नन्यः,एका-एकाः,ब्राह्म्यः  
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -957,12 +964,12 @@ details.mUla[open] > :not(summary) {
 प्राग्,यजुषाम्,आर्ष्यः,इति  
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 तिस्रः-तिस्रः
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -989,11 +996,11 @@ details.mUla[open] > :not(summary) {
 पादः  
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -1018,12 +1025,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 पादः
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -1049,12 +1056,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 पादः
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -1080,12 +1087,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 पादः
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -1111,12 +1118,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 पादः
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -1142,12 +1149,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 पादः
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -1173,11 +1180,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -1204,11 +1211,11 @@ details.mUla[open] > :not(summary) {
 आद्यम्,चतुष्पात्,ऋतुभिः  
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -1236,12 +1243,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 आद्यम्
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -1268,12 +1275,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 आद्यम्
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -1299,12 +1306,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 आद्यम्
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -1330,12 +1337,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 आद्यम्
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -1361,12 +1368,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 आद्यम्
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -1392,12 +1399,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 आद्यम्
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -1425,12 +1432,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 आद्यम्
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -1458,19 +1465,19 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 आद्यम्
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-तृतीयशब्देनैतदद्ध्यायसूत्रपाठक्रमापेचया विराजमाह । तथा-चोक्तम्, “विराजो दिशः (३।५)"" इति । यदा द्वादशाक्षरी-ऽष्टाचरश्च पादः स्यात् ततस्ताभ्यां द्विपादु विराड्नाम गायत्री भवति ॥ तत्त्रोदाहरणम् ।  
+तृतीयशब्देनैतदद्ध्यायसूत्रपाठक्रमापेचया विराजमाह । तथा-चोक्तम्, 'विराजो दिशः (३।५)"" इति । यदा द्वादशाक्षरी-ऽष्टाचरश्च पादः स्यात् ततस्ताभ्यां द्विपादु विराड्नाम गायत्री भवति ॥ तत्त्रोदाहरणम् ।  
 * प॒श्वा न ता॒युं गुहा॒ चत॑न्त॒ नमो॑ युजा॒नं नमो॒ वह॑न्तं ।  
   स॒जोषाः॒ धीराः॑ प॒दैरनु॑ ग्म॒न्नुप॑ त्वा सीद॒न् विश्वे यज॑त्राः ॥ ऋ०।१म०।१२अ०।६५सू०॥१॥ (१)  
 </details>
@@ -1492,12 +1499,12 @@ details.mUla[open] > :not(summary) {
 त्रिपात्त्रै,ष्टुभैः  
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 आद्यम्
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -1527,11 +1534,11 @@ details.mUla[open] > :not(summary) {
 उष्णिक्,गायत्रौ,जागतः,च  
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -1557,12 +1564,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 उष्णिक्
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -1589,12 +1596,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 उष्णिक्
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -1622,19 +1629,19 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 उष्णिक्
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-जागतः (१) पादः परखेदु भवति, पूर्वी च [गायत्री](#22), (१) तदा परोष्णिक् नाम भवति (४)। ""उष्णिग्‌गायत्री जागतश्च” (३।१८) इत्यनेन गतार्थमेतत्, विशेषसञ्जा-विधानार्थ पुनरुच्चते ।  
+जागतः (१) पादः परखेदु भवति, पूर्वी च [गायत्री](#22), (१) तदा परोष्णिक् नाम भवति (४)। ""उष्णिग्‌गायत्री जागतश्च' (३।१८) इत्यनेन गतार्थमेतत्, विशेषसञ्जा-विधानार्थ पुनरुच्चते ।  
 प्रथमसूत्रे उष्णिग्ग्रहणमधिकारार्थम् ॥ तत्रोदाहरणम् ।  
 * अग्ने॒ वाज॑स्य॒ गोम॑त ईशानः सहसो यचो । अस्मे धेहि जातवेदो महि श्रवः ॥ चऋ०।१म०।१३०।  
   ७८सू० ॥४॥  
@@ -1656,12 +1663,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 उष्णिक्
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -1689,11 +1696,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -1721,12 +1728,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 अनुष्टुप्,गायत्रैः
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -1752,12 +1759,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 अनुष्टुप्
 </details>
   
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -1788,11 +1795,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -1818,12 +1825,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 बृहती
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -1848,12 +1855,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 बृहती
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -1879,12 +1886,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 बृहती
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -1910,12 +1917,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 बृहती
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -1941,12 +1948,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 बृहती
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -1974,12 +1981,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 बृहती
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -2005,12 +2012,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 बृहती
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -2037,12 +2044,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 बृहती
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -2068,12 +2075,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 बृहती
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -2099,12 +2106,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 बृहती
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -2130,11 +2137,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -2160,11 +2167,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -2190,12 +2197,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 सतःपङ्क्तिः
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -2221,11 +2228,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -2251,11 +2258,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -2280,11 +2287,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -2309,11 +2316,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -2338,11 +2345,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -2367,12 +2374,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 पञ्चकाः,पङ्क्तिः
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -2397,12 +2404,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 पञ्चकाः
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -2427,12 +2434,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 पञ्चकाः,पङ्क्तिः
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -2457,12 +2464,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 पङ्क्तिः
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -2488,12 +2495,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 गायत्रैः
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -2518,12 +2525,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 गायत्रैः
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -2548,11 +2555,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -2577,12 +2584,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 जगती,त्रिष्टुप्
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -2607,12 +2614,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 जगती,त्रिष्टुप्
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -2637,12 +2644,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 जगती,त्रिष्टुप्
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -2667,11 +2674,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -2696,11 +2703,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -2725,11 +2732,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -2754,11 +2761,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -2783,11 +2790,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -2812,11 +2819,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -2841,11 +2848,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -2870,11 +2877,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -2899,11 +2906,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -2928,11 +2935,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -2957,11 +2964,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -2986,11 +2993,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 पादः, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -3017,11 +3024,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -3046,11 +3053,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -3075,11 +3082,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -3104,11 +3111,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -3133,11 +3140,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -3162,11 +3169,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -3191,11 +3198,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -3220,11 +3227,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -3249,11 +3256,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -3278,11 +3285,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -3307,11 +3314,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -3338,11 +3345,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -3367,11 +3374,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -3396,11 +3403,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -3436,12 +3443,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 आर्या
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -3466,12 +3473,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 आर्या
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -3500,12 +3507,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 आर्या
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -3532,12 +3539,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 आर्या
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -3562,12 +3569,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 आर्या
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -3596,12 +3603,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 आर्या
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -3628,12 +3635,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 आर्या
 </details>
   
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -3658,12 +3665,12 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 आर्या
 </details>
   
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -3691,11 +3698,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -3734,11 +3741,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -3763,11 +3770,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -3800,11 +3807,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -3837,11 +3844,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -3871,11 +3878,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -3911,11 +3918,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -3951,11 +3958,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -3991,11 +3998,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -4032,11 +4039,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -4051,7 +4058,7 @@ details.mUla[open] > :not(summary) {
 यथा च ।  
 श-व-शो-णि-त-प-ङ्क-च-र्चि-तं पु-रु-षा-न्त्र-ग्र-थि-तो-ध्र्ध्व-मू-र्ध-जम् ।  
 व-पु-रा-न्त-र-व-हि-दी-पि-तं वै-ता-ली-य-मि-दं वि-लो-क्य-ताम् ।।  
-वैतालीयमिति वेतालशब्दात्कृशाश्वा (पा०सू० ४।२।८०) देराकृतिगणत्वाच्छण्-प्रत्ययश्चातुरर्थिकः । अत्र पादग्रहणमिदं ज्ञापयति, यत्-आर्यादीनां 'पादश्चतुर्भागः' (पि० सू० ४।१०) इति व्यवस्था नास्ति ।।  
+वैतालीयमिति वेतालशब्दात्[कृशाश्वा (पा०सू० ४।२।८०)](https://ashtadhyayi.com/sutraani/4/2/80) देराकृतिगणत्वाच्छण्-प्रत्ययश्चातुरर्थिकः । अत्र पादग्रहणमिदं ज्ञापयति, यत्-आर्यादीनां [पादश्चतुर्भागः ४।१०](#410) इति व्यवस्था नास्ति ।।  
 </details>
 
 
@@ -4069,11 +4076,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -4085,7 +4092,7 @@ details.mUla[open] > :not(summary) {
 तं दु-ष्ट-म-तिं वि-शि-ष्ट-गो-ष्ठ्या-मौ-प-च्छ-न्द-स-कं व-द-न्ति बा-ह्यम् ।।  
 प-र-म-र्म-नि-री-क्ष-णा-नु-र-क्तं स्व-य-म-त्य-न्त-नि-गू-ढ-चि-त्त-वृ-त्तिम् ।  
 अ-न-व-स्थि-त-म-र्थ-लु-ब्ध-मा-रा-दौ-प-च्छन्द-स-कं ज-ही-हि मि-त्रम् ।।  
-उपछन्दः शब्दादरीहणादि (पा०सू० ४।२।८०) पाठाच्चातुरर्थिको वुञ्प्रत्ययः ।।  
+उपछन्दः शब्दाद[रीहणादि (पा०सू० ४।२।८०)](https://ashtadhyayi.com/sutraani/4/2/80) पाठाच्चातुरर्थिको वुञ्प्रत्ययः ।।  
 </details>
 
 
@@ -4103,18 +4110,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-रेफलकारगकाराणामपवादः । ['द्विस्वरा अयुक्पादे युग्वसवोऽन्ते' (पि०सू० ४।३२)](#432) इत्यनुवर्तते । पूर्वलक्षणयोरन्ते भकारो गकारी - च भवतः, तद्वैतालीयम् 'आपातलिका' नाम लभते । तत्रोदाहरणम्-  
+रेफलकारगकाराणामपवादः । [द्विस्वरा अयुक्पादे युग्वसवोऽन्ते ४।३२](#432) इत्यनुवर्तते । पूर्वलक्षणयोरन्ते भकारो गकारी - च भवतः, तद्वैतालीयम् 'आपातलिका' नाम लभते । तत्रोदाहरणम्-  
 पि-ङ्ग-ल-के-शी क-पि-ला-क्षी वा-चा-टा वि-क-टो-न-त-द-न्ती ।  
 आ-पा-त-लि-का पु-न-रे-षा नृ-प-ति-कु-ले-ऽपि न भा-ग्य-मु-पै-ति ।। आपातलिका अस्थिरेत्यर्थः ।।  
 </details>
@@ -4134,11 +4141,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -4163,11 +4170,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -4200,18 +4207,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-इदानीं विशेषलक्षणमाह- ['शेषे परेण युङ् न साकम्' (पि०सू० ४।३५)](#435) इत्यत्र पञ्चमचतुर्थयोरेकीभावो निषिद्धः सोऽनेन विधीयते। 'युजि' इत्यनुवर्तते । यदा युक्पादे पञ्चमेन लकारेण पूर्वः संगच्छते तदा 'प्राच्यवृत्तिः' नाम वैतालीयं भवति ।  
+इदानीं विशेषलक्षणमाह- [शेषे परेण युङ् न साकम् ४।३५](#435) इत्यत्र पञ्चमचतुर्थयोरेकीभावो निषिद्धः सोऽनेन विधीयते। 'युजि' इत्यनुवर्तते । यदा युक्पादे पञ्चमेन लकारेण पूर्वः संगच्छते तदा 'प्राच्यवृत्तिः' नाम वैतालीयं भवति ।  
 शेषं यथा प्राप्तम् । तत्रोदाहरणम्-  
 वि-पु-ला-र्थ-सु-वा-च-का-क्ष-राः क-स्य ना-मन ह-र-न्ति मा-न-सम्?।  
 र-स-भा-व-वि-शे-ष-पे-श-लाः प्रा-च्य-वृ-त्ति-क-वि-का-व्य-सं-प-दः ।।  
@@ -4232,11 +4239,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -4263,11 +4270,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -4294,11 +4301,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -4325,11 +4332,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -4359,21 +4366,21 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-['वैतालीयम्-'(पि०सू० ४।३२)](#432) इत्यादिसूत्रात्सप्तम्यन्तं 'पाद' ग्रहणमनुवर्तते । 'ल्' इति च महानधिकारः। तेनायमर्थः- यत्र पादे गन्ताः सन्तः, षोडश लकारा भवन्ति, तत् 'मात्रासमकं' नाम छन्दः। अन्ते द्वाभ्यामेको गुरुः (5) कर्तव्यः । नवमश्च लकार (1) एव । 'द्विर्वसवः' इति द्विगुणिता वसवः, लकाराः षोडशेत्यर्थः । ['शेषे परेण युङ् न साकम्' (पि०सू० ४।३५)](#435) इत्यनुवर्तनीयम् । तत्रोदाहरणम् -  
+[वैतालीयम्- ४।३२](#432) इत्यादिसूत्रात्सप्तम्यन्तं 'पाद' ग्रहणमनुवर्तते । 'ल्' इति च महानधिकारः। तेनायमर्थः- यत्र पादे गन्ताः सन्तः, षोडश लकारा भवन्ति, तत् 'मात्रासमकं' नाम छन्दः। अन्ते द्वाभ्यामेको गुरुः (5) कर्तव्यः । नवमश्च लकार (1) एव । 'द्विर्वसवः' इति द्विगुणिता वसवः, लकाराः षोडशेत्यर्थः । [शेषे परेण युङ् न साकम् ४।३५](#435) इत्यनुवर्तनीयम् । तत्रोदाहरणम् -  
 अश्मश्रु-मु-खो वि-र-लै-र्द-न्तै र्ग-म्भी-रा-क्षोन-त-ना-सा-ग्रः ।  
 नि-र्मा-स-ह-नुः स्फु-टि-तैः के-शै र्मा-त्रा-स-म-कं ल-भ-ते दुःखम् ॥  
-['गन्त-' (पि०सू० ४।३२)](#432) इत्यनेनैवान्तस्य गुरुत्वे सिद्धे पुनर्गन्तग्रहणमातिदेशिक-गुरुत्वनिवृत्त्यर्थम् । तेनात्र द्वौ लकारौ (।।) भङ्क्त्वा द्विमात्रिको गुरुः (ऽ) क्रियत इति वाक्यशेषः ।।  
+[गन्त- ४।३२](#432) इत्यनेनैवान्तस्य गुरुत्वे सिद्धे पुनर्गन्तग्रहणमातिदेशिक-गुरुत्वनिवृत्त्यर्थम् । तेनात्र द्वौ लकारौ (।।) भङ्क्त्वा द्विमात्रिको गुरुः (ऽ) क्रियत इति वाक्यशेषः ।।  
 </details>
 
 
@@ -4391,11 +4398,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -4422,11 +4429,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
@@ -4452,11 +4459,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
@@ -4465,7 +4472,7 @@ details.mUla[open] > :not(summary) {
 यस्य नवमो लकार (।) एवावशिष्यते चकारात्पञ्चमाष्टमौ च, तन्मात्रासमकं 'चित्रा' नाम । तत्रोदाहरणम् -  
 य-दि वा-ञ्छ-सि प-र-प-द-मा-रो-ढुं मै-त्री प-रि-ह-र स-ह व-नि-ता-भिः ।  
 मु-ह्य-ति मु-नि-र-पि वि-ष-या-स-ङ्गा- च्चि-त्रा भ-व-ति हि म-न-सो वृ-त्तिः ॥  
-['नवमः' (पि०सू० ४।४२)](#442) इत्यनुवर्तमानेऽपि पुनर्नवमग्रहणमुपचित्राप्रतिप्रसवार्थम् ।  
+[नवमः ४।४२](#442) इत्यनुवर्तमानेऽपि पुनर्नवमग्रहणमुपचित्राप्रतिप्रसवार्थम् ।  
 </details>
 
 
@@ -4483,11 +4490,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
@@ -4513,11 +4520,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
@@ -4553,11 +4560,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
@@ -4586,11 +4593,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
@@ -4615,11 +4622,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
@@ -4647,11 +4654,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
@@ -4679,11 +4686,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
@@ -4718,11 +4725,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
@@ -4752,11 +4759,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -4784,11 +4791,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -4813,11 +4820,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -4842,11 +4849,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -4872,11 +4879,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -4901,18 +4908,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-गकार (ऽ) लकारा (।) भ्यां यहृतं समाप्यते, तत् 'समानी' नाम । ['पादस्यानुष्टुब्बकम्' (पि०सू० ५।९)](#59) इत्यतः सूत्रात् सिंहावलोकितन्यायेनानुष्टुब्ग्रहणमनुवर्तते । तेनाष्टाक्षरः पादो यावद्भिर्गकारलकारैः पूर्यते, तावतामेव ग्रहणम् । तत्रोदाहरणम्-  
+गकार (ऽ) लकारा (।) भ्यां यहृतं समाप्यते, तत् 'समानी' नाम । [पादस्यानुष्टुब्बकम् ५।९](#59) इत्यतः सूत्रात् सिंहावलोकितन्यायेनानुष्टुब्ग्रहणमनुवर्तते । तेनाष्टाक्षरः पादो यावद्भिर्गकारलकारैः पूर्यते, तावतामेव ग्रहणम् । तत्रोदाहरणम्-  
 वा-स-वो-ऽपि वि-क्र-मे-ण य-त्स-मा-न-तां न या-ति ।  
 त-स्य व-ल्ल-भे-श्व-र-स्य के-न तुल्य-ता क्रि-ये-त? ॥  
 अपि च ।  
@@ -4935,11 +4942,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -4966,11 +4973,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -5010,11 +5017,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -5039,11 +5046,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -5068,11 +5075,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -5097,11 +5104,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -5126,11 +5133,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -5164,18 +5171,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-['चतुर्थात्' (पि०सू० ५।१३)](#513) इति वर्तते । अत्र वक्रे युजः (२,४) पादस्य चतुर्था दक्षरादूर्ध्व जगणः (।ऽ।) प्रयुज्यते, तद्वक्रं 'पथ्या' नाम । 'य' (।ऽऽ) स्यापवादः । अत्रोदाहरणम् -  
+[चतुर्थात् ५।१३](#513) इति वर्तते । अत्र वक्रे युजः (२,४) पादस्य चतुर्था दक्षरादूर्ध्व जगणः (।ऽ।) प्रयुज्यते, तद्वक्रं 'पथ्या' नाम । 'य' (।ऽऽ) स्यापवादः । अत्रोदाहरणम् -  
 नित्यं नीति निषण्ण-स्य राज्ञो राष्ट्र न सीद-ति ।  
 न हि पथ्याशिनः का-ये जायन्ते व्या धिवेद नाः ।।  
 </details>
@@ -5195,11 +5202,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -5226,11 +5233,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -5257,19 +5264,19 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-अधिकारोऽयम्। ['य चतुर्थात्' (पि०सू० ५।१३)](#513) इत्यनेन सर्वत्र यकारे (।ऽऽ) कृते यदा युक् (२,४) पादे सप्तमो वर्णों लघुर्भवति, तदा 'विपुला' नाम सानुष्टुव् ।।  
-ननु पथ्यालक्षणेऽन्तर्भूतत्वात् पुनरुक्तमेतत् । नैवम्, विपुलावर्गस्येदानीमारभ्यमाण-त्वात्तद्विनानुपपत्तेः । युक् (२,४) पादे सप्तमेन लघुनावश्यमेव भवितव्यम् । प्रथमतृतीययोश्चैतावता यकारस्यापवादः । तथा च वक्ष्यति - ['सर्वतः सैतवस्य' (पि०सू० ५।१८)](#518) इत्यादिना । पथ्यायां तु यकार (।ऽऽ) एवावतिष्ठते ।।  
+अधिकारोऽयम्। [य चतुर्थात् ५।१३](#513) इत्यनेन सर्वत्र यकारे (।ऽऽ) कृते यदा युक् (२,४) पादे सप्तमो वर्णों लघुर्भवति, तदा 'विपुला' नाम सानुष्टुव् ।।  
+ननु पथ्यालक्षणेऽन्तर्भूतत्वात् पुनरुक्तमेतत् । नैवम्, विपुलावर्गस्येदानीमारभ्यमाण-त्वात्तद्विनानुपपत्तेः । युक् (२,४) पादे सप्तमेन लघुनावश्यमेव भवितव्यम् । प्रथमतृतीययोश्चैतावता यकारस्यापवादः । तथा च वक्ष्यति - [सर्वतः सैतवस्य ५।१८](#518) इत्यादिना । पथ्यायां तु यकार (।ऽऽ) एवावतिष्ठते ।।  
 </details>
 
 
@@ -5287,11 +5294,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -5319,21 +5326,21 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-['सर्वतः सैतवस्य' (पि०सू० ५।१८)](#518) इति निवृत्तम् । ['चपलायुजो न्' (पि०सू० ५।१६)](#516) इत्येतस्मादयुग्ग्रहणमनुवर्तते । ['विपुला युग्लः सप्तमः' (पि०सू० ५।१७)](#517) इति सर्वमनुवर्तनीयम्। अयुक् (१,३) पादे यदा चतुर्थादक्षरात्परतो यकारं (।ऽऽ) बाधित्वा भकार (ऽ।।) रेफ (ऽ।ऽ) नकार (।।।) तकारा (ऽऽ।) विकल्पेन भवन्ति, तदासौ 'विपुला' नाम । तत्र भकारेण विपुलोदाहरणम् -  
+[सर्वतः सैतवस्य ५।१८](#518) इति निवृत्तम् । [चपलायुजो न् ५।१६](#516) इत्येतस्मादयुग्ग्रहणमनुवर्तते । [विपुला युग्लः सप्तमः ५।१७](#517) इति सर्वमनुवर्तनीयम्। अयुक् (१,३) पादे यदा चतुर्थादक्षरात्परतो यकारं (।ऽऽ) बाधित्वा भकार (ऽ।।) रेफ (ऽ।ऽ) नकार (।।।) तकारा (ऽऽ।) विकल्पेन भवन्ति, तदासौ 'विपुला' नाम । तत्र भकारेण विपुलोदाहरणम् -  
 इ यं सखे चन्द्रमुखीस्मि तज्योत्स्ना च मानिनी ।  
 इन्दीवराक्षी हृदयं दन्दहीति तथापि मे ।।  
-['अयुजः' (पि०सू० ५।१६)](#516) इति जातिपक्षे द्वयोरपि पादयोर्ग्रहणम् । व्यक्तिपक्षे पुनरेकस्य । एकपक्षे पुनः प्रथमस्य तृतीयस्य वा। तथा च महाकवीनां प्रयोगाः -  
+[अयुजः ५।१६](#516) इति जातिपक्षे द्वयोरपि पादयोर्ग्रहणम् । व्यक्तिपक्षे पुनरेकस्य । एकपक्षे पुनः प्रथमस्य तृतीयस्य वा। तथा च महाकवीनां प्रयोगाः -  
 वटे वटे वैश्रव णः चत्वरे चत्वरे शिवः ।  
 पर्वते पर्वते रामः सर्वत्र मधुसूदनः ।। (अग्निपु० ३०५/१४)  
 देवः सजयति श्रीमान् दण्डधारो महामतिः ।  
@@ -5421,11 +5428,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -5455,11 +5462,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -5488,11 +5495,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -5521,11 +5528,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -5555,11 +5562,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -5601,24 +5608,24 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-['पाद-' (पि०सू० ५।९)](#59) इति प्रकृतमनुवर्तते । यत्र प्रथमे पादे सकार (।।ऽ) जकार (।ऽ।) सकार (।।ऽ) ल (।) कारैर्दशाक्षराणि भवन्ति, द्वितीये पादे नकार-(III) सकार (।।ऽ) जकार (।ऽ।) ग (ऽ) कारैर्दशैव, तृतीये पादे भकार (ऽ।।) नकार (III)-जकार (।ऽ।) लकार (।) ग (ऽ) कारैरेकादशैव, चतुर्थे पादे सकार (।।ऽ) जकार (।ऽ।) सकार-(।।ऽ) जकार (।ऽ।) ग (ऽ) कारैस्त्रयोदश तद्वृत्तम् 'उद्गता' नाम । तत्रोदाहरणम् -  
+[पाद- ५।९](#59) इति प्रकृतमनुवर्तते । यत्र प्रथमे पादे सकार (।।ऽ) जकार (।ऽ।) सकार (।।ऽ) ल (।) कारैर्दशाक्षराणि भवन्ति, द्वितीये पादे नकार-(III) सकार (।।ऽ) जकार (।ऽ।) ग (ऽ) कारैर्दशैव, तृतीये पादे भकार (ऽ।।) नकार (III)-जकार (।ऽ।) लकार (।) ग (ऽ) कारैरेकादशैव, चतुर्थे पादे सकार (।।ऽ) जकार (।ऽ।) सकार-(।।ऽ) जकार (।ऽ।) ग (ऽ) कारैस्त्रयोदश तद्वृत्तम् 'उद्गता' नाम । तत्रोदाहरणम् -  
 मृ-ग-लो-च-ना श-शि-मु-खी च  
 रु-चि-र-द-श-ना नि-त-म्बिनी।  
 हं-स-ल-लि-त-ग-म-ना ल-ल- ना  
 प-रि-णी-य-ते यदि भवेत्कु लो-द्ग-ता ।।  
 यत्र सूत्रे गकारो (ऽ) लकारो (।) वा श्रूयते, तत्र तेनैव वृत्तस्य पादः परिसमाप्यते ।  
-'उद्गताम्' इति कर्मविभक्तिश्रवणात् पठेदित्यध्याहार्यम्। 'एकतः' इति प्रथमं पादं द्वितीयेन सहाविलम्बेन पठेदित्यर्थः । ['उपस्थितप्रचुपितं पृथगाद्यम्' (पि०सू० ५।२८)](#528) इत्यतः सिंहावलोकितन्यायेन 'आद्य' ग्रहणमनुवर्तनीयम् । तेनाद्यमेव पादमेकतः पठेत् । 'एकतः' इति ल्यब्लोपे पञ्चमी ।।  
+'उद्गताम्' इति कर्मविभक्तिश्रवणात् पठेदित्यध्याहार्यम्। 'एकतः' इति प्रथमं पादं द्वितीयेन सहाविलम्बेन पठेदित्यर्थः । [उपस्थितप्रचुपितं पृथगाद्यम् ५।२८](#528) इत्यतः सिंहावलोकितन्यायेन 'आद्य' ग्रहणमनुवर्तनीयम् । तेनाद्यमेव पादमेकतः पठेत् । 'एकतः' इति ल्यब्लोपे पञ्चमी ।।  
 </details>
 
 
@@ -5636,11 +5643,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -5667,11 +5674,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -5701,11 +5708,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -5717,7 +5724,7 @@ details.mUla[open] > :not(summary) {
 हृ-द- यं ह-र-ति प-यो-ध-रा- वन- म्रा ।  
 इ-य-म-ति-श-य-सु-भ-गा  
 ब-हु-वि-ध-नि-धु व-न-कु-श-ला ल-लि-ता-ङ्गी ।।  
-'पृथगाद्यम्' इति ['उद्गतामेकतः पठेत्' (पि०सू० ५।२५)](#525) इत्यनुवृत्तिनिरासार्थम् । अत्र तृतीयपादव्यवस्था सकारस्य विभज्य पाठलिङ्गात् ।।  
+'पृथगाद्यम्' इति [उद्गतामेकतः पठेत् ५।२५](#525) इत्यनुवृत्तिनिरासार्थम् । अत्र तृतीयपादव्यवस्था सकारस्य विभज्य पाठलिङ्गात् ।।  
 </details>
 
 
@@ -5735,18 +5742,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-['तृतीयस्य' (पि०सू० ५।२६)](#526) इत्यनुवर्तते । तस्मिन्नपस्थितप्रचुपिते तृतीयस्य पादस्य स्थाने यदा 'नकारौ (।।।.।।।) सकार (।।ऽ) नकारौ (।।।) पुनर्नकार (।।।) सकारौ (ऽ।।) च भवतस्तदा 'वर्द्धमानं' नाम वृत्तं भवति । तत्रोदाहरणम् -  
+[तृतीयस्य ५।२६](#526) इत्यनुवर्तते । तस्मिन्नपस्थितप्रचुपिते तृतीयस्य पादस्य स्थाने यदा 'नकारौ (।।।.।।।) सकार (।।ऽ) नकारौ (।।।) पुनर्नकार (।।।) सकारौ (ऽ।।) च भवतस्तदा 'वर्द्धमानं' नाम वृत्तं भवति । तत्रोदाहरणम् -  
 बि-म्बो-ष्ठी क-ठि-नोन्न-त-स्तना वन-ता ङ्गी  
 ह-रि-णी-शि-शु- नयना नितम्ब गुर्वी ।  
 म-द-क-ल-क-रि-ग-म-ना प-रि-ण-त-श-शि-व द-ना  
@@ -5768,11 +5775,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -5802,11 +5809,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -5831,11 +5838,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -5864,11 +5871,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -5897,11 +5904,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -5930,11 +5937,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -5964,11 +5971,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -5997,11 +6004,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -6031,11 +6038,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -6065,11 +6072,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -6098,11 +6105,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -6132,11 +6139,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -6165,11 +6172,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -6199,17 +6206,17 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य प्रथमे पादे एकोनत्रिंशद् (२९) अक्षराणि, द्वितीये च एकत्रिंशत् (३१), द्वयोरपि (१.२) पादयोरन्ते च प्रत्येकं गुरुः (ऽ), तद्वृत्तं 'शिखा' नाम। ['अर्धे' (पि०सू० ५।३१)](#531) इत्यधिकाराद्वितीयमप्यर्धं तादृशमेव । 'अन्ते ग्' इति नियमार्थमेतत् । अन्ते एव गुरुर्नान्यत्र । तेन अयुक् (१,३) पादे अष्टाविंशति (२८) रक्षराणि लघूनि, अन्ते गुरु (१)-रेकः । युक् (२,४) पादे त्रिंश (३०) ल्लघवः, अन्ते गुरु (१) श्च। तत्रोदाहरणम् -  
+यस्य प्रथमे पादे एकोनत्रिंशद् (२९) अक्षराणि, द्वितीये च एकत्रिंशत् (३१), द्वयोरपि (१.२) पादयोरन्ते च प्रत्येकं गुरुः (ऽ), तद्वृत्तं 'शिखा' नाम। [अर्धे ५।३१](#531) इत्यधिकाराद्वितीयमप्यर्धं तादृशमेव । 'अन्ते ग्' इति नियमार्थमेतत् । अन्ते एव गुरुर्नान्यत्र । तेन अयुक् (१,३) पादे अष्टाविंशति (२८) रक्षराणि लघूनि, अन्ते गुरु (१)-रेकः । युक् (२,४) पादे त्रिंश (३०) ल्लघवः, अन्ते गुरु (१) श्च। तत्रोदाहरणम् -  
 अभिमतबकुलकुसुमघनपरिमलमिलदलिमुखरितहरिति मधौ  
 सहचरमलयपवनरयतरलितसरसिजरजसि‌ शयतरणिवितते ।  
 विकसितविविधकुसुमसुलभसुरभिशरमदननिहतसकलजने  
@@ -6231,11 +6238,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
@@ -6265,11 +6272,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -6305,7 +6312,7 @@ details.mUla[open] > :not(summary) {
 'पर्याप्तं तप्तचामी, करकटकतटे श्लिष्टशीतेतरांशौ' इत्यादि। तथा- 'कूजत्कोयष्टिकोला, - हलमुखरभुवः प्रान्तकान्तारदेशाः' इत्यादि । तथा- 'हासो हस्ताग्रसंवा, - हनमपि तुलिता, द्रीन्द्रसारद्विषोऽसौ' इत्यादि। तथा- 'वैरिञ्चानां तथोच्चा, -रितरुचिरऋचां चाननानां चतुर्णाम्' इत्यादि । तथा- 'खड्गे पानीयमाह्ला, दयति च महिषं पक्षपाती पृथक्कः' इत्यादि। समुद्रादाविति किम् ?। पदमध्ये यतिः पादान्ते मा भूत् । तद्यथा - 'प्रणमत भवबन्धक्लेशनाशाय नारा, यणचरणसरोजद्वन्द्वमानन्दहेतुम्' इत्यादि ।  
 पूर्वोत्तरभागयोरेकाक्षरत्वे तु यतिर्दुष्यति । तत्रोदाहरणम्-  
 'एतस्या ग, - ण्डतलममलं गाहते चन्द्रकक्षाम्' इत्यादि । 'एतस्या रा, जति सुमुखमिदं पूर्णचन्द्रप्रकाशम् ।' इत्यादि । तथा- 'सुरासुरशिरोनिघृ, - ष्टचरणारविन्दः शिवः' इत्यादि ।  
-'पूर्वान्तवत्स्वरः संधौ क्वचिदेव परादिवत्' । अस्यार्थः - योऽयं पूर्वपरयोरेकादेशः स्वरसंधौ विधीयते, स क्वचित्पूर्वस्यान्तवद्भवति क्वचित्परस्यादिवत् । तथा च पाणिनेः स्मरणम्- 'अन्तादिवच्च' (पा०सू० ६।१।८५) । तत्र पूर्वान्तवद्भावे उदाहरणम् -  
+'पूर्वान्तवत्स्वरः संधौ क्वचिदेव परादिवत्' । अस्यार्थः - योऽयं पूर्वपरयोरेकादेशः स्वरसंधौ विधीयते, स क्वचित्पूर्वस्यान्तवद्भवति क्वचित्परस्यादिवत् । तथा च पाणिनेः स्मरणम्- [अन्तादिवच्च (पा०सू० ६।१।८५)](https://ashtadhyayi.com/sutraani/6/1/85) । तत्र पूर्वान्तवद्भावे उदाहरणम् -  
 'स्यादस्थानो - पगतयमुनासंगमेवाभिरामा' (मे.सं. १।५१) । 'जम्भारातीभकुम्भोद्भवमिव दधतः' इत्यादि ।  
 तथा-  
 'दिक्कालाद्यनवच्छिन्ना-नन्तचिन्मात्रमूर्तये ।  
@@ -6408,11 +6415,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -6441,11 +6448,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -6475,11 +6482,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -6506,11 +6513,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -6538,11 +6545,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -6573,11 +6580,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -6604,11 +6611,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -6638,11 +6645,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -6670,11 +6677,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -6702,11 +6709,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -6734,11 +6741,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -6765,11 +6772,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -6797,18 +6804,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे मकार (ऽऽऽ) भकार (ऽ।।) सकार (।।ऽ) गकारः (ऽ), तद्वृत्तं ‘मत्ता’ नाम । तत्रोदाहरणम्‌ –  
+यस्य पादे मकार (ऽऽऽ) भकार (ऽ।।) सकार (।।ऽ) गकारः (ऽ), तद्वृत्तं 'मत्ता' नाम । तत्रोदाहरणम्‌ –  
 स्वैरोल्ला-पैः(४), श्रुति-पटुपे-यैर्(६) गीतक्री-डा(४),सुर-तविशे-षैः(६) ।  
 वासागा-रे(४), कृत-सुरता-नां(६) मत्ता ना-री(४), रम-यति चे-तः (६) ॥  
 चतुर्भिः षड्भिश्च यतिरित्याम्नायः ॥  
@@ -6829,18 +6836,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे तकार (ऽऽ।) जकारौ (।ऽ।), जकार (।ऽ।) गकारौ (ऽ) च, तद्वृत्तं ‘उपस्थिता’ नाम । तत्रोदाहरणम्‌-  
+यस्य पादे तकार (ऽऽ।) जकारौ (।ऽ।), जकार (।ऽ।) गकारौ (ऽ) च, तद्वृत्तं 'उपस्थिता' नाम । तत्रोदाहरणम्‌-  
 एषा(२), ज-गदेक-मनोह-रा(८) कन्या(२), क-नकोज्ज्व-लदीधि-तिः(८ )।  
 लक्ष्मी(२),-रि-व दान-वसूद-नं(८) पुण्यै(२ ),-र्न-रनाथ-मुपस्थि-ता(८) ॥  
 अत्र द्वाभ्यामष्टाभिश्च यत्तिरित्याम्नायः ॥  
@@ -6861,22 +6868,22 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे तकारौ (ऽऽ।.ऽऽ।) जकार (।ऽ।) गकारौ (ऽ) गकार (ऽ) श्च, तद्वृत्तं ‘इन्द्रवज्रा’ तत्रोदाहरणम्‌-  
+यस्य पादे तकारौ (ऽऽ।.ऽऽ।) जकार (।ऽ।) गकारौ (ऽ) गकार (ऽ) श्च, तद्वृत्तं 'इन्द्रवज्रा' तत्रोदाहरणम्‌-  
 यस्यां त्रि-षट्सप्त-ममक्ष-रं स्याद्‌ ह्रस्वं सु-जङ्घे! न-वमं च त-द्वत्‌ ।  
-गत्या वि-लक्षीकृ-तहंस--का-न्ते! तामिन्द्र-वज्रां ब्रु-वते क-वी-न्द्राः ॥ (श्रु० बो० २१)  
+गत्या वि-लक्षीकृ-तहंस—का-न्ते! तामिन्द्र-वज्रां ब्रु-वते क-वी-न्द्राः ॥ (श्रु० बो० २१)  
 अपि च-  
-ये दुष्ट-दैत्या इ-ह भूमि-लो-के द्वेषं व्य-धुर्गोद्वि--जदेव-स-ङ्घे ।  
+ये दुष्ट-दैत्या इ-ह भूमि-लो-के द्वेषं व्य-धुर्गोद्वि—जदेव-स-ङ्घे ।  
 तानिन्द्र-वज्राद-पि दारु-णा-ङ्गान्‌ व्याजीव-यद्यः स-ततं न-म-स्ते ॥  
 तथा-  
 गोब्राह्म-णस्त्रीव्र-तिभिर्वि-रु-द्धंमोहात्क-रोत्यल्प-मतिर्नृ-पो यः ।  
@@ -6899,20 +6906,20 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे जकार (।ऽ।) तकार (ऽऽ।) जकारा (ऽ) गकारो (ऽ.ऽ) च, तद्वृत्तम्‌ ‘उपेन्द्रवज्रा’ नाम ॥ तत्रोदाहरणम्‌ –  
+यस्य पादे जकार (।ऽ।) तकार (ऽऽ।) जकारा (ऽ) गकारो (ऽ.ऽ) च, तद्वृत्तम्‌ 'उपेन्द्रवज्रा' नाम ॥ तत्रोदाहरणम्‌ –  
 भवन्न-खाः कुन्द-दलश्रि-यो ये नमन्ति लक्ष्मीस्त-नलेख-ने-ऽपि ।  
-उपेन्द्र!-वज्राधि-ककर्क-श-त्वं कथं ग--तास्ते रि-पुदार-णा-याम्‌? ॥  
+उपेन्द्र!-वज्राधि-ककर्क-श-त्वं कथं ग—तास्ते रि-पुदार-णा-याम्‌? ॥  
 अत्र पादान्ते यतिः ॥  
 </details>
 
@@ -6931,11 +6938,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -6958,18 +6965,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे भगणास्त्रयो (ऽ।।.ऽ।।.ऽ।।) गकारौ (ऽ.ऽ) च भवतस्तद्‌ ‘दोधकं’ नाम वृत्तम्‌ । तत्रोदाहरणम्‌-  
+यस्य पादे भगणास्त्रयो (ऽ।।.ऽ।।.ऽ।।) गकारौ (ऽ.ऽ) च भवतस्तद्‌ 'दोधकं' नाम वृत्तम्‌ । तत्रोदाहरणम्‌-  
 दोधक-मर्थवि-रोधक-मु-ग्रं स्त्री-चप-लं युधि कातर-चि-त्तम्‌ ।  
 स्वार्थप-रं मति-हीनम-मा-त्यं मुञ्चति यो नृप-तिः स सु-खी स्यात्‌ ॥  
 अत्र पादान्ते यतिः । दोग्धीति दोधकः । केनाप्युपायेन राजानं दोग्धि ।  
@@ -6990,17 +6997,17 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे मगणतगणौ, (ऽऽऽ.ऽऽ।) तगणो, (ऽऽ।) गकार (ऽ.ऽ) च भवतस्तद्वृत्तं  ‘शालिनी’ नाम । चतुर्षु, सप्तसु च यतिः । तत्रोदाहरण –  
+यस्य पादे मगणतगणौ, (ऽऽऽ.ऽऽ।) तगणो, (ऽऽ।) गकार (ऽ.ऽ) च भवतस्तद्वृत्तं  'शालिनी' नाम । चतुर्षु, सप्तसु च यतिः । तत्रोदाहरण –  
 शस्त्रश्या-मा(४)स्निग्ध-मुग्धाय-ता-क्षी( ७)  
 पीनश्रो-णि(४)र्दक्षि-णावर्त-ना-भिः(७) ।  
 मध्ये क्षा-मा(४)पीव-रोरुस्त-नी या(७)  
@@ -7022,23 +7029,23 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे मगणभगणतगणाः (ऽऽऽ.ऽ।।.ऽऽ।) गकारी (ऽ.ऽ) च भवतस्तद्वृत्तं ‘वातोर्मी’ नाम । चतुर्भिः सप्तभिश्च यतिः । चकारो यत्यनुकर्षणार्थः ।  
+यस्य पादे मगणभगणतगणाः (ऽऽऽ.ऽ।।.ऽऽ।) गकारी (ऽ.ऽ) च भवतस्तद्वृत्तं 'वातोर्मी' नाम । चतुर्भिः सप्तभिश्च यतिः । चकारो यत्यनुकर्षणार्थः ।  
 तथोदाहरणम्-  
 यात्युत्से-कं(४)सप-दि प्राप्य-किं-चि(७)  
 त्स्याद्वा य-स्या(४)श्चप-ला चित्त-वृ-त्तिः(७) |  
 या दीर्घा-ङ्गी(४)स्फुट-शब्दाट्ट-हा-सा (७)  
 त्याज्या सा स्त्री(४) द्रुत-वातोर्मि-मा-ला (७) ॥  
-वातोर्मीति स्त्रियां ‘कृदिकारादक्तिनः’ (व्या.वार्ति.) इति ङीष्‌ ।  
+वातोर्मीति स्त्रियां 'कृदिकारादक्तिनः' (व्या.वार्ति.) इति ङीष्‌ ।  
 </details>
 
 
@@ -7056,17 +7063,17 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे मगणभगणनगणलकारगकाराः (ऽऽऽ.ऽ।।.।।।.।.ऽ) भवन्ति तद्‌ ‘भ्रमरविलसितं’ नाम । चतुर्भिः सप्तभिश्च यतिः । तत्रोदाहरण –  
+यस्य पादे मगणभगणनगणलकारगकाराः (ऽऽऽ.ऽ।।.।।।.।.ऽ) भवन्ति तद्‌ 'भ्रमरविलसितं' नाम । चतुर्भिः सप्तभिश्च यतिः । तत्रोदाहरण –  
 किं ते व-क्रं(४)चल-दलक-चि-तं (७)  
 किंवा प-द्मं(४)भ्रम-रविल-सि-तम् (७) ।  
 इत्येवं मे(४)जन-यति म-न-सि(७)  
@@ -7089,17 +7096,17 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे रगणनगणरगणलकारगकारा (ऽ।ऽ.।।।.ऽ।ऽ.।.ऽ) भवन्ति तद्वृत्तं ‘रथोद्धता’ नाम । | तत्रोदाहरणम्‌-  
+यस्य पादे रगणनगणरगणलकारगकारा (ऽ।ऽ.।।।.ऽ।ऽ.।.ऽ) भवन्ति तद्वृत्तं 'रथोद्धता' नाम । | तत्रोदाहरणम्‌-  
 या करो-ति विवि-धैर्विटैः स-मं सङ्गतिं परगृ-हे रता च या।  
 म्लानय-त्युभय-तोऽपि बा-न्ध-वान्‌ मार्गधू-लिरिव सा रथो-द्ध-ता ॥  
 पादान्ते यतिः ।  
@@ -7120,18 +7127,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे रगणनगणौ (ऽ।ऽ.।।।) भगणो (ऽ।।) गकारौ (ऽ.ऽ) च तद्वृत्तं ‘स्वागता’ नाम । तत्रोदाहरणम्‌-  
-आहवं प्रविश-तो यदि रा-हुः पृष्ठत-श्चरति वायुस--मे--तः ।  
+यस्य पादे रगणनगणौ (ऽ।ऽ.।।।) भगणो (ऽ।।) गकारौ (ऽ.ऽ) च तद्वृत्तं 'स्वागता' नाम । तत्रोदाहरणम्‌-  
+आहवं प्रविश-तो यदि रा-हुः पृष्ठत-श्चरति वायुस—मे—तः ।  
 प्राणवृ-त्तिरपि यस्य श-री-रे स्वागता भवति तस्य ज-य-श्रीः ॥  
 पादान्ते यतिः ।  
 </details>
@@ -7151,18 +7158,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे नगणौ (।।।.।।।) सगणः (।।ऽ) गकारौ (ऽ.ऽ) च तद्वृत्तं ‘वृन्ता’ नाम । अत्र मण्डूकप्लुतिन्यायेन ‘समुद्रऋषय’ इत्यनुवर्तते । तेन चतुर्भिः सप्तभिश्च यतिः । तत्रोदाहरणम् –  
-द्विजगु-रु(४)परि-भवका--री-यो(७  
+यस्य पादे नगणौ (।।।.।।।) सगणः (।।ऽ) गकारौ (ऽ.ऽ) च तद्वृत्तं 'वृन्ता' नाम । अत्र मण्डूकप्लुतिन्यायेन 'समुद्रऋषय' इत्यनुवर्तते । तेन चतुर्भिः सप्तभिश्च यतिः । तत्रोदाहरणम् –  
+द्विजगु-रु(४)परि-भवका—री-यो(७  
 नरप-ति(४)रति-धनलु-ब्धा-त्मा (७) |  
 ध्रुवमि-ह(४)निप-तति पा-पो-ऽसौ (७)  
 फलमि-व(४)पव-नहतं-वृ-न्तात्‌ (७) ॥  
@@ -7183,17 +7190,17 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे रगणजगणौ (ऽ।ऽ.।ऽ।) रगणलकारौ (ऽ।ऽ.।) गकार (ऽ) श्च तद्वृत्तं ‘श्येनी’ नाम । तत्रोदाहरणम् –  
+यस्य पादे रगणजगणौ (ऽ।ऽ.।ऽ।) रगणलकारौ (ऽ।ऽ.।) गकार (ऽ) श्च तद्वृत्तं 'श्येनी' नाम । तत्रोदाहरणम् –  
 क्रूरदृ-ष्टिराय-ताग्रना-सि-का चञ्चला-कठोर-तीक्ष्णना-दि-नी ।  
 युद्धका-ङ्क्षिणी स-दामिष-प्रि-या श्येनिके-व सा वि-गर्हिता-ङ्ग-ना॥  
 अत्र पादान्ते यतिः ।  
@@ -7214,17 +7221,17 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे जगणरगणौ (।ऽ।.ऽ।ऽ) जगणो (।ऽ।) गकारौ (ऽ.ऽ) च तद्वृत्तं ‘विलासिनी’ नाम । तत्रोदाहरणम्–  
+यस्य पादे जगणरगणौ (।ऽ।.ऽ।ऽ) जगणो (।ऽ।) गकारौ (ऽ.ऽ) च तद्वृत्तं 'विलासिनी' नाम । तत्रोदाहरणम्–  
 विलासि-नी विलो-कितैः स-का-मं दधाति-कामस-त्त्वचेष्टि-तं या ।  
 करोति चञ्चला-क्षिदृष्टि-पा-तै- र्यतात्म-नश्च यो-गिनोऽपि म-त्तान्‌ ॥  
 </details>
@@ -7244,17 +7251,17 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-अधिकारोऽयमाध्यायपरिसमाप्तेः । यदित ऊर्ध्वमनुक्रमिष्यामस्तज्जगतीत्येवं वेदितव्यम्‌ । वक्ष्यति च “तोटकं सः” (६।३२) तज्जगतीपादस्य लक्षणं भवति ॥  
+अधिकारोऽयमाध्यायपरिसमाप्तेः । यदित ऊर्ध्वमनुक्रमिष्यामस्तज्जगतीत्येवं वेदितव्यम्‌ । वक्ष्यति च 'तोटकं सः' (६।३२) तज्जगतीपादस्य लक्षणं भवति ॥  
 </details>
 
 
@@ -7272,17 +7279,17 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे जगणतगणौ (।ऽ।.ऽऽ।) जगणरगणौ (।ऽ।.ऽ।ऽ) च भवतस्तद्वत्तं ‘वंशस्था’ नाम । तत्रोदाहरणम् -  
+यस्य पादे जगणतगणौ (।ऽ।.ऽऽ।) जगणरगणौ (।ऽ।.ऽ।ऽ) च भवतस्तद्वत्तं 'वंशस्था' नाम । तत्रोदाहरणम् -  
 विशुद्ध-वंशस्थ-मुदार-चेष्टितं गुणप्रि-यं मित्र-मुपास्स्व सज्जनम् ।  
 विपत्ति-मग्नस्य कराव-लम्बनं करोति यत्प्राण-परिक्र-येण सः ॥ पादान्ते यतिः ।  
 </details>
@@ -7302,17 +7309,17 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे तगणौ (ऽऽ।.ऽऽ।) जगणरगणौ (।ऽ।.ऽ।ऽ) च तद्वृतं ‘इन्द्रवंशा’ नाम तत्रोदाहरणम्‌ -  
+यस्य पादे तगणौ (ऽऽ।.ऽऽ।) जगणरगणौ (।ऽ।.ऽ।ऽ) च तद्वृतं 'इन्द्रवंशा' नाम तत्रोदाहरणम्‌ -  
 कुर्वीत यो देव-गुरुद्वि-जन्मना- मुर्वीप-तिः पाल-नमर्थ-लिप्सया ।  
 तस्येन्द्र-वंशेऽपि गृहीत-जन्मनः संजाय-ते श्रीः प्र-तिकूल-वर्त्तिनी ॥  
 अत्रापि पादान्ते यतिः ।  
@@ -7333,17 +7340,17 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे नगणभगणौ (।।।.ऽ।।) भगणरगणौ (ऽ।।.ऽ।ऽ) च भवतस्तद्वृत्तं ‘द्रुतविलम्बितं’ नाम । तत्रोदाहरणम् -  
+यस्य पादे नगणभगणौ (।।।.ऽ।।) भगणरगणौ (ऽ।।.ऽ।ऽ) च भवतस्तद्वृत्तं 'द्रुतविलम्बितं' नाम । तत्रोदाहरणम् -  
 द्रुतगतिः पुरु-षो धन-भाजनं भवति मन्दग-तिश्च सु-खोचितः ।  
 द्रुतवि-लम्बित-खेलग-तिर्नृपः सकल-राज्यसु-खं प्रिय-मश्नुते ॥  
 </details>
@@ -7363,17 +7370,17 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-जगतीत्यधिकारे यावद्भिः सकारै (।।ऽ)र्जगतीपादः पूर्यते, तावन्त एकपादे सकारा भवन्ति तद्वृत्तं ‘तोटकं’ नाम । तत्रोदाहरणम्‌-  
+जगतीत्यधिकारे यावद्भिः सकारै (।।ऽ)र्जगतीपादः पूर्यते, तावन्त एकपादे सकारा भवन्ति तद्वृत्तं 'तोटकं' नाम । तत्रोदाहरणम्‌-  
 त्यज तो-टकम-र्थनियो-गकरं प्रमदा-धिकृतं व्यसनो-पहतम्‌।  
 उपधा-भिरशु-द्धमतिं सचिवं नरना-यक! भी-रुकमा-युधिकम्‌ ॥  
 पादान्ते यतिः ।  
@@ -7394,21 +7401,21 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे नगणौ (।।।.।।।) मगणयगणौ (ऽऽऽ.।ऽऽ) च तद्वृत्तं ‘पुटो’ नाम । अष्टमिश्चतुर्मिश्च यतिः । तत्रोदाहरणम्‌ –  
+यस्य पादे नगणौ (।।।.।।।) मगणयगणौ (ऽऽऽ.।ऽऽ) च तद्वृत्तं 'पुटो' नाम । अष्टमिश्चतुर्मिश्च यतिः । तत्रोदाहरणम्‌ –  
 न विच-लति क-थ ञ्चि (८)न्न्या-यमार्गा(४)  
 द्वसुनि शिथिल-मुष्टिः(८)पा-र्थिवो यः(४) ।  
-अमृत-पुट इ-वासौ(८)पु--ण्यकर्मा(४)  
-भवति जगति सेव्यः(८)स--र्वलोकैः(४) ॥  
+अमृत-पुट इ-वासौ(८)पु—ण्यकर्मा(४)  
+भवति जगति सेव्यः(८)स—र्वलोकैः(४) ॥  
 </details>
 
 
@@ -7426,17 +7433,17 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे जगणसगणौ (।ऽ।.।।ऽ) पुनरपि तावेव (।ऽ।.।।ऽ) तद्वृत्तं ‘जलोद्धतगति’ र्नाम । षड्भिः षड्भिश्च यतिः ।  
+यस्य पादे जगणसगणौ (।ऽ।.।।ऽ) पुनरपि तावेव (।ऽ।.।।ऽ) तद्वृत्तं 'जलोद्धतगति' र्नाम । षड्भिः षड्भिश्च यतिः ।  
 भनक्ति समरे(६) बहून-पि रिपून्‌ (६) हरिः प्र-भुरसौ(६)भुजोर्जि-तबलः(६)।  
 जलोद्ध-तगति-(६)र्यथैव मकर-(६) स्तरङ्ग-निकरं(६) करेण परितः (६) ॥  
 </details>
@@ -7456,11 +7463,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
@@ -7486,19 +7493,19 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे नगणयगणौ (।।।.।ऽऽ) पुनरपि तावेव (।।।.।ऽऽ) तत्‌ ‘कुसुमविचित्रा’ नाम ।  
+यस्य पादे नगणयगणौ (।।।.।ऽऽ) पुनरपि तावेव (।।।.।ऽऽ) तत्‌ 'कुसुमविचित्रा' नाम ।  
 विगलि-तहारा सकुसु-ममाला सचर-णलाक्षा वलय-सुलक्षा ।  
-विरचि-तवेषं सुरत--विशेषं कथय-ति शय्या कुसुम-विचित्रा ॥  
+विरचि-तवेषं सुरत—विशेषं कथय-ति शय्या कुसुम-विचित्रा ॥  
 </details>
 
 
@@ -7516,17 +7523,17 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे नगणौ (।।।.।।।) रगणौ (ऽ।ऽ.ऽ।ऽ) च भवतस्तद्वृत्तं ‘चञ्चलाक्षिका’ नाम ।  
+यस्य पादे नगणौ (।।।.।।।) रगणौ (ऽ।ऽ.ऽ।ऽ) च भवतस्तद्वृत्तं 'चञ्चलाक्षिका' नाम ।  
 अति सु-रभिर-भाजि पु-ष्पश्रिया- मतनु-तरत-येव सं-तानकः ।  
 तरुण-परभृ-तः स्वनं रागिणा- मतनु-त रत-ये वसं-तानकः ॥  
 </details>
@@ -7546,17 +7553,17 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे चत्वारो यगणा (।ऽऽ.।ऽऽ.।ऽऽ.।ऽऽ) भवन्ति, तद्‌ ‘भुजङ्गप्रयातं’ नाम ।  
+यस्य पादे चत्वारो यगणा (।ऽऽ.।ऽऽ.।ऽऽ.।ऽऽ) भवन्ति, तद्‌ 'भुजङ्गप्रयातं' नाम ।  
 पुनः सा-धुवद्व-क्ति मिथ्या विनीतः परोक्षे करोत्य-र्थनाशं हताशः ।  
 भुजङ्ग-प्रयातो-पमं य-स्य चित्तं त्यजेत्ता-दृशं दु-श्चरित्रं कुमित्रम्‌ ॥  
 अत्र पादान्ते यतिः ।  
@@ -7577,17 +7584,17 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे रगणा (ऽ।ऽ.ऽ।ऽ.ऽ।ऽ.ऽ।ऽ) श्चत्वारस्तत्‌ ‘स्रग्विणी’ नाम ।  
+यस्य पादे रगणा (ऽ।ऽ.ऽ।ऽ.ऽ।ऽ.ऽ।ऽ) श्चत्वारस्तत्‌ 'स्रग्विणी' नाम ।  
 यो रणे - युध्यते निर्भरं निर्भय स्त्यागिता यस्य सर्वस्वदा-नावधिः ।  
 तं नरं वीरल-क्ष्मीर्यशः-स्रग्विणी नूनम-भ्येति स-त्कीर्तिशु-क्लांशुका ॥  
 </details>
@@ -7607,17 +7614,17 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे सगणजगणौ (।।ऽ.।ऽ।) सगणौ (।।ऽ.।।ऽ) च भवतस्तद्वृत्तं ‘प्रमिताक्षरा’ नाम । तत्रोदाहरणम्‌-  
+यस्य पादे सगणजगणौ (।।ऽ.।ऽ।) सगणौ (।।ऽ.।।ऽ) च भवतस्तद्वृत्तं 'प्रमिताक्षरा' नाम । तत्रोदाहरणम्‌-  
 परिशुद्धवाक्य-रचना-तिशयं परिषि-ञ्चती श्र-वणयो-रमृतम्‌ ।  
 प्रमिता-क्षरापि विपुला-र्थवती तव-भा-रती ह-रति मे हृदयम्‌ ॥  
 अत्र पादान्ते यतिः ।  
@@ -7638,17 +7645,17 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे भगणमगणौ (ऽ।।.ऽऽऽ) सगणमगणौ (ऽ।।.ऽऽऽ) च भवतस्तद्वृत्तं ‘कान्तोत्पीडा’ नाम । तत्रोदाहरणम्‌  
+यस्य पादे भगणमगणौ (ऽ।।.ऽऽऽ) सगणमगणौ (ऽ।।.ऽऽऽ) च भवतस्तद्वृत्तं 'कान्तोत्पीडा' नाम । तत्रोदाहरणम्‌  
 कामश-रैर्व्याप्ता खलु का-न्तोत्पीडा- माप्तव-ती दुःखैः परिमु-ह्यन्ती या ।  
 सा लभ-ते चेत्का-मुकयो-गं गाढ दुःखवि-मुक्ता स्या-त्परमा-नन्दाप्ता ॥  
 
@@ -7669,20 +7676,20 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे मगणौ (ऽऽऽ.ऽऽऽ) यगणौ (।ऽऽ.।ऽऽ) च भवतस्तद्वृत्तं ‘वैश्वदेवी’ नाम । पञ्चसु सप्तसु च यतिः । तत्रोदाहरणम् –  
+यस्य पादे मगणौ (ऽऽऽ.ऽऽऽ) यगणौ (।ऽऽ.।ऽऽ) च भवतस्तद्वृत्तं 'वैश्वदेवी' नाम । पञ्चसु सप्तसु च यतिः । तत्रोदाहरणम् –  
 धन्यः पु-ण्यात्मा(५)जा-यते क्वा-पि वंशे(७)  
-तादृक्पु-त्रोऽसौ(५)ये--न गोत्रं पवित्रम्‌ (७) ।  
-गोविप्र--ज्ञाति(५)स्वा--मिकार्ये प्रवृत्तः(७)  
+तादृक्पु-त्रोऽसौ(५)ये—न गोत्रं पवित्रम्‌ (७) ।  
+गोविप्र—ज्ञाति(५)स्वा—मिकार्ये प्रवृत्तः(७)  
 शुद्ध श्रा-द्धादौ(५)वै-श्वदेवी भवेद्यः(७) ॥  
 </details>
 
@@ -7701,19 +7708,19 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे १तगणयगणौ (ऽऽ।.।ऽऽ) मगणयगणौ (ऽऽऽ.।ऽऽ) च भवतस्तद्वृत्तं ‘वाहिनी’ नाम । सप्तभिः पञ्चभिश्च यतिः । तत्रोदाहरणम्‌-  
+यस्य पादे १तगणयगणौ (ऽऽ।.।ऽऽ) मगणयगणौ (ऽऽऽ.।ऽऽ) च भवतस्तद्वृत्तं 'वाहिनी' नाम । सप्तभिः पञ्चभिश्च यतिः । तत्रोदाहरणम्‌-  
 शक्ता ज-गतीं कृ-त्स्नां (७)जेतुं सुयोधा(५)  
-हस्त्यश्व-रथोदा--रा(७)सा वाहिनी ते(५)।  
+हस्त्यश्व-रथोदा—रा(७)सा वाहिनी ते(५)।  
 छन्ने र-जसा भा-नौ(७)यस्याः प्रयाणे(५  
 घस्रेऽपि निशाभ्रा-न्ति(७)धत्ते नृलोकः(५) ॥  
 </details>
@@ -7733,17 +7740,17 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे नगणजगणभगणयगणा (।।।.।ऽ।.ऽ।।.।ऽऽ) भवन्ति तद्वृत्तं ‘नवमालिनी’ नाम । तत्रोदाहरणम् –  
+यस्य पादे नगणजगणभगणयगणा (।।।.।ऽ।.ऽ।।.।ऽऽ) भवन्ति तद्वृत्तं 'नवमालिनी' नाम । तत्रोदाहरणम् –  
 धवल-यशोंऽशु-केन(८)प-रिवीता(४)  
 सकल-जनानु-राग(८)घु-सृणाक्ता(४) ।  
 दृढगु-णबद्ध-कीर्ति(८)कु-सुमौघै(४)  
@@ -7767,11 +7774,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -7779,7 +7786,7 @@ details.mUla[open] > :not(summary) {
 <details><summary>हलायुधवृत्तिः</summary>
 
 इदानीमतिजगती शक्वर्यतिशकवर्यष्टिरत्यष्टिर्धृतिरतिधृतिश्चेति सप्त अतिच्छन्दांसि एकैकाक्षरवृद्ध्या क्रमेणोदाह्रियन्ते ।  
-यस्य पादे मगणनगणौ (ऽऽऽ.।।।) जगणरगणगकाराश्च (।ऽ।.ऽ।ऽ.ऽ) भवन्ति, तद्वृत्तं ‘प्रहर्षिणी’ नाम । त्रिभिर्दशभिश्च यतिः । तत्रोदाहरणम्‌-  
+यस्य पादे मगणनगणौ (ऽऽऽ.।।।) जगणरगणगकाराश्च (।ऽ।.ऽ।ऽ.ऽ) भवन्ति, तद्वृत्तं 'प्रहर्षिणी' नाम । त्रिभिर्दशभिश्च यतिः । तत्रोदाहरणम्‌-  
 उत्तुङ्ग(३)स्तनक-लशद्व-योन्नता-ङ्गी(१०)  
 लोलाक्षी(३)विपुल-नितम्ब-शालिनी च(१०)।  
 बिम्बोष्ठी(३ )नरव-र! मुष्टि-मेयम-ध्या(१०)  
@@ -7801,18 +7808,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे जगणभगणौ (।ऽ।.ऽ।।) सगणजगणौ (।।ऽ.।ऽ।) गुरुश्च (ऽ), तद्वृत्तं ‘रुचिरा’ नाम । चतुर्भिर्नवभिश्च यतिः । तत्रोदाहरणम्‌ –  
+यस्य पादे जगणभगणौ (।ऽ।.ऽ।।) सगणजगणौ (।।ऽ.।ऽ।) गुरुश्च (ऽ), तद्वृत्तं 'रुचिरा' नाम । चतुर्भिर्नवभिश्च यतिः । तत्रोदाहरणम्‌ –  
 मृगत्व-चा(४)रुचि-रतरा-म्बरक्रि-यः(९)  
 कपाल-भृ(४)त्कपि-लजटा-ग्रपल्ल-वः(९) ।  
 ललाट दृ(४)ग्दह-नतृणी-कृतस्म-रः(९)  
@@ -7834,18 +7841,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे मगणतगणयगणसगणगकाराः (ऽऽऽ.ऽऽ।.।ऽऽ.।।ऽ.ऽ) भवन्ति, तद्वृत्तं ‘मत्तमयुरम्‌’ नाम । पूर्वैव यतिः । तत्रोदाहरणम्‌--  
+यस्य पादे मगणतगणयगणसगणगकाराः (ऽऽऽ.ऽऽ।.।ऽऽ.।।ऽ.ऽ) भवन्ति, तद्वृत्तं 'मत्तमयुरम्‌' नाम । पूर्वैव यतिः । तत्रोदाहरणम्‌—  
 व्यूढोर-स्कः सिंह-समाना-नतम-ध्यः  
 पीनस्क-न्धः सिन्धु-रहस्ता-यतबा-हुः  
 कम्बुग्री-वः स्निग्ध-शरीर-स्तनुलो-मा  
@@ -7867,18 +7874,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे नगणत्रयं (।।।.।।।.।।।) सगणो (।।ऽ) गुरुश्च (ऽ), तद्वृत्तं ‘गौरी’ नाम । तत्रोदाहरणम्‌-  
+यस्य पादे नगणत्रयं (।।।.।।।.।।।) सगणो (।।ऽ) गुरुश्च (ऽ), तद्वृत्तं 'गौरी' नाम । तत्रोदाहरणम्‌-  
 सकल-भुवन-जगण-नतपा-दा निजप-दभंज-नशमि-त विषा-दा ।  
 विजित-सरसि-रुहन-यनप-द्या भरतु सकल-मिह ज-गति गौ-री ॥  
 
@@ -7899,18 +7906,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे मगणतगणनगणसगणा (ऽऽऽ.ऽऽ।.।।।.।।ऽ) गकारौ (ऽ.ऽ) च भवतस्तद्वृत्तम्‌ ‘असंबाधा’ नाम । पञ्चभिर्नवभिश्च यतिः । तत्रोदाहरणम् –  
+यस्य पादे मगणतगणनगणसगणा (ऽऽऽ.ऽऽ।.।।।.।।ऽ) गकारौ (ऽ.ऽ) च भवतस्तद्वृत्तम्‌ 'असंबाधा' नाम । पञ्चभिर्नवभिश्च यतिः । तत्रोदाहरणम् –  
 भङ्क्त्वा दु-र्गाणि(५)द्रु-भवन-मखिलं छि-त्त्वा (९)  
 हत्वा त-त्सैन्यं(५)क-रितुर-गबलं हृ-त्वा(९)  
 येनासं-बाधा(५)स्थि-तिरज-नि विप-क्षा-णां(९)  
@@ -7932,18 +7939,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे नगणौ (।।।.।।।) रगणसगणलकारा गकारश्च (ऽ।ऽ.।।ऽ.।.ऽ) तद्वृत्तम्‌ ‘अपराजिता’ नाम । सप्तभिः सप्तभिश्च यतिः । तत्रोदाहरणम्‌-  
+यस्य पादे नगणौ (।।।.।।।) रगणसगणलकारा गकारश्च (ऽ।ऽ.।।ऽ.।.ऽ) तद्वृत्तम्‌ 'अपराजिता' नाम । सप्तभिः सप्तभिश्च यतिः । तत्रोदाहरणम्‌-  
 फणिप-तिवल-यं(७)जटा-मुकुटो-ज्व-लं(७)  
 मनसि-जमथ-नं(७)त्रिशू-लविभू-षि-तम्‌( ७)  
 स्मरसि यदि स-खे(७)शिवं शशिशे-ख-रं(७)  
@@ -7965,18 +7972,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे नगणौ (।।।.।।।) भगणनगणौ, (ऽ।।.।।।) लकारो गकारश्च (ऽ) भवन्ति, तद्वृत्तं ‘प्रहरणकलिता’ नाम । चकारात्पूर्वोक्तैव यतिः । तत्रोदाहरणम्‌ –  
+यस्य पादे नगणौ (।।।.।।।) भगणनगणौ, (ऽ।।.।।।) लकारो गकारश्च (ऽ) भवन्ति, तद्वृत्तं 'प्रहरणकलिता' नाम । चकारात्पूर्वोक्तैव यतिः । तत्रोदाहरणम्‌ –  
 सुरमु-निमनु-जै(७)रुप-चितच-र-णां (७)  
 रिपुभ-यचकि-त(७)त्रिभु-वनश-र-णाम्‌ (७) ।  
 प्रणम-त महि-षा(७)सुर-वधकु-पि-तां(७)  
@@ -7998,18 +8005,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे तगणभगणौ (ऽऽ।.ऽ।।) जगणौ (।ऽ।.।ऽ।) गकारौ (ऽ.ऽ) च तद्वृत्तं ‘वसन्ततिलका’ नाम । तत्रोदाहरणम्‌-  
+यस्य पादे तगणभगणौ (ऽऽ।.ऽ।।) जगणौ (।ऽ।.।ऽ।) गकारौ (ऽ.ऽ) च तद्वृत्तं 'वसन्ततिलका' नाम । तत्रोदाहरणम्‌-  
 उद्धर्षि-णी जन-दृशां स्त-नभार-गु-र्वी  
 नीलोत्प-लद्युति-मलिम्लु-चलो च-ना च।  
 सिंहोन्न-तत्रिक-तटी कु-टिलाल-का-न्ता  
@@ -8032,18 +8039,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-इयमेव वसन्ततिलका काश्यपस्याचार्यस्य मतेन “सिंहोन्नता” नाम भवति । पूर्वमेवोदाहरणम् ।  
+इयमेव वसन्ततिलका काश्यपस्याचार्यस्य मतेन 'सिंहोन्नता' नाम भवति । पूर्वमेवोदाहरणम् ।  
 </details>
 
 
@@ -8061,11 +8068,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -8090,18 +8097,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे नगणाश्चत्वारः (॥.।॥.॥॥.॥॥) सगणश्च (॥5), तद्वतं “चन्द्रावर्ता'” नाम । तत्रोदाहरणम्‌-  
+यस्य पादे नगणाश्चत्वारः (॥.।॥.॥॥.॥॥) सगणश्च (॥5), तद्वतं 'चन्द्रावर्ता'' नाम । तत्रोदाहरणम्‌-  
 पटुज-वपव-न(७)चलि-तजल-लहरी (८)  
 तरलि-तविह-ग(७)निव-हरव-मुखरम्‌ (८) ।  
 विकसि-तकम-ल(७)सुर-भिशुचि सलिलं (८)  
@@ -8123,18 +8130,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-सैव चन्द्रावर्ता ‘माला’ नाम भवति; यदा षष्ठे, नवमे च वर्णे यतिः । तत्रोदाहरणम्‌-  
+सैव चन्द्रावर्ता 'माला' नाम भवति; यदा षष्ठे, नवमे च वर्णे यतिः । तत्रोदाहरणम्‌-  
 नववि-कसित(६)-कुवल-यदल-नयने (९)  
 निशम-य नव(६)-जलध-रमिह गगने (९) ।  
 अपन-य रुष(६)-मुपस-र मम सविधं (९)  
@@ -8156,18 +8163,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-सैव चन्द्रावर्ता ‘मणिगुणनिकरो’ नाम भवति, यदाष्टभिः, सप्तभिश्च यतिः । तत्रोदाहरणम्‌-  
+सैव चन्द्रावर्ता 'मणिगुणनिकरो' नाम भवति, यदाष्टभिः, सप्तभिश्च यतिः । तत्रोदाहरणम्‌-  
 कथम-पि निप-तित(८)म-तिमह-ति पदे(७)  
 नरम-नु-सर-ति न(८)फ-लमनु-पचितम्‌ (७) ।  
 अपि व-रयुव-तिषु(८)कु-चतट-निहितः (७)  
@@ -8189,11 +8196,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -8201,7 +8208,7 @@ details.mUla[open] > :not(summary) {
 <details><summary>हलायुधवृत्तिः</summary>
 
 यस्य पादे नगणौ, मगणयगणौ, यगणश्च (।।।.।।।.ऽऽऽ.।ऽऽ.।ऽऽ)  
-भवति, तद्वृत्तं ‘मालिनी’ नाम । पूर्वैव यतिः । तत्रोदाहरणम्‌-  
+भवति, तद्वृत्तं 'मालिनी' नाम । पूर्वैव यतिः । तत्रोदाहरणम्‌-  
 अतिवि-पुलल-लाटं(८)पी-वरोरः-कपाटं (७)  
 सुघटि-त दश-नोष्ठं(८ )व्या-घ्रतुल्य-प्रकोष्ठम्‌ (७)  
 पुरुष-मशनि-लेखा(८)ल-क्षणं वी-रलक्ष्मी (७)  
@@ -8223,18 +8230,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे भगणरगणौ, नगणास्त्रयो, गकारश्च भवति (ऽ।।.ऽ।ऽ.।।।.।।।.।।।.ऽ) तद्वृत्तं ‘ऋषभगजविलसितं’ नाम | सप्तभिर्नवभिश्च यतिः । तत्रोदाहरणम्‌-  
+यस्य पादे भगणरगणौ, नगणास्त्रयो, गकारश्च भवति (ऽ।।.ऽ।ऽ.।।।.।।।.।।।.ऽ) तद्वृत्तं 'ऋषभगजविलसितं' नाम | सप्तभिर्नवभिश्च यतिः । तत्रोदाहरणम्‌-  
 आयत-बाहुद-ण्ड(७)मुप-चितपृ-थुहृद-यं(९)  
 पीनक-टिप्रदे-श(७)मृष-भगज-विलसि-तम्‌ (९) ।  
 वीरमु-दारस-त्तव.७)मति शयगु-णरसि-कं(९)  
@@ -8256,18 +8263,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे नगणसगणमगणरगणसगणलकारणकाराश्च (।।।.।।ऽ.ऽऽऽ.ऽ।ऽ.।।ऽ.।ऽ), तद्वृत्तं ‘हरिणी’ नाम । षड्भिः, चतुर्भिः, सप्तभिश्च यतिः ।  
+यस्य पादे नगणसगणमगणरगणसगणलकारणकाराश्च (।।।.।।ऽ.ऽऽऽ.ऽ।ऽ.।।ऽ.।ऽ), तद्वृत्तं 'हरिणी' नाम । षड्भिः, चतुर्भिः, सप्तभिश्च यतिः ।  
 कुवल-यदल(६)-श्यामा पी-नो(४)न्नत-स्तनशा-लि-नी(७)  
 चकित-हरिणी(६)नेत्रच्छा-या(४)मदा'-लसलो-च-ना(७) ।  
 मनसि-जधनु(२)-...र्पानिर्घो-षै(४)रिव-श्रुतिपे-श-लै(७)  
@@ -8289,11 +8296,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -8301,7 +8308,7 @@ details.mUla[open] > :not(summary) {
 <details><summary>हलायुधवृत्तिः</summary>
 
 यस्य पादे जगणसगणौ (।ऽ।.।।ऽ) पुनर्जगणसगणौ (।ऽ।.।।ऽ)  
-यगणलकारगकाराश्च (।ऽऽ.।.ऽ), तद्वृत्तं ‘पृथ्वी’ नाम । अष्टभिर्नवभिश्च यतिः । तत्रोदाहरणम्‌ –  
+यगणलकारगकाराश्च (।ऽऽ.।.ऽ), तद्वृत्तं 'पृथ्वी' नाम । अष्टभिर्नवभिश्च यतिः । तत्रोदाहरणम्‌ –  
 हताः स-मिति श-त्रव(८)स्रि-भुवने विकीर्णं य-शः (९)  
 कृतश्च गुणिनां गृहे(८)नि-रवधि-र्महानु-त्स-वः(९)  
 त्वया कृ-तपरि-ग्रहे(८)क्षि-तिप वी-र! सिंहा-स-ने(९)  
@@ -8323,18 +8330,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे भगणरगणनगणभगणनगणलकारगकारा (ऽ।।.ऽ।ऽ.।।।.ऽ।।.।।।.।.ऽ) भवन्ति, तद्वृत्तं ‘वंशपत्रपतितम्‌’ नाम । दशभिः सप्तभिश्च यतिः । तत्रोदाहरणम्‌-  
+यस्य पादे भगणरगणनगणभगणनगणलकारगकारा (ऽ।।.ऽ।ऽ.।।।.ऽ।।.।।।.।.ऽ) भवन्ति, तद्वृत्तं 'वंशपत्रपतितम्‌' नाम । दशभिः सप्तभिश्च यतिः । तत्रोदाहरणम्‌-  
 अद्य कु-रुष्व कर्म सुकृ-तं(१०)यद-परदि-व-से(७)  
 मित्र! वि-धेयम-स्ति भव-तः(१०)किमु चिरय-सि तत्‌ ?(७) ।  
 जीवित-मल्पका-लकल-ना(१०)लघु-तरत-र-लं(७)  
@@ -8356,18 +8363,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे मगणभगणनगणाः, (ऽऽऽ.ऽ।।.।।।) तगणौ, (ऽऽ।.ऽऽ।) गकारौ च (ऽ.ऽ) तद्‌ ‘मन्दक्रान्ता’ नाम चतुर्षु षट्सु सप्तसु च यतिः । तत्रोदाहरणम् –  
+यस्य पादे मगणभगणनगणाः, (ऽऽऽ.ऽ।।.।।।) तगणौ, (ऽऽ।.ऽऽ।) गकारौ च (ऽ.ऽ) तद्‌ 'मन्दक्रान्ता' नाम चतुर्षु षट्सु सप्तसु च यतिः । तत्रोदाहरणम् –  
 प्रत्यादि-ष्टं(४)सम-रशिर-सः(६)कान्दि-शीभूय न-ष्टं(७)  
 त्वं निःशे-षं(४)कुरु रिपुब-लं(६)मार्ग-मासाद्य स-द्यः (७) ।  
 किं नाश्रौ-षीः(४)परि-णतधि-यां(६)नीति-मार्गोप-दे-शं ?(७)  
@@ -8389,18 +8396,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे यगणमगणनगणसगणभगणलकारगकाराश्च (।ऽऽ.ऽऽऽ.।।।.।।ऽ.ऽ।।.।.ऽ) भवन्ति तद्वृत्तं ‘शिखरिणी’ नाम । षट्स्वेकादशसु च यतिः । तत्रोदाहरणम्‌-  
+यस्य पादे यगणमगणनगणसगणभगणलकारगकाराश्च (।ऽऽ.ऽऽऽ.।।।.।।ऽ.ऽ।।.।.ऽ) भवन्ति तद्वृत्तं 'शिखरिणी' नाम । षट्स्वेकादशसु च यतिः । तत्रोदाहरणम्‌-  
 यशःशे-षीभूते(६) जगतिः वरना-थे गुण-नि-धौ (११)  
 प्रवृत्ते वैराग्ये(६) विषय-रसनि-क्रान्तम-न-साम्‌ (११) |  
 इदानी-मस्माकं(६) घनत-रुलता-निर्झर-व-तीं (११)  
@@ -8422,18 +8429,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे मगणतगणनगणयगणा (ऽऽऽ.ऽऽ।.।।।.।ऽऽ) यगणौ (।ऽऽ.।ऽऽ) च तद्वृत्तं ‘कुसुमितलतावेल्लिता’ नाम । पञ्चसु, षट्सु, सप्तसु च यतिः । तत्रोदाहरणम्‌-  
+यस्य पादे मगणतगणनगणयगणा (ऽऽऽ.ऽऽ।.।।।.।ऽऽ) यगणौ (।ऽऽ.।ऽऽ) च तद्वृत्तं 'कुसुमितलतावेल्लिता' नाम । पञ्चसु, षट्सु, सप्तसु च यतिः । तत्रोदाहरणम्‌-  
 धन्याना-मताः(५)कु-सुमित-लता(६)वे-ल्लितोत्फु-ल्लवृक्षाः(७)  
 सोत्कण्ठं कूज(५)त्प-रभृत-कला(६)ला-पकोला-हलिन्यः(७) ।  
 मध्वादौ माद्य(५)न्म-धुकर-कलो(६)द्गी-तझङ्का-रसम्या (७)  
@@ -8455,18 +8462,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे मगणसगणौ (ऽऽऽ.।।ऽ) जगणसगणौ (।ऽ।.।।ऽ) तगणौ गकारश्च (ऽऽ।.ऽऽ।.ऽ), तद्वृत्तं ‘शार्दूलविक्रीडितं’ नाम । द्वादशभिः सप्तभिश्च यतिः। तत्रोदाहरणम् –  
+यस्य पादे मगणसगणौ (ऽऽऽ.।।ऽ) जगणसगणौ (।ऽ।.।।ऽ) तगणौ गकारश्च (ऽऽ।.ऽऽ।.ऽ), तद्वृत्तं 'शार्दूलविक्रीडितं' नाम । द्वादशभिः सप्तभिश्च यतिः। तत्रोदाहरणम् –  
 कम्बुग्री-वमुद-ग्रबाहु-शिखरं( १ २)रक्तान्त-दीर्घेक्ष-णं(७)  
 शालप्रां-शुशरी-रमाय-तभुजं( १ २)विस्तीर्ण-वक्षःस्थ-लम्‌ (७) ।  
 कीलस्क-न्धमनु-द्धतं प-रिजने(१२)गम्भीर-सत्यस्व-रं (७)  
@@ -8489,18 +8496,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे मगणरगणभगणनगणयगणभगणलकारगकारा (ऽऽऽ.ऽ।ऽ.ऽ।।.।।।.।ऽऽ.ऽ।।.।.ऽ) भवन्ति, तद्वृत्तं ‘सुवदनार’ नाम । सप्तसु सप्तसु षट्सु च यतिः । तत्रोदाहरणम्‌-  
+यस्य पादे मगणरगणभगणनगणयगणभगणलकारगकारा (ऽऽऽ.ऽ।ऽ.ऽ।।.।।।.।ऽऽ.ऽ।।.।.ऽ) भवन्ति, तद्वृत्तं 'सुवदनार' नाम । सप्तसु सप्तसु षट्सु च यतिः । तत्रोदाहरणम्‌-  
 या पीनो-द्गाढतु-ङ्ग(७)स्तन-जघन-घना(७)भो-गालस-ग-ति(६)-  
 र्यस्याः क-र्णावतं-सो(७)त्पल-रुचिज-यिनी(७)दी-र्घे च न-य-ने(६) ।  
 श्यामा सी-मन्तिनी-नां(७)तिल-कमिव मुखे(७)या च त्रिभु-व-ने (६)  
@@ -8522,18 +8529,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे गकारलकाराः (ऽ.।) क्रमेण भवन्ति, तद्‌ ‘वृत्तं’ नाम वृत्तम्‌ । कृतिप्रकरणेन यावद्भिरेव विंशत्यक्षराणि पूर्यन्ते, तावतां ग्लां ग्रहणम्‌ । तत्रोदाहरणम् –  
+यस्य पादे गकारलकाराः (ऽ.।) क्रमेण भवन्ति, तद्‌ 'वृत्तं' नाम वृत्तम्‌ । कृतिप्रकरणेन यावद्भिरेव विंशत्यक्षराणि पूर्यन्ते, तावतां ग्लां ग्रहणम्‌ । तत्रोदाहरणम् –  
 ज-न्तु-मा-त्र-दुः-ख-का-रि कर्म-नि-र्मि-तं भ-व-त्य-न-र्थ-हे-तु  
 ते-न स-र्व-मा-त्म-तु-ल्य-मी-क्ष-मा-ण उ-त्त-मं सु-खं ल-भ-स्व ।  
 वि-द्धि बु-द्धि-पूर्व-कं म-मो प-दे-श-वा-क्य-मे-त-दा-द-रे-ण  
@@ -8556,18 +8563,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे मगणरगणभगणनगणास्रयश्च यगणाः (ऽऽऽ.ऽ।ऽ.ऽ।।.।।।.।ऽऽ.।ऽऽ.।ऽऽ) तत्‌ ‘स्रग्धरा’ नाम वृत्तम्‌ | सप्तसु सप्तसु च यतिः । तत्रोदाहरणम्‌ –  
+यस्य पादे मगणरगणभगणनगणास्रयश्च यगणाः (ऽऽऽ.ऽ।ऽ.ऽ।।.।।।.।ऽऽ.।ऽऽ.।ऽऽ) तत्‌ 'स्रग्धरा' नाम वृत्तम्‌ | सप्तसु सप्तसु च यतिः । तत्रोदाहरणम्‌ –  
 रेखा-भ्रूः शुभ्रद-न्त(७)द्युति-हसित-शर(७)च्च-न्द्रिकाचा-रुमूर्ति  
 र्माद्यन्मा-तङ्गली-ला(७)गति-रतिवि-पुला(७)भो-गतुङ्ग-स्तनी या(७) ।  
 रम्भास्त-म्भोपमो-रू(७)रलि-मलिन-घन(७)स्नि-ग्धधम्मि-ल्लहस्ता (४)  
@@ -8589,18 +8596,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे भगणरगणौ, (ऽ।।.ऽ।ऽ) नगणरगण, (।।।.ऽ।ऽ) पुनर्नगणरगणौ (।।।.ऽ।ऽ) नगणो गकारश्च (।।।.ऽ) भवतस्तद्वृत्तं ‘मद्रकम्‌’ नाम । दशभिर्द्वादशभिश्च यतिः । तत्रोदाहरणम्‌-  
+यस्य पादे भगणरगणौ, (ऽ।।.ऽ।ऽ) नगणरगण, (।।।.ऽ।ऽ) पुनर्नगणरगणौ (।।।.ऽ।ऽ) नगणो गकारश्च (।।।.ऽ) भवतस्तद्वृत्तं 'मद्रकम्‌' नाम । दशभिर्द्वादशभिश्च यतिः । तत्रोदाहरणम्‌-  
 मद्रक-गीतिभिः सकृद-पि(१०)स्तुव-न्ति भव! ये भव-न्तमभ-वं (१२)  
 भक्तिभ-रावन-म्रशिर-सः(१०)प्रण-म्य तव पादयोः सुकृति-नः (१२) ।  
 ते पर-मेश्वर-स्य पद-वी(१०)मवा-प्य सुख-माप्नुव-न्ति विपु-लं  
@@ -8622,18 +8629,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे नगणजगणौ (।।।.।ऽ।) भगणजगणौ (ऽ।।.।ऽ।) पुनर्भगणजगणौ (ऽ।।.।ऽ।) भगणो (ऽ।।) लकारगकारौ (।.ऽ) च भवतः, तद्वृत्तम्‌ ‘अश्वललितम्‌’ नाम । एकादशभिर्द्वादशभिश्च यतिः । तत्रोदाहरणम्‌ -  
+यस्य पादे नगणजगणौ (।।।.।ऽ।) भगणजगणौ (ऽ।।.।ऽ।) पुनर्भगणजगणौ (ऽ।।.।ऽ।) भगणो (ऽ।।) लकारगकारौ (।.ऽ) च भवतः, तद्वृत्तम्‌ 'अश्वललितम्‌' नाम । एकादशभिर्द्वादशभिश्च यतिः । तत्रोदाहरणम्‌ -  
 पवन-विधूत-वीचि च-पलं(११)वि-लोकय-ति जीवि-तं तनु-भृ-तां(१२)  
 वपुर-पि हीय-मान म-निशं(११)ज-रावनि-तया व-शीकृत-मि-दम्‌ (१२)  
 सपदि निपीड-न व्यति-करं(११)य-मादिव नराधि-पान्नर-प-शुः(१२)  
@@ -8655,18 +8662,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे मगणौ, (ऽऽऽ.ऽऽऽ) तगणो, (।ऽऽ) नगणाश्चत्वारो (।।।.।।।.।।।.।।।) लकारगकारौ (।.ऽ) च तद्वृत्तं ‘मत्ताक्रीडा’ नाम | अष्टभिः पञ्चदशभिश्च यतिः।तत्रोदाहणम्‌-  
+यस्य पादे मगणौ, (ऽऽऽ.ऽऽऽ) तगणो, (।ऽऽ) नगणाश्चत्वारो (।।।.।।।.।।।.।।।) लकारगकारौ (।.ऽ) च तद्वृत्तं 'मत्ताक्रीडा' नाम | अष्टभिः पञ्चदशभिश्च यतिः।तत्रोदाहणम्‌-  
 हृद्यं म-द्यं पीत्वा नारी(८)स्ख-लितग-तिरति-शयर-सिकहृ-द-या(१५)  
 मत्ताक्री-डा लोलै-रङ्गै(८)र्मु-दमखि-लविट-जनम-नसि कु-रु-ते (१५) ।  
 वीतव्री-डाश्लीला-लापैः(८)श्र-वणसु-खसुभ-ग सुल-लितव-च ना (१५)  
@@ -8689,18 +8696,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे भगणतगणौ, (ऽ।।.ऽऽ।) नगणसगणौ; (।।।.।।ऽ) भगणौ (ऽ।।.ऽ।।) नगणयगणौ (।।।.।ऽऽ) च, तद्वृत्तं ‘तन्वी’ नाम | पञ्चसु, सप्तसु, द्वादशसु च यतिः । तत्रोदाहरणम् -  
+यस्य पादे भगणतगणौ, (ऽ।।.ऽऽ।) नगणसगणौ; (।।।.।।ऽ) भगणौ (ऽ।।.ऽ।।) नगणयगणौ (।।।.।ऽऽ) च, तद्वृत्तं 'तन्वी' नाम | पञ्चसु, सप्तसु, द्वादशसु च यतिः । तत्रोदाहरणम् -  
 चन्द्रमु-खी सु(५)न्द-रघन-जघना(७)कुन्दस-मानशि-खरद-शनाग्रा (१  
 निष्कल-वीणा(५)श्रु-तिसुख-वचना(७)त्रस्तकु-रङ्गत-रलन-यनान्ता (१२  
 निर्मुख-पीनो(५)न्न-तकुच-कलशा( ७)मत्तग-जेन्द्रल-लितग-मना च (१२)  
@@ -8722,24 +8729,24 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे भगणमगणौ, (ऽ।।.ऽऽऽ) सगणभगणौ, (।।ऽ.ऽ।।) नगणाश्चत्वारो (।।।.।।।.।।।.।।।) गकार(ऽ) श्च तद्वृतं ‘क्रौञ्चपदा’ नाम । पञ्चभिः, पञ्चभिः, अष्टभिः, सप्तभिश्च यतिः । तत्रोदाहरणम्‌-  
+यस्य पादे भगणमगणौ, (ऽ।।.ऽऽऽ) सगणभगणौ, (।।ऽ.ऽ।।) नगणाश्चत्वारो (।।।.।।।.।।।.।।।) गकार(ऽ) श्च तद्वृतं 'क्रौञ्चपदा' नाम । पञ्चभिः, पञ्चभिः, अष्टभिः, सप्तभिश्च यतिः । तत्रोदाहरणम्‌-  
 या कपि-लाक्षी(५)पि-ङ्गलके-शी(५)कलि-  
-रुचिर-नुदिन(८ )मनुन-यकठि--ना(७) ।  
+रुचिर-नुदिन(८ )मनुन-यकठि—ना(७) ।  
 दीर्घत-राभिः(५)स्थू-लशिरा-भिः( ५ )परि-  
-वृतव-पुरति(८)शयकु-टिलग--तिः (७) ॥  
+वृतव-पुरति(८)शयकु-टिलग—तिः (७) ॥  
 आयत-जङ्घा(५)नि-म्नकपो-ला(५)लघु-  
-तरकु-चयुग(८)परिचि-तहृद--या(७)  
+तरकु-चयुग(८)परिचि-तहृद—या(७)  
 सा परि-हार्या(५)क्रौ-ञ्चपदा स्त्री(५)ध्रुव-  
 मिह नि-रवधि(८)सुखम-भिलष-ता (७) ॥  
 
@@ -8760,18 +8767,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे मगणौ (ऽऽऽ.ऽऽऽ) तगणनगणौ (ऽऽ।.।।।) नगणौ (।।।.।।।) रगणसगणौ (ऽ।ऽ.।।ऽ) लकारगकारौ (।.ऽ) च तद्वृत्तं ‘भुजङ्गविजृम्भितम्‌’ नाम । अष्टभिरेकादशभिः सप्तभिश्च यतिः । तत्रोदाहरणम्‌-  
+यस्य पादे मगणौ (ऽऽऽ.ऽऽऽ) तगणनगणौ (ऽऽ।.।।।) नगणौ (।।।.।।।) रगणसगणौ (ऽ।ऽ.।।ऽ) लकारगकारौ (।.ऽ) च तद्वृत्तं 'भुजङ्गविजृम्भितम्‌' नाम । अष्टभिरेकादशभिः सप्तभिश्च यतिः । तत्रोदाहरणम्‌-  
 ये संन-द्धानेका-नीकै(८)र्न-रतुर  
 गकरि-परिवृ-तैः( १ १)समं-तव श-त्र-वो (७)  
 युद्धश्र-द्धालुब्धा-त्मान(८ )स्त्वं-दभिमु-  
@@ -8806,18 +8813,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे मगणः, (ऽऽऽ) नगणाः षट्, (।।।.।।।.।।।.।।।.।।।.।।।) सगणो, (।।ऽ) गकारौ (ऽ.ऽ) तद्वृत्तं ‘अपवाहको’ नाम । नवसु, षट्सु, षट्सु, पञ्चसु च यतिः । तत्रोदाहरणम्‌-  
+यस्य पादे मगणः, (ऽऽऽ) नगणाः षट्, (।।।.।।।.।।।.।।।.।।।.।।।) सगणो, (।।ऽ) गकारौ (ऽ.ऽ) तद्वृत्तं 'अपवाहको' नाम । नवसु, षट्सु, षट्सु, पञ्चसु च यतिः । तत्रोदाहरणम्‌-  
 श्रीकण्ठं त्रिपुर-दहन(९)ममृत-किरण(६)-  
 शकल-ललित(६)शिरसं रु-द्रं(५)  
 भूतेशं हतमु-निमख(९)मखिल-भुवन (६)  
@@ -8844,11 +8851,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -8857,13 +8864,13 @@ details.mUla[open] > :not(summary) {
 
 यत्र पादे द्वौ नगणौ (।।।.।।।) रगणाश्च सप्त (ऽ।ऽ.ऽ।ऽ.ऽ।ऽ.ऽ।ऽ.ऽ।ऽ.ऽ।ऽ.ऽ।ऽ) भवन्ति, दण्डको नाम सः । उत्कृतेः षड्विंशत्यक्षरायाः समनन्तरं दण्डकस्य पाठात्सप्त विंशत्यक्षरत्वमेव युक्तम्‌; सर्वेषां छन्दसामेकैकाक्षरवृध्द्या प्रवृत्तेः । इत ऊर्ध्वं पुनरेकैकरेफवृध्द्या प्रस्तारः । दण्डको नौ र इति श्रवणात्‌ । । तत्रोदाहरणम्‌ —  
 इह हि भवति दण्डका-रण्यदे-शे स्थिति  
-पुण्यभा--जां मुनी--नां मनो-हारिणी  
+पुण्यभा—जां मुनी—नां मनो-हारिणी  
 त्रिदश-विजयि-वीर्य दृ-प्यद्दश-ग्रीवल  
-क्ष्मीविरा--मेण रा--मेण संसेविते ।  
-जनक-यजन-भूमिसं--भूतसी-मन्तिनी  
-सीमसी--तापद--स्पर्शपू--ताश्रमे  
+क्ष्मीविरा—मेण रा—मेण संसेविते ।  
+जनक-यजन-भूमिसं—भूतसी-मन्तिनी  
+सीमसी—तापद—स्पर्शपू—ताश्रमे  
 भुवन-नमित-पादप-द्माभिधा-नाम्बिका  
-तीर्थया--त्रा गता--नेकसि--द्धाकुले ॥ अत्र पादान्ते यतिः ।  
+तीर्थया—त्रा गता—नेकसि—द्धाकुले ॥ अत्र पादान्ते यतिः ।  
 </details>
 
 
@@ -8881,11 +8888,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -8910,11 +8917,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -8939,11 +8946,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
@@ -8954,7 +8961,7 @@ details.mUla[open] > :not(summary) {
 ताभिधा-नो मुनेः पिङ्गला-चार्यना-म्नो मतः  
 प्रचित-इति त-तः परं दण्डका-नामियं  
 जातिरे-कैकरे-फाभिवृ-ध्द्या यथे-ष्टं भवेत्‌ ।  
-स्वरुचि--रचित--संज्ञया तद्विशे--षैरशे  
+स्वरुचि—रचित—संज्ञया तद्विशे—षैरशे  
 षैः पुनः काव्यम-न्येऽपि कु-र्वन्तु वा-गीश्वराः  
 भवति यदि स-मानसं-ख्याक्षरै-र्यत्र पा  
 दव्यव-स्था ततो दण्डकः पूज्यते-ऽसो जनैः ।।  
@@ -8977,11 +8984,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -9006,18 +9013,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे भगणतगणौ (ऽ।।.ऽऽ।) नगणो (।।।) गकारौ (ऽ.ऽ) च भवतस्तद्वृत्तं ‘कुड्मलदन्ती’ नाम (११।३९७) । पञ्चभिः षड्भिश्च यतिः । तत्रोदाहरणम्‌-  
+यस्य पादे भगणतगणौ (ऽ।।.ऽऽ।) नगणो (।।।) गकारौ (ऽ.ऽ) च भवतस्तद्वृत्तं 'कुड्मलदन्ती' नाम (११।३९७) । पञ्चभिः षड्भिश्च यतिः । तत्रोदाहरणम्‌-  
 कुड्मल-दन्ती(५)वि-कटनि-त-म्बा (६)  
 किन्नर-कण्ठी(५)ल-घुतर-म-ध्या(६)  
 बिम्बफ-लोष्ठी(५)मृ-गशिशु-ने-त्रा(६)  
@@ -9039,18 +9046,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे नगणजगणौ (।।।.।ऽ।) जगणरगणौ (।ऽ।.ऽ।ऽ) च तद्वृत्त ‘वरतनु’र्नाम (१२।१३९२)। षड्भिः षड्भिश्च यतिः । तत्रोदाहरणम् —  
+यस्य पादे नगणजगणौ (।।।.।ऽ।) जगणरगणौ (।ऽ।.ऽ।ऽ) च तद्वृत्त 'वरतनु'र्नाम (१२।१३९२)। षड्भिः षड्भिश्च यतिः । तत्रोदाहरणम् —  
 अयि! वि-जहीहि(६) दृढोप-गूहनं (६)  
 त्यज न-वसङ्ग(६)-मभीरु!वल्लभम्‌ (६)  
 अरुण-करोद्ग(६)-म एष वर्तते (६)  
@@ -9072,18 +9079,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे मगणभगणौ (ऽऽऽ.ऽ।।) सगणमगणौ (।।ऽ.ऽऽऽ) च भवतस्तद्वृत्तं ‘जलधरमाला' नाम (१२।२४१) । चतुर्भिरष्टभिश्च यतिः । तत्रोदाहरणम् —  
+यस्य पादे मगणभगणौ (ऽऽऽ.ऽ।।) सगणमगणौ (।।ऽ.ऽऽऽ) च भवतस्तद्वृत्तं 'जलधरमाला' नाम (१२।२४१) । चतुर्भिरष्टभिश्च यतिः । तत्रोदाहरणम् —  
 धत्ते शो-भां (४)कुव-लयदा-मश्यामा(८)  
 शैलोत्स-ङ्गे (४)जल-धरमा-ला लीना(८)  
 विद्युल्ले-खा(४)कन-ककृता-लङ्कारा(८)  
@@ -9105,18 +9112,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे नगणौ (।।।.।।।) रगणौ (ऽ।ऽ.ऽ।ऽ) च भवतस्तद्वृत्तं 'गौरी’ नामेति गाथा (१२।१२१६) । पादान्ते यतिः । तत्रोदाहरणम्‌ —  
+यस्य पादे नगणौ (।।।.।।।) रगणौ (ऽ।ऽ.ऽ।ऽ) च भवतस्तद्वृत्तं 'गौरी' नामेति गाथा (१२।१२१६) । पादान्ते यतिः । तत्रोदाहरणम्‌ —  
 प्रणम-त चर-णारवि-न्दद्वयं त्रिभुव-ननमि-तस्य गौ-रीपतेः ।  
 सकृद-पि मन-सैव यः सेवितः प्रवित-रति य-थेष्टम-ष्टौ गुणान्‌ ॥  
 इयमेव गौरी दण्डकात्पूर्वमेकैकरेफवृध्द्या नामान्तराणि लभते ।  
@@ -9137,18 +9144,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे भगणतगणौ (ऽ।।.ऽऽ।) नगणसगणौ (।।।.।।ऽ) च भवतस्तद्व्त ‘ललना’ नाम गाथा (१२।१९२३)। पञ्चभिः सप्तभिश्च यतिः । तत्रोदाहरणम्‌-  
+यस्य पादे भगणतगणौ (ऽ।।.ऽऽ।) नगणसगणौ (।।।.।।ऽ) च भवतस्तद्व्त 'ललना' नाम गाथा (१२।१९२३)। पञ्चभिः सप्तभिश्च यतिः । तत्रोदाहरणम्‌-  
 या कुच-गुर्वी(५)मृ-गशिशु-नयना(७)  
 पीननि-तम्बा(५)म-दकरि-गमना( ७)  
 किन्नर-कण्ठी(५)सु-रुचिर-दशना(७)  
@@ -9170,18 +9177,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे सगणजगणौ (।।ऽ.।ऽ।) पुनः सगणजगणौ (।।ऽ.।ऽ। ) गकारश्च (ऽ) तद्वृत्तं ‘कनकप्रभा’ नाम गाथा (१३।२७९६) । पादान्ते यतिः । तत्रोदाहरणम्‌ —  
+यस्य पादे सगणजगणौ (।।ऽ.।ऽ।) पुनः सगणजगणौ (।।ऽ.।ऽ। ) गकारश्च (ऽ) तद्वृत्तं 'कनकप्रभा' नाम गाथा (१३।२७९६) । पादान्ते यतिः । तत्रोदाहरणम्‌ —  
 कनक-प्रभा पृथुनित-म्बशालि-नी  
 विपुल-स्तनी ह-रिणशा-वकेक्ष-णा ।  
 इयम-ङ्गना न-यनयोः पथि स्थि-ता  
@@ -9203,11 +9210,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -9236,18 +9243,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे भगणजगणसगणनगणा (ऽ।।.।ऽ।.।।ऽ.।।।) गकासै (ऽ.ऽ) च भवतस्तद्वृतं ‘वरसुन्दरी' नाम गाथा (१४।३८ २३) । पादान्ते यतिः । तत्रोदाहरणम् —  
+यस्य पादे भगणजगणसगणनगणा (ऽ।।.।ऽ।.।।ऽ.।।।) गकासै (ऽ.ऽ) च भवतस्तद्वृतं 'वरसुन्दरी' नाम गाथा (१४।३८ २३) । पादान्ते यतिः । तत्रोदाहरणम् —  
 स्वादुशि-शिरोज्ज्व-लसुग-न्धिजल-पू-र्णं  
 वीचिच-यचञ्च-लविचि-त्रशत-प-त्रम्‌ ।  
 हंसक-लकूजि-त मनो-हरत-टा-न्तं  
@@ -9269,11 +9276,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -9301,11 +9308,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -9315,7 +9322,7 @@ details.mUla[open] > :not(summary) {
 यस्य पादे भगणरगणौ (ऽ।।.ऽ।ऽ) नगणभगणौ (।।।.ऽ।।) भगणो (ऽ।।) गकार(ऽ)श्च भवति तद्वृत्तं शैलशिखा' नाम गाथा (१६।२८११९ ) ॥ पञ्चभिः षड्भिः पञ्चभिश्च यतिः । क्वचित्‌ पादान्ते यतिं पठन्ति । तत्रोदाहरणम् —  
 शैलशि-खानि(५)कु-ञ्जशयि-तस्य(६)ह-रेः श्रव-णे(५  
 जीर्णतृणं क(५)रे-ण निद-धाति(६)क-पिश्चप-लः(५) ।  
-क्षुद्रव-धाप(५)वा--दपरि-हार(६ )वि-नीतम-ते( ५)  
+क्षुद्रव-धाप(५)वा—दपरि-हार(६ )वि-नीतम-ते( ५)  
 स्तस्य न ताव(५)तैव लघु-ता द्वि (६)प-यूथभि-दः(५) ॥  
 </details>
 
@@ -9334,18 +9341,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे भगणरगणौ (ऽ।।.ऽ।ऽ) यगणनगणौ (।ऽऽ.।।।) नगणो (।।।) गकारश्च (श्च) भवति, तद्वृत्तं ‘वरयुवती' नाम गाथा (१६।३२३४३) । पादान्ते यतिः । तत्रोदाहरणम् —  
+यस्य पादे भगणरगणौ (ऽ।।.ऽ।ऽ) यगणनगणौ (।ऽऽ.।।।) नगणो (।।।) गकारश्च (श्च) भवति, तद्वृत्तं 'वरयुवती' नाम गाथा (१६।३२३४३) । पादान्ते यतिः । तत्रोदाहरणम् —  
 कुञ्जर-कुम्भपी-ठ-पीनो-न्नतकु-चयुग-ला  
 पार्वण-शर्वरी-शगर्वा-पहमु-खकम-ला  
 पीननि-तम्बबि-म्बसंवा-हनशि-थिलग-ति  
@@ -9367,18 +9374,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे सगणौ (।।ऽ.।।ऽ) जगणभगणौ (।ऽ।.ऽ।।) जगणो (।ऽ।)) गकारौ (ऽ.ऽ) च भवतस्तद्वृत्तं 'अतिशायिनी” नाम गाथा (१७।२३९००)। दशभिः सप्तभिश्च यतिः । तत्रोदाहरणम्‌-  
+यस्य पादे सगणौ (।।ऽ.।।ऽ) जगणभगणौ (।ऽ।.ऽ।।) जगणो (।ऽ।)) गकारौ (ऽ.ऽ) च भवतस्तद्वृत्तं 'अतिशायिनी' नाम गाथा (१७।२३९००)। दशभिः सप्तभिश्च यतिः । तत्रोदाहरणम्‌-  
 इति-धौ-तपुर-न्ध्रिमत्स-रा(१०)न्सर-सि मज्ज-ने-न(७)  
 श्रियमाप्तवतो-ऽतिशायिनी( १०)मप-मलाङ्ग-भा-सः(७) ।  
 अवलो-क्य तदै-व याद-वा(१०)नप-रवारि-रा-शेः(७) शिशिरे-तररो-चिषाप्य-पां(१०)तति-षु मङ्क्तु-मी-षे (७) ॥  
@@ -9399,22 +9406,22 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे नगणजगणौ (।।।.।ऽ।) भगणजगणौ (ऽ।।.।ऽ।) जगणलकारौ (।ऽ।.।) गकारश्च (ऽ) भवति तद्वृत्तम्‌ ‘अवितथम्‌' नाम गाथा (१७।६११४०) भवति । यतिः. पादान्ते । तत्रोदाहरणम्-  
-श्रुतिप--रिपूत--वक्रम--तिसुन्द--रवाग्वि--भ-वं  
-तमखि--लजैमि---नीयम--तसाग--रपार--ग-तम्‌ ।  
-अवित- थवृत्त--विप्रज--नपूजि--तपाद--यु-गं  
-पितर-महं नमामि ब--हुरूप--मुदार--म-तिम्‌ ॥ 
+यस्य पादे नगणजगणौ (।।।.।ऽ।) भगणजगणौ (ऽ।।.।ऽ।) जगणलकारौ (।ऽ।.।) गकारश्च (ऽ) भवति तद्वृत्तम्‌ 'अवितथम्‌' नाम गाथा (१७।६११४०) भवति । यतिः. पादान्ते । तत्रोदाहरणम्-  
+श्रुतिप—रिपूत—वक्रम—तिसुन्द—रवाग्वि—भ-वं  
+तमखि—लजैमि—-नीयम—तसाग—रपार—ग-तम्‌ ।  
+अवित- थवृत्त—विप्रज—नपूजि—तपाद—यु-गं  
+पितर-महं नमामि ब—हुरूप—मुदार—म-तिम्‌ ॥ 
 </details>
 
 
@@ -9432,11 +9439,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -9465,21 +9472,21 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे रगणसगणौ (ऽ।ऽ.।।ऽ) जगणौ (।ऽ।.।ऽ।) भगणरगणौ (ऽ।।.ऽ।ऽ) च भवतस्तद्वृत्तं ‘विबुधप्रिया' नाम गाथा (१८।९३०१९) भवति । अष्टभिर्दशभिश्च यतिः । तत्रोदाहरणम्‌-  
+यस्य पादे रगणसगणौ (ऽ।ऽ.।।ऽ) जगणौ (।ऽ।.।ऽ।) भगणरगणौ (ऽ।।.ऽ।ऽ) च भवतस्तद्वृत्तं 'विबुधप्रिया' नाम गाथा (१८।९३०१९) भवति । अष्टभिर्दशभिश्च यतिः । तत्रोदाहरणम्‌-  
 कुन्दकुड्मलकोमल(८)द्युति दन्तपङ्क्तिविराजिता (१०)  
-हंसग- द्वदवा--दिनी(८)व-निता भवेद्विबु-धप्रिया (१०) ।  
-पीनतु- ङ्गपयो धर(८)द्वयभार--मन्धर--गामिनी(१०) । नेत्रका-न्तिविनि-र्जित(८)श्र-वणाव--तंसित-कैरवा(१०) 
+हंसग- द्वदवा—दिनी(८)व-निता भवेद्विबु-धप्रिया (१०) ।  
+पीनतु- ङ्गपयो धर(८)द्वयभार—मन्धर—गामिनी(१०) । नेत्रका-न्तिविनि-र्जित(८)श्र-वणाव—तंसित-कैरवा(१०) 
 </details>
 
 
@@ -9497,11 +9504,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -9530,11 +9537,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -9562,18 +9569,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-यस्य पादे नगणजगणौ (।।।.।ऽ।) भगणो (ऽ।।) जगणास्त्रयो (।ऽ।.।ऽ।.।ऽ।) रगणश्च (ऽ।ऽ) भवति, तद्वृत्तं ‘शशिवदना' नाम गाथा (२१।५४११६००) एकादशभिर्दशभिश्च यतिः । 'पञ्चकावली'ति केचित्‌ । तत्रोदाहरणम्‌-  
+यस्य पादे नगणजगणौ (।।।.।ऽ।) भगणो (ऽ।।) जगणास्त्रयो (।ऽ।.।ऽ।.।ऽ।) रगणश्च (ऽ।ऽ) भवति, तद्वृत्तं 'शशिवदना' नाम गाथा (२१।५४११६००) एकादशभिर्दशभिश्च यतिः । 'पञ्चकावली'ति केचित्‌ । तत्रोदाहरणम्‌-  
 तुरगशताकुलस्य परितः( १ १)परमेकतुरङ्गजन्मनः(१०) प्रमथितभूभृतः प्रतिपथं(११)मथितस्य भृशं महीभृता( १९)  
 परिचलतो बलानुजबल(११)स्य पुरः सततं धुतश्रिय(१०)  
 श्चिरविगतश्रियो जलनिधे(११)श्च तदाभवदन्तरं महत्‌ (१०) ॥ (शि०व० ३।८२)  
@@ -9596,18 +9603,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-उपरिष्टाद्‌ गकारं लिखित्वाधस्ताल्लकारं विन्यसेदित्येकाक्षरप्रस्तारः । तस्य द्विकत्वाद्‌ द्वौ ग्लौ द्विकौ स्थापयेत्‌ । द्वे आवृत्ती प्रमाणमनयोरिति द्विकौ । ‘संख्याया अतिशदन्तायाःकन्‌’ (पाणि०५।१।२२) इति कन्प्रत्ययः । ततश्च गकारं ततोऽधस्ताल्लकारं लिखित्वा विस्पष्टार्थमधस्तिर्यग्रेखां दद्यात्‌ । अधस्ताच्च पूर्ववद्‌ गकारलकारौ स्थापयेत्‌ ॥  
+उपरिष्टाद्‌ गकारं लिखित्वाधस्ताल्लकारं विन्यसेदित्येकाक्षरप्रस्तारः । तस्य द्विकत्वाद्‌ द्वौ ग्लौ द्विकौ स्थापयेत्‌ । द्वे आवृत्ती प्रमाणमनयोरिति द्विकौ । 'संख्याया अतिशदन्तायाःकन्‌' (पाणि०५।१।२२) इति कन्प्रत्ययः । ततश्च गकारं ततोऽधस्ताल्लकारं लिखित्वा विस्पष्टार्थमधस्तिर्यग्रेखां दद्यात्‌ । अधस्ताच्च पूर्ववद्‌ गकारलकारौ स्थापयेत्‌ ॥  
 </details>
 
 
@@ -9625,18 +9632,18 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-अनेन द्वितीयाक्षरप्रस्तारं दर्शयति । चकारः पूर्वप्रस्तारसमुच्चयार्थः । द्विकौ ग्लौ स्थापयित्वा अनन्तरं द्वितीयस्थानेषु मिश्रौ ग्लौ विन्यसेत्‌ । गकारो गकारेण संश्लिष्टो मिश्र उच्यते, लकारश्च लकारेण । मिश्राविति गकारलकाराभ्यां प्रत्येकमभिसम्बध्यते । ‘द्वन्द्वात्परो यः श्रूयत’ इति न्यायात्‌ । ततश्च प्रथमायामावृत्तौ गकारौ मिश्रौ स्थापयेत्‌ । द्वितीयायां लकाराविति । ततो मध्ये लेखामपनयेत्‌ । एवं चतुःप्रकारो द्यक्षरप्रस्तारो भवति । तद्यथा—गौ ल्गौ ग्लौ लाविति ॥  
+अनेन द्वितीयाक्षरप्रस्तारं दर्शयति । चकारः पूर्वप्रस्तारसमुच्चयार्थः । द्विकौ ग्लौ स्थापयित्वा अनन्तरं द्वितीयस्थानेषु मिश्रौ ग्लौ विन्यसेत्‌ । गकारो गकारेण संश्लिष्टो मिश्र उच्यते, लकारश्च लकारेण । मिश्राविति गकारलकाराभ्यां प्रत्येकमभिसम्बध्यते । 'द्वन्द्वात्परो यः श्रूयत' इति न्यायात्‌ । ततश्च प्रथमायामावृत्तौ गकारौ मिश्रौ स्थापयेत्‌ । द्वितीयायां लकाराविति । ततो मध्ये लेखामपनयेत्‌ । एवं चतुःप्रकारो द्यक्षरप्रस्तारो भवति । तद्यथा—गौ ल्गौ ग्लौ लाविति ॥  
 </details>
 
 
@@ -9654,11 +9661,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 वृत्तम्, लौकिकम्, [छन्दः](#21), [ग्लौ](#114)  
 </details>
@@ -9683,11 +9690,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
@@ -9711,11 +9718,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
@@ -9739,11 +9746,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
@@ -9767,11 +9774,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
@@ -9795,11 +9802,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
@@ -9822,11 +9829,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
@@ -9850,11 +9857,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
@@ -9878,11 +9885,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
@@ -9906,11 +9913,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
@@ -9934,11 +9941,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
@@ -9963,17 +9970,17 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
 <details><summary>हलायुधवृत्तिः</summary>
 
-इति सूत्रमधिकं पठ्यते वैदिकैः, अनुवादोऽप्यस्याग्निपुराणे दृश्यते (३३५।४) 'अध्वाङ्गुलमधोऽर्धतः । सङ्ख्यैव द्विगुणैकोना’ इति । एतदभावे च षट्प्रत्ययपूर्तिरपि न भवति, अध्वप्रत्ययाभावात्‌ । न चासावत्रोपेक्षित एवेति साम्प्रतम्‌, शास्त्रवैकल्यापत्तेः; 'षण्मात्रमुवाच पिङ्गलः सूत्रम्‌ ।....परत्ययहेतोः स्वशास्रादौ ॥ इति परिभाषासाङ्गत्यापत्तेश्च । अतः सम्प्रदायशुद्धमावश्यकं चैतत्सूत्रम्‌ । हलायुधेनाव्याख्यानं त्वनुपलब्धत्वादेवेति 'षष्ठप्रत्ययोऽपि' इत्यादितल्लेखादेव व्यक्तम् ।  
+इति सूत्रमधिकं पठ्यते वैदिकैः, अनुवादोऽप्यस्याग्निपुराणे दृश्यते (३३५।४) 'अध्वाङ्गुलमधोऽर्धतः । सङ्ख्यैव द्विगुणैकोना' इति । एतदभावे च षट्प्रत्ययपूर्तिरपि न भवति, अध्वप्रत्ययाभावात्‌ । न चासावत्रोपेक्षित एवेति साम्प्रतम्‌, शास्त्रवैकल्यापत्तेः; 'षण्मात्रमुवाच पिङ्गलः सूत्रम्‌ ।....परत्ययहेतोः स्वशास्रादौ ॥ इति परिभाषासाङ्गत्यापत्तेश्च । अतः सम्प्रदायशुद्धमावश्यकं चैतत्सूत्रम्‌ । हलायुधेनाव्याख्यानं त्वनुपलब्धत्वादेवेति 'षष्ठप्रत्ययोऽपि' इत्यादितल्लेखादेव व्यक्तम् ।  
 </details>
 
 
@@ -9991,11 +9998,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
@@ -10019,11 +10026,11 @@ details.mUla[open] > :not(summary) {
 
 </details>
 
-<details class="anuvRtti"><summary>अनुवृत्तिः</summary>
+<details class="anuvRtti" open><summary>अनुवृत्तिः</summary>
 
 </details>
 
-<details><summary>अधिकारः</summary>
+<details open><summary>अधिकारः</summary>
 
 </details>
 
